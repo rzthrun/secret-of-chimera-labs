@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:89952b719d2f54c701a7ba64c845dc28:c0a3c1da54ad74fb74d9cc5354c73963:e5d28b8b75fb26917a3d51d76838d2d7$ -->
+<TextureAtlas imagePath="ComputerBook_Sprite_01.png">
+    <SubTexture name="computer_book_page_00" x="2" y="2" width="346" height="504" frameX="-227" frameY="-4" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="computer_book_page_01" x="350" y="2" width="685" height="501" frameX="-59" frameY="-2" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="computer_book_page_02" x="1037" y="2" width="685" height="501" frameX="-59" frameY="-2" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

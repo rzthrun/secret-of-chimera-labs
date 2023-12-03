@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a3017317056fd29c21d70a585d474883:1b88c7dad7d142734a67e5353014f290:0f37e923d749f3cb8cc91086937d6e92$ -->
+<TextureAtlas imagePath="RocketRoomComputerDesk_Sprite_02.png">
+    <SubTexture name="electric_bottom" x="2" y="84" width="136" height="81"/>
+    <SubTexture name="electric_top" x="2" y="2" width="137" height="80"/>
+</TextureAtlas>

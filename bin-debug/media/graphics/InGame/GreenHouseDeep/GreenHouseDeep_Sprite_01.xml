@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e10acdc7fbb89ca5ee80a714aac66edd:9df7ae949fa3844c6a4bbb4d6d519421:391277967c27f2fe8ae126f6a7879880$ -->
+<TextureAtlas imagePath="GreenHouseDeep_Sprite_01.png">
+    <SubTexture name="bulb_closed" x="2" y="210" width="147" height="164"/>
+    <SubTexture name="bulb_open" x="2" y="2" width="220" height="206"/>
+    <SubTexture name="bulb_orb" x="218" y="365" width="85" height="85"/>
+    <SubTexture name="shelf_book" x="151" y="314" width="55" height="58"/>
+    <SubTexture name="shelf_fridge_closed" x="44" y="376" width="45" height="105"/>
+    <SubTexture name="shelf_fridge_open" x="91" y="376" width="60" height="102"/>
+    <SubTexture name="shelf_left_off" x="2" y="376" width="40" height="109"/>
+    <SubTexture name="shelf_left_on" x="151" y="210" width="53" height="102"/>
+    <SubTexture name="shelf_right_off" x="153" y="374" width="63" height="86"/>
+    <SubTexture name="shelf_right_on" x="206" y="210" width="43" height="93"/>
+    <SubTexture name="shelf_stone" x="224" y="2" width="77" height="80"/>
+    <SubTexture name="shelf_vial" x="208" y="305" width="28" height="58"/>
+</TextureAtlas>

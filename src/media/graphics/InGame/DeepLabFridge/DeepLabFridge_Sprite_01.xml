@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0e7eded65964badb00039644b032498b:f376db107a7b0fbcceefcdb0b59ac9f2:ef6cbb214a5ab32e621dfc56f76edff2$ -->
+<TextureAtlas imagePath="DeepLabFridge_Sprite_01.png">
+    <SubTexture name="book" x="100" y="372" width="77" height="91"/>
+    <SubTexture name="dnaCan" x="440" y="336" width="65" height="99"/>
+    <SubTexture name="door_00_close" x="403" y="171" width="101" height="163"/>
+    <SubTexture name="door_00_open" x="260" y="228" width="91" height="167" frameX="0" frameY="0" frameWidth="95" frameHeight="167"/>
+    <SubTexture name="door_01_close" x="142" y="195" width="116" height="175"/>
+    <SubTexture name="door_01_open" x="353" y="336" width="85" height="181"/>
+    <SubTexture name="door_02_close" x="142" y="2" width="138" height="191"/>
+    <SubTexture name="door_02_open" x="440" y="437" width="64" height="199"/>
+    <SubTexture name="door_03_close" x="406" y="2" width="102" height="167"/>
+    <SubTexture name="door_03_open" x="2" y="388" width="56" height="172"/>
+    <SubTexture name="door_04_close" x="282" y="47" width="119" height="179"/>
+    <SubTexture name="door_04_open" x="179" y="372" width="61" height="185"/>
+    <SubTexture name="door_05_close" x="2" y="2" width="138" height="194"/>
+    <SubTexture name="door_05_open" x="2" y="198" width="96" height="188"/>
+    <SubTexture name="injector" x="282" y="2" width="122" height="43"/>
+    <SubTexture name="stone" x="242" y="397" width="56" height="121"/>
+</TextureAtlas>

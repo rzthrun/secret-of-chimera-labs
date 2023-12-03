@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8f6d39c1aafc1b1b51c358b71a46d725:316217d090be11970ba046e7422f21cd:dc3c34956c1bafbd30b1e09d54a5c048$ -->
+<TextureAtlas imagePath="IntroSequence_spriteSheet_02.png">
+    <SubTexture name="eng_text_00" x="1122" y="240" width="618" height="250" frameX="-28" frameY="-92" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="eng_text_01" x="450" y="2" width="670" height="288" frameX="-27" frameY="-77" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="eng_text_02" x="1122" y="2" width="676" height="236" frameX="-34" frameY="-76" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="eng_text_03" x="2" y="2" width="446" height="402" frameX="-28" frameY="-30" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="eng_text_04" x="2" y="406" width="428" height="94" frameX="-344" frameY="-392" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

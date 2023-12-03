@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3cc4169fdfae5446cb55b1b5ce62b47b:d3f8152c42901751bff86b51f27908b6:9ab37384a09b2a345a9fcae4761e9799$ -->
+<TextureAtlas imagePath="RocketRoomSat_Sprite_01.png">
+    <SubTexture name="cover" x="2" y="2" width="282" height="335"/>
+    <SubTexture name="meltorb" x="286" y="2" width="128" height="126"/>
+    <SubTexture name="orb" x="416" y="2" width="76" height="84"/>
+    <SubTexture name="side_cover" x="286" y="130" width="128" height="83"/>
+    <SubTexture name="smoke" x="2" y="339" width="251" height="215"/>
+</TextureAtlas>

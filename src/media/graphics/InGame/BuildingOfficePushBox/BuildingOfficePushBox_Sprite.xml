@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:18bc5128a22d45787a0f3b6503b2063f:9a5dc3cfef62d5892ce358125187a92e:f8da1f5f9d56233b967096c4bb98236a$ -->
+<TextureAtlas imagePath="BuildingOfficePushBox_Sprite.png">
+    <SubTexture name="lights" x="2" y="457" width="273" height="433"/>
+    <SubTexture name="pos_00_lit" x="120" y="892" width="116" height="124"/>
+    <SubTexture name="pos_01_lit" x="327" y="259" width="119" height="125"/>
+    <SubTexture name="pos_02_lit" x="327" y="386" width="116" height="128"/>
+    <SubTexture name="pos_03_lit" x="327" y="2" width="120" height="128"/>
+    <SubTexture name="pos_04_lit" x="2" y="892" width="116" height="125"/>
+    <SubTexture name="pos_05_lit" x="327" y="132" width="120" height="125"/>
+    <SubTexture name="push_box" x="2" y="2" width="323" height="453"/>
+</TextureAtlas>

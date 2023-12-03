@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:eb6c002a0a72da7de759caee3fb0a769:7e6d96689bbb3f5cad22d95333556fb4:d59ca4994e324d87972b731397b29d38$ -->
+<TextureAtlas imagePath="LobbyDesk_Sprite_02.png">
+    <SubTexture name="waves" x="2" y="2" width="681" height="400"/>
+</TextureAtlas>

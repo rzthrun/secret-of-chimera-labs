@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:153bf01222f9133cbaa98252c72d2540:aca4c8f422288b98361cb5ad0e43dad0:f3e881f743eb53e4fc48b52c27225172$ -->
+<TextureAtlas imagePath="ElectricBoxSmall_Sprite_01.png">
+    <SubTexture name="finish_lit" x="230" y="2" width="16" height="27"/>
+    <SubTexture name="off_bend" x="2" y="344" width="104" height="112" frameX="-8" frameY="0" frameWidth="112" frameHeight="112"/>
+    <SubTexture name="off_end" x="116" y="116" width="112" height="112"/>
+    <SubTexture name="off_straight" x="112" y="230" width="106" height="112" frameX="-5" frameY="0" frameWidth="112" frameHeight="112"/>
+    <SubTexture name="off_three" x="2" y="116" width="112" height="112"/>
+    <SubTexture name="on_bend" x="116" y="2" width="112" height="112"/>
+    <SubTexture name="on_end" x="2" y="2" width="112" height="112"/>
+    <SubTexture name="on_straight" x="108" y="344" width="86" height="112" frameX="-12" frameY="0" frameWidth="112" frameHeight="112"/>
+    <SubTexture name="on_three" x="2" y="230" width="108" height="112" frameX="-4" frameY="0" frameWidth="112" frameHeight="112"/>
+</TextureAtlas>

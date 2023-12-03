@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ab00ad847eedbbc1de00fc447e30fa99:6601bbbdad0106ca0bc96b5054318eaf:ca817f8d8fab3b5bb39ebe4331984f5f$ -->
+<TextureAtlas imagePath="LobbyCounter_Sprite_01.png">
+    <SubTexture name="desk_screen" x="149" y="2" width="84" height="92"/>
+    <SubTexture name="drawer" x="2" y="2" width="145" height="207"/>
+    <SubTexture name="fuse" x="149" y="96" width="28" height="68"/>
+</TextureAtlas>

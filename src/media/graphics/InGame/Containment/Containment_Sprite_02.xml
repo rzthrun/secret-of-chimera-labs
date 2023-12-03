@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:fc9be92b85339e7063d179463f8bec64:cadcd50933f8a5d60ad5f5bd5114dfd5:7e77948a0d0539953518575e96c98c0d$ -->
+<TextureAtlas imagePath="Containment_Sprite_02.png">
+    <SubTexture name="sparks_00" x="2" y="2" width="69" height="153" frameX="-18" frameY="-25" frameWidth="149" frameHeight="179"/>
+    <SubTexture name="sparks_01" x="73" y="2" width="83" height="127" frameX="-40" frameY="0" frameWidth="149" frameHeight="179"/>
+    <SubTexture name="sparks_02" x="73" y="131" width="61" height="117" frameX="-82" frameY="-62" frameWidth="149" frameHeight="179"/>
+    <SubTexture name="sparks_03" x="158" y="2" width="63" height="131" frameX="-4" frameY="-2" frameWidth="149" frameHeight="179"/>
+    <SubTexture name="sparks_04" x="2" y="157" width="43" height="93" frameX="-63" frameY="-80" frameWidth="149" frameHeight="179"/>
+    <SubTexture name="sparks_05" x="2" y="252" width="1" height="1" frameX="0" frameY="0" frameWidth="149" frameHeight="179"/>
+</TextureAtlas>

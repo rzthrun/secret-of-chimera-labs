@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8a17bae6ebf638a733fec6bb97646c1c:f5844226bc822d5aeabdcbd84a79c173:346c6229f31cd823bb470341301f76b8$ -->
+<TextureAtlas imagePath="BathroomCabinet_Sprite_01.png">
+    <SubTexture name="iodine" x="189" y="439" width="103" height="189"/>
+    <SubTexture name="lid_off" x="2" y="439" width="185" height="503"/>
+    <SubTexture name="lid_on" x="2" y="2" width="428" height="435"/>
+    <SubTexture name="sample" x="432" y="2" width="75" height="157"/>
+</TextureAtlas>

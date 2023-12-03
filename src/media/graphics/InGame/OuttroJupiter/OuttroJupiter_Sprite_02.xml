@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b8b329106ff12f2ee48dbcbcafe3c94c:c517addece91c5b3197b7178e59ae1c6:b7f100cd914baf8da1b6a5a86b0101b0$ -->
+<TextureAtlas imagePath="OuttroJupiter_Sprite_02.png">
+    <SubTexture name="text_s00p00" x="479" y="0" width="479" height="74" frameX="-4" frameY="-46" frameWidth="569" frameHeight="300"/>
+    <SubTexture name="text_s00p01" x="479" y="74" width="471" height="184" frameX="-26" frameY="-112" frameWidth="569" frameHeight="300"/>
+    <SubTexture name="text_s01p00" x="0" y="396" width="467" height="206" frameX="0" frameY="0" frameWidth="569" frameHeight="300"/>
+    <SubTexture name="text_s01p01" x="413" y="908" width="445" height="104" frameX="-124" frameY="-196" frameWidth="569" frameHeight="300"/>
+    <SubTexture name="text_s02p00" x="0" y="602" width="459" height="164" frameX="-16" frameY="-4" frameWidth="569" frameHeight="300"/>
+    <SubTexture name="text_s02p01" x="467" y="526" width="463" height="144" frameX="-37" frameY="-156" frameWidth="569" frameHeight="300"/>
+    <SubTexture name="text_s03p00" x="469" y="258" width="467" height="268" frameX="0" frameY="-10" frameWidth="569" frameHeight="300"/>
+    <SubTexture name="text_s03p01" x="958" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="569" frameHeight="300"/>
+    <SubTexture name="text_s04p00" x="0" y="160" width="469" height="236" frameX="-14" frameY="-2" frameWidth="569" frameHeight="300"/>
+    <SubTexture name="text_s05p00" x="413" y="766" width="427" height="142" frameX="-27" frameY="-1" frameWidth="569" frameHeight="300"/>
+    <SubTexture name="text_s05p01" x="0" y="0" width="479" height="160" frameX="-15" frameY="-115" frameWidth="569" frameHeight="300"/>
+    <SubTexture name="text_s06p00" x="0" y="766" width="413" height="210" frameX="-35" frameY="-31" frameWidth="569" frameHeight="300"/>
+</TextureAtlas>

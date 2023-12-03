@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:aa2ea19abcde1778c703b4c2721f701e:8c2d4a385fe590fe0ef4caedef33991f:423cb1ef3ddb54562f31e563b7465f00$ -->
+<TextureAtlas imagePath="LiftElevator_Sprite_02.jpg">
+    <SubTexture name="l_frame_00" x="2" y="2" width="215" height="256"/>
+    <SubTexture name="l_frame_01" x="219" y="2" width="215" height="256"/>
+    <SubTexture name="l_frame_02" x="436" y="2" width="215" height="256"/>
+    <SubTexture name="l_frame_03" x="653" y="2" width="215" height="256"/>
+    <SubTexture name="l_frame_04" x="2" y="260" width="215" height="256"/>
+    <SubTexture name="l_frame_05" x="219" y="260" width="215" height="256"/>
+    <SubTexture name="l_frame_06" x="436" y="260" width="215" height="256"/>
+    <SubTexture name="l_frame_07" x="653" y="260" width="215" height="256"/>
+    <SubTexture name="l_frame_08" x="2" y="518" width="215" height="256"/>
+    <SubTexture name="l_frame_09" x="219" y="518" width="215" height="256"/>
+    <SubTexture name="l_frame_10" x="436" y="518" width="215" height="256"/>
+    <SubTexture name="l_frame_11" x="653" y="518" width="215" height="256"/>
+    <SubTexture name="l_frame_12" x="2" y="776" width="215" height="256"/>
+    <SubTexture name="l_frame_13" x="219" y="776" width="215" height="256"/>
+    <SubTexture name="l_frame_14" x="436" y="776" width="215" height="256"/>
+    <SubTexture name="l_frame_15" x="653" y="776" width="215" height="256"/>
+    <SubTexture name="l_frame_16" x="2" y="1034" width="215" height="256"/>
+    <SubTexture name="l_frame_17" x="219" y="1034" width="215" height="256"/>
+    <SubTexture name="l_frame_18" x="436" y="1034" width="215" height="256"/>
+    <SubTexture name="l_frame_19" x="653" y="1034" width="215" height="256"/>
+    <SubTexture name="l_frame_20" x="2" y="1292" width="215" height="256"/>
+    <SubTexture name="l_frame_21" x="219" y="1292" width="215" height="256"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f874dc8082272ae3afedc569e0a54d98:916b21d0a35a867f2c0a1833f321d4e2:2043b6196ac6c94d20771dd3015d7ffb$ -->
+<TextureAtlas imagePath="OfficeProgrammer_Sprite_01.png">
+    <SubTexture name="box_closed" x="310" y="2" width="178" height="119"/>
+    <SubTexture name="controller" x="92" y="461" width="60" height="31"/>
+    <SubTexture name="cube" x="2" y="461" width="88" height="49"/>
+    <SubTexture name="drawer_lower" x="2" y="242" width="250" height="108"/>
+    <SubTexture name="drawer_upper" x="2" y="2" width="306" height="238"/>
+    <SubTexture name="lid_off" x="2" y="352" width="105" height="107"/>
+    <SubTexture name="lid_on" x="109" y="352" width="135" height="85"/>
+    <SubTexture name="screen_on" x="310" y="219" width="150" height="94"/>
+    <SubTexture name="screen_start" x="310" y="123" width="150" height="94"/>
+</TextureAtlas>

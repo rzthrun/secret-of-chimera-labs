@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3281091744fef99419394d9168c51ea6:e23d6c51acb87355a46135199bcb413d:0a800e1f72cfc2fcd544e9493b1ccf25$ -->
+<TextureAtlas imagePath="Lift_Sprite_01.png">
+    <SubTexture name="crowbar" x="599" y="804" width="110" height="77"/>
+    <SubTexture name="door_open" x="478" y="804" width="119" height="229"/>
+    <SubTexture name="handler" x="711" y="804" width="76" height="174"/>
+    <SubTexture name="lift_frame_00" x="240" y="804" width="236" height="399"/>
+    <SubTexture name="lift_frame_01" x="2" y="1606" width="236" height="399"/>
+    <SubTexture name="lift_frame_02" x="2" y="1205" width="236" height="399"/>
+    <SubTexture name="lift_frame_03" x="2" y="804" width="236" height="399"/>
+    <SubTexture name="lift_frame_04" x="716" y="403" width="236" height="399"/>
+    <SubTexture name="lift_frame_05" x="478" y="403" width="236" height="399"/>
+    <SubTexture name="lift_frame_06" x="240" y="403" width="236" height="399"/>
+    <SubTexture name="lift_frame_07" x="2" y="403" width="236" height="399"/>
+    <SubTexture name="lift_frame_08" x="716" y="2" width="236" height="399"/>
+    <SubTexture name="lift_frame_09" x="478" y="2" width="236" height="399"/>
+    <SubTexture name="lift_frame_10" x="240" y="2" width="236" height="399"/>
+    <SubTexture name="lift_frame_11" x="2" y="2" width="236" height="399"/>
+</TextureAtlas>

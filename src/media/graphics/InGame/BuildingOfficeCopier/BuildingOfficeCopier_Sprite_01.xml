@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:27a62cae68d679d794aee6c680fbafa9:c5b73b8323b296ea94f70b11dac11ec1:17225c5a71102c8af7cdf43045a1ab03$ -->
+<TextureAtlas imagePath="BuildingOfficeCopier_Sprite_01.png">
+    <SubTexture name="door_closed" x="769" y="2" width="72" height="325" frameX="0" frameY="-6" frameWidth="72" frameHeight="331"/>
+    <SubTexture name="lid_closed" x="2" y="303" width="656" height="288"/>
+    <SubTexture name="lid_lights" x="2" y="2" width="765" height="299"/>
+    <SubTexture name="lid_open" x="2" y="593" width="557" height="151"/>
+</TextureAtlas>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8b5ae612a4264c46b29e14854f43563e:8929286c95e9cae1b6a5b28038c8b242:334596928d0ac0a9723104141ac93921$ -->
+<TextureAtlas imagePath="ServerRoomPal_Sprite_01.png">
+    <SubTexture name="bread_auth" x="2" y="405" width="445" height="13"/>
+    <SubTexture name="bread_failure" x="2" y="390" width="445" height="13"/>
+    <SubTexture name="bread_fault" x="2" y="375" width="445" height="13"/>
+    <SubTexture name="bread_log" x="429" y="1012" width="395" height="13" frameX="0" frameY="0" frameWidth="445" frameHeight="13"/>
+    <SubTexture name="bread_video" x="442" y="997" width="435" height="13" frameX="0" frameY="0" frameWidth="445" frameHeight="13"/>
+    <SubTexture name="circle" x="271" y="1686" width="78" height="78"/>
+    <SubTexture name="disc" x="882" y="957" width="82" height="82"/>
+    <SubTexture name="error_block_00" x="2" y="1952" width="179" height="91"/>
+    <SubTexture name="error_block_01" x="362" y="1948" width="157" height="88"/>
+    <SubTexture name="error_block_02" x="183" y="1952" width="177" height="88"/>
+    <SubTexture name="error_block_03" x="273" y="1328" width="151" height="97"/>
+    <SubTexture name="highlight_rect" x="762" y="1844" width="237" height="51"/>
+    <SubTexture name="invalid" x="921" y="21" width="96" height="17" frameX="0" frameY="0" frameWidth="98" frameHeight="17"/>
+    <SubTexture name="logs_header" x="472" y="346" width="447" height="61"/>
+    <SubTexture name="logs_num_00" x="976" y="494" width="43" height="13"/>
+    <SubTexture name="logs_num_01" x="976" y="479" width="43" height="13"/>
+    <SubTexture name="logs_num_02" x="976" y="464" width="43" height="13"/>
+    <SubTexture name="logs_num_03" x="976" y="449" width="43" height="13"/>
+    <SubTexture name="logs_page_00" x="2" y="714" width="438" height="290" frameX="-1" frameY="-1" frameWidth="440" frameHeight="294"/>
+    <SubTexture name="logs_page_01" x="442" y="703" width="438" height="292" frameX="-1" frameY="-1" frameWidth="440" frameHeight="294"/>
+    <SubTexture name="logs_page_02" x="2" y="420" width="438" height="292" frameX="-1" frameY="-1" frameWidth="440" frameHeight="294"/>
+    <SubTexture name="logs_page_03" x="449" y="409" width="438" height="292" frameX="-1" frameY="-1" frameWidth="440" frameHeight="294"/>
+    <SubTexture name="no_adimm_error" x="2" y="1006" width="425" height="320"/>
+    <SubTexture name="passcode" x="472" y="2" width="447" height="342"/>
+    <SubTexture name="passcode_highlight" x="921" y="40" width="90" height="101"/>
+    <SubTexture name="popup_damage_id" x="356" y="1554" width="269" height="142" frameX="-14" frameY="-15" frameWidth="299" frameHeight="202"/>
+    <SubTexture name="popup_dia_close" x="704" y="1676" width="267" height="166" frameX="-15" frameY="-15" frameWidth="299" frameHeight="202"/>
+    <SubTexture name="popup_dia_complete" x="2" y="1472" width="269" height="142" frameX="-14" frameY="-15" frameWidth="299" frameHeight="202"/>
+    <SubTexture name="popup_dia_noadimm" x="2" y="1784" width="267" height="166" frameX="-15" frameY="-15" frameWidth="299" frameHeight="202"/>
+    <SubTexture name="popup_outline" x="429" y="1027" width="299" height="202"/>
+    <SubTexture name="popup_repair_close" x="351" y="1698" width="267" height="166" frameX="-15" frameY="-15" frameWidth="299" frameHeight="202"/>
+    <SubTexture name="popup_repair_complete" x="719" y="1364" width="269" height="166" frameX="-14" frameY="-15" frameWidth="299" frameHeight="202"/>
+    <SubTexture name="popup_repair_noadimm" x="2" y="1616" width="267" height="166" frameX="-15" frameY="-15" frameWidth="299" frameHeight="202"/>
+    <SubTexture name="popup_repair_starting" x="2" y="1328" width="269" height="142" frameX="-14" frameY="-15" frameWidth="299" frameHeight="202"/>
+    <SubTexture name="popup_running" x="719" y="1532" width="269" height="142" frameX="-14" frameY="-15" frameWidth="299" frameHeight="202"/>
+    <SubTexture name="pos_00_apple" x="921" y="301" width="87" height="77" frameX="0" frameY="-26" frameWidth="89" frameHeight="105"/>
+    <SubTexture name="pos_00_cube" x="921" y="230" width="89" height="69" frameX="0" frameY="-36" frameWidth="89" frameHeight="105"/>
+    <SubTexture name="pos_00_cylinder" x="921" y="143" width="89" height="85" frameX="0" frameY="-18" frameWidth="89" frameHeight="105"/>
+    <SubTexture name="pos_00_eggplant" x="889" y="684" width="83" height="103" frameX="-4" frameY="0" frameWidth="89" frameHeight="105"/>
+    <SubTexture name="pos_00_orange" x="882" y="880" width="83" height="75" frameX="-3" frameY="-29" frameWidth="89" frameHeight="105"/>
+    <SubTexture name="pos_00_sphere" x="271" y="1766" width="75" height="73" frameX="-6" frameY="-30" frameWidth="89" frameHeight="105"/>
+    <SubTexture name="pos_01_apple" x="629" y="1720" width="73" height="66" frameX="0" frameY="-22" frameWidth="73" frameHeight="90"/>
+    <SubTexture name="pos_01_cube" x="801" y="1897" width="73" height="58" frameX="0" frameY="-31" frameWidth="73" frameHeight="90"/>
+    <SubTexture name="pos_01_cylinder" x="554" y="1866" width="73" height="74" frameX="0" frameY="-14" frameWidth="73" frameHeight="90"/>
+    <SubTexture name="pos_01_eggplant" x="596" y="1942" width="63" height="88" frameX="-4" frameY="0" frameWidth="73" frameHeight="90"/>
+    <SubTexture name="pos_01_orange" x="629" y="1788" width="73" height="64" frameX="0" frameY="-24" frameWidth="73" frameHeight="90"/>
+    <SubTexture name="pos_01_sphere" x="697" y="1854" width="63" height="64" frameX="-3" frameY="-24" frameWidth="73" frameHeight="90"/>
+    <SubTexture name="pos_02_apple" x="273" y="1534" width="81" height="77" frameX="-3" frameY="-27" frameWidth="85" frameHeight="105"/>
+    <SubTexture name="pos_02_cube" x="273" y="1613" width="81" height="71" frameX="-3" frameY="-34" frameWidth="85" frameHeight="105"/>
+    <SubTexture name="pos_02_cylinder" x="882" y="789" width="83" height="89" frameX="0" frameY="-16" frameWidth="85" frameHeight="105"/>
+    <SubTexture name="pos_02_eggplant" x="521" y="1943" width="73" height="103" frameX="0" frameY="0" frameWidth="85" frameHeight="105"/>
+    <SubTexture name="pos_02_orange" x="889" y="528" width="85" height="77" frameX="0" frameY="-27" frameWidth="85" frameHeight="105"/>
+    <SubTexture name="pos_02_sphere" x="414" y="1866" width="73" height="75" frameX="-6" frameY="-28" frameWidth="85" frameHeight="105"/>
+    <SubTexture name="pos_03_apple" x="356" y="1492" width="70" height="60" frameX="-2" frameY="-20" frameWidth="72" frameHeight="80"/>
+    <SubTexture name="pos_03_cube" x="876" y="1897" width="66" height="52" frameX="-5" frameY="-27" frameWidth="72" frameHeight="80"/>
+    <SubTexture name="pos_03_cylinder" x="629" y="1854" width="66" height="66" frameX="-6" frameY="-14" frameWidth="72" frameHeight="80"/>
+    <SubTexture name="pos_03_eggplant" x="348" y="1866" width="64" height="80" frameX="-7" frameY="0" frameWidth="72" frameHeight="80"/>
+    <SubTexture name="pos_03_orange" x="805" y="1957" width="66" height="58" frameX="-4" frameY="-21" frameWidth="72" frameHeight="80"/>
+    <SubTexture name="pos_03_sphere" x="873" y="1957" width="68" height="56" frameX="0" frameY="-23" frameWidth="72" frameHeight="80"/>
+    <SubTexture name="pos_04_apple" x="271" y="1841" width="75" height="65" frameX="0" frameY="-21" frameWidth="75" frameHeight="91"/>
+    <SubTexture name="pos_04_cube" x="730" y="1985" width="73" height="59" frameX="-1" frameY="-29" frameWidth="75" frameHeight="91"/>
+    <SubTexture name="pos_04_cylinder" x="489" y="1866" width="63" height="75" frameX="-12" frameY="-13" frameWidth="75" frameHeight="91"/>
+    <SubTexture name="pos_04_eggplant" x="661" y="1922" width="67" height="87" frameX="-2" frameY="0" frameWidth="75" frameHeight="91"/>
+    <SubTexture name="pos_04_orange" x="730" y="1920" width="69" height="63" frameX="-1" frameY="-23" frameWidth="75" frameHeight="91"/>
+    <SubTexture name="pos_04_sphere" x="356" y="1427" width="71" height="63" frameX="0" frameY="-23" frameWidth="75" frameHeight="91"/>
+    <SubTexture name="pos_05_apple" x="889" y="449" width="85" height="77" frameX="0" frameY="-27" frameWidth="87" frameHeight="105"/>
+    <SubTexture name="pos_05_cube" x="921" y="380" width="87" height="67" frameX="0" frameY="-37" frameWidth="87" frameHeight="105"/>
+    <SubTexture name="pos_05_cylinder" x="627" y="1554" width="75" height="87" frameX="-10" frameY="-18" frameWidth="87" frameHeight="105"/>
+    <SubTexture name="pos_05_eggplant" x="273" y="1427" width="81" height="105" frameX="-6" frameY="0" frameWidth="87" frameHeight="105"/>
+    <SubTexture name="pos_05_orange" x="889" y="607" width="85" height="75" frameX="-1" frameY="-29" frameWidth="87" frameHeight="105"/>
+    <SubTexture name="pos_05_sphere" x="627" y="1643" width="75" height="75" frameX="-4" frameY="-29" frameWidth="87" frameHeight="105"/>
+    <SubTexture name="screen_cube" x="429" y="1231" width="288" height="321"/>
+    <SubTexture name="screen_cube_damage" x="730" y="1041" width="288" height="321"/>
+    <SubTexture name="success" x="921" y="2" width="98" height="17"/>
+    <SubTexture name="video_bg" x="2" y="2" width="468" height="371"/>
+</TextureAtlas>

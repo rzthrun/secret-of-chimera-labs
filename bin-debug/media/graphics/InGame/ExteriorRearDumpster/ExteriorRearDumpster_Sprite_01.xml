@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:91237abca7fd45b6878ad2c859f68b94:07dc4eccd519a8c2702ece45c3782d05:02e66dff2e706ad8f62d5bfb7829c313$ -->
+<TextureAtlas imagePath="ExteriorRearDumpster_Sprite_01.png">
+    <SubTexture name="bio_off" x="274" y="251" width="184" height="190"/>
+    <SubTexture name="bio_on" x="2" y="375" width="189" height="103"/>
+    <SubTexture name="book" x="193" y="375" width="78" height="84" frameX="-1" frameY="0" frameWidth="80" frameHeight="84"/>
+    <SubTexture name="lid_left_off" x="277" y="130" width="194" height="119"/>
+    <SubTexture name="lid_left_on" x="2" y="2" width="273" height="175"/>
+    <SubTexture name="lid_right_off" x="277" y="2" width="231" height="126"/>
+    <SubTexture name="lid_right_on" x="2" y="179" width="270" height="194"/>
+</TextureAtlas>

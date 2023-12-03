@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:34d5472a6c11c3899aaf7b807e4b8044:ab9e6369e68f3e9db9ad6558cd5a8bac:19f440e04192bbe9fd23630079853a7e$ -->
+<TextureAtlas imagePath="RoboticsDesk_Sprite_01.png">
+    <SubTexture name="body_chest_open" x="2" y="2" width="165" height="78"/>
+    <SubTexture name="body_controller" x="72" y="191" width="16" height="27"/>
+    <SubTexture name="body_cord" x="49" y="207" width="16" height="20"/>
+    <SubTexture name="body_cube" x="90" y="191" width="12" height="9"/>
+    <SubTexture name="body_hole" x="133" y="82" width="26" height="40"/>
+    <SubTexture name="body_lid" x="2" y="191" width="45" height="41"/>
+    <SubTexture name="body_power_supply" x="49" y="191" width="21" height="14"/>
+    <SubTexture name="cab_left" x="2" y="82" width="129" height="107"/>
+    <SubTexture name="cab_right" x="160" y="216" width="91" height="118"/>
+    <SubTexture name="claw" x="169" y="2" width="77" height="212"/>
+    <SubTexture name="leg_cord" x="133" y="124" width="25" height="114"/>
+</TextureAtlas>

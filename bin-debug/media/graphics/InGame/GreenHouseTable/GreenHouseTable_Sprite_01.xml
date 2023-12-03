@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b485cf082f1f3f7e9577110cd459644d:252e1c4254cc008a1403670ed7bda227:bc87f87a1229bb1265dcfc958250db6b$ -->
+<TextureAtlas imagePath="GreenHouseTable_Sprite_01.png">
+    <SubTexture name="blue_red" x="220" y="333" width="31" height="64"/>
+    <SubTexture name="blue_tube" x="2" y="365" width="35" height="68"/>
+    <SubTexture name="empty_tubes" x="2" y="2" width="151" height="81"/>
+    <SubTexture name="jars" x="155" y="2" width="93" height="105"/>
+    <SubTexture name="sample" x="2" y="85" width="119" height="130"/>
+    <SubTexture name="slide" x="88" y="481" width="84" height="24"/>
+    <SubTexture name="slide_empty" x="2" y="481" width="84" height="24"/>
+    <SubTexture name="syringe" x="111" y="333" width="107" height="146"/>
+    <SubTexture name="syringe_full" x="2" y="217" width="107" height="146"/>
+    <SubTexture name="tongs" x="123" y="109" width="115" height="222"/>
+    <SubTexture name="yellow_tube" x="220" y="399" width="31" height="63"/>
+</TextureAtlas>

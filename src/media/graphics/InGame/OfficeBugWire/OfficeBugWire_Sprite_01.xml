@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:461f97a6db36db0da3b7fe30f346abee:e325a13681fea0c5c83e383898410439:513e639cef0919ad84c7d15c0539f470$ -->
+<TextureAtlas imagePath="OfficeBugWire_Sprite_01.png">
+    <SubTexture name="controller_box" x="2" y="2" width="220" height="512"/>
+    <SubTexture name="dial_blue" x="2" y="516" width="49" height="49"/>
+    <SubTexture name="dial_green" x="53" y="516" width="49" height="49"/>
+    <SubTexture name="dial_red" x="104" y="516" width="49" height="49"/>
+    <SubTexture name="dial_yellow" x="155" y="516" width="49" height="49"/>
+    <SubTexture name="knub" x="206" y="516" width="35" height="53"/>
+</TextureAtlas>

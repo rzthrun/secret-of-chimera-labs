@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ece6cc5a5bc33915f2c74c0735ff151e:6e218573520612a4edcc3e718f5b673f:18a1e54f709768dc4894bc65b0bd394c$ -->
+<TextureAtlas imagePath="GreenHouseDeepBulb_Sprite.png">
+    <SubTexture name="bulb_frame_00" x="419" y="401" width="415" height="397"/>
+    <SubTexture name="bulb_frame_01" x="419" y="800" width="393" height="363" frameX="0" frameY="-34" frameWidth="415" frameHeight="397"/>
+    <SubTexture name="bulb_frame_02" x="2" y="800" width="415" height="363" frameX="0" frameY="-34" frameWidth="415" frameHeight="397"/>
+    <SubTexture name="bulb_frame_03" x="2" y="401" width="415" height="397"/>
+    <SubTexture name="bulb_frame_04" x="419" y="2" width="415" height="397"/>
+    <SubTexture name="bulb_frame_05" x="2" y="2" width="415" height="397"/>
+    <SubTexture name="green_orb" x="836" y="2" width="168" height="168"/>
+</TextureAtlas>

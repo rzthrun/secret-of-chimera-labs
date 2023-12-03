@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:44a16ec9d9d211066c8dc62380b6e181:f5d33e0ff5c280b726c24ff779f4dfcb:3f759f1dc45c068926cd3542281bcc38$ -->
+<TextureAtlas imagePath="CryptoBook_Sprite.png">
+    <SubTexture name="CryptoBook_page_0" x="1346" y="2" width="670" height="502" frameX="-52" frameY="-3" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="CryptoBook_page_1" x="674" y="506" width="670" height="502" frameX="-52" frameY="-3" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="CryptoBook_page_2" x="674" y="2" width="670" height="502" frameX="-51" frameY="-2" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="CryptoBook_page_3" x="2" y="506" width="670" height="502" frameX="-51" frameY="-2" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="CryptoBook_page_4" x="2" y="2" width="670" height="502" frameX="-52" frameY="-2" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

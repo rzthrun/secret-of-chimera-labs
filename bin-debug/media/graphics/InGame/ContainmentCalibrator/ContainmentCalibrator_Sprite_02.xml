@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f487a963c1e3c5c1db0a08d36a5692d3:d48ea3721650eae7f7c822085be80c0a:438cf9263e99c6d85cec4f4a76a74fc1$ -->
+<TextureAtlas imagePath="ContainmentCalibrator_Sprite_02.png">
+    <SubTexture name="lever_down" x="343" y="938" width="87" height="66" frameX="-3" frameY="-72" frameWidth="93" frameHeight="140"/>
+    <SubTexture name="lever_up" x="250" y="938" width="91" height="70" frameX="-1" frameY="-1" frameWidth="93" frameHeight="140"/>
+    <SubTexture name="screen_blue_00" x="250" y="853" width="122" height="83"/>
+    <SubTexture name="screen_blue_01" x="250" y="768" width="122" height="83"/>
+    <SubTexture name="screen_blue_02" x="126" y="938" width="122" height="83"/>
+    <SubTexture name="screen_blue_03" x="126" y="853" width="122" height="83"/>
+    <SubTexture name="screen_orange_00" x="126" y="768" width="122" height="83"/>
+    <SubTexture name="screen_orange_01" x="2" y="938" width="122" height="83"/>
+    <SubTexture name="screen_orange_02" x="2" y="853" width="122" height="83"/>
+    <SubTexture name="screen_orange_03" x="2" y="768" width="122" height="83"/>
+    <SubTexture name="static_00" x="2" y="385" width="470" height="381"/>
+    <SubTexture name="static_01" x="474" y="2" width="470" height="381"/>
+    <SubTexture name="static_02" x="2" y="2" width="470" height="381"/>
+</TextureAtlas>

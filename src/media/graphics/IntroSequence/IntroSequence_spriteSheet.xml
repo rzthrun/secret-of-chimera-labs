@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:63f7525e299029bd3dbe84a9e37422c4:1622b7c4c60d1eeb92efea7688662635:1c6148bc09449db05d0c4cbc25d19185$ -->
+<TextureAtlas imagePath="IntroSequence_spriteSheet.png">
+    <SubTexture name="IntroSequence_dark" x="2" y="516" width="800" height="512"/>
+    <SubTexture name="IntroSequence_lit" x="2" y="2" width="800" height="512"/>
+    <SubTexture name="leaf_00" x="804" y="2" width="163" height="79"/>
+    <SubTexture name="leaf_01" x="2" y="1812" width="302" height="138"/>
+    <SubTexture name="leaf_02" x="804" y="83" width="156" height="77"/>
+    <SubTexture name="night" x="2" y="1526" width="369" height="284"/>
+    <SubTexture name="phone_00" x="492" y="1914" width="245" height="96" frameX="-9" frameY="0" frameWidth="255" frameHeight="106"/>
+    <SubTexture name="phone_01" x="2" y="1952" width="247" height="92" frameX="-8" frameY="0" frameWidth="255" frameHeight="106"/>
+    <SubTexture name="phone_02" x="306" y="1812" width="247" height="100" frameX="-8" frameY="0" frameWidth="255" frameHeight="106"/>
+    <SubTexture name="phone_dark_00" x="739" y="1030" width="239" height="86" frameX="-8" frameY="-10" frameWidth="255" frameHeight="106"/>
+    <SubTexture name="phone_dark_01" x="739" y="1118" width="239" height="80" frameX="-9" frameY="-11" frameWidth="255" frameHeight="106"/>
+    <SubTexture name="phone_dark_02" x="251" y="1952" width="239" height="92" frameX="-8" frameY="-8" frameWidth="255" frameHeight="106"/>
+    <SubTexture name="phone_off" x="2" y="1030" width="246" height="494"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e505864f943007eff1ddbd761aab3d0c:8678ccafee5107dc764f747499a274d3:4cbef822fddcac234e3f771a019f09be$ -->
+<TextureAtlas imagePath="RocketRoomDesk_Sprite_01.png">
+    <SubTexture name="drawer_both" x="2" y="2" width="251" height="256" frameX="0" frameY="-2" frameWidth="256" frameHeight="258"/>
+    <SubTexture name="drawer_lower" x="2" y="260" width="251" height="256" frameX="0" frameY="-2" frameWidth="256" frameHeight="258"/>
+    <SubTexture name="drawer_upper" x="2" y="518" width="251" height="256" frameX="0" frameY="-2" frameWidth="256" frameHeight="258"/>
+    <SubTexture name="key" x="124" y="822" width="72" height="25"/>
+    <SubTexture name="top_off" x="2" y="776" width="120" height="62"/>
+    <SubTexture name="top_on" x="124" y="776" width="81" height="44"/>
+</TextureAtlas>

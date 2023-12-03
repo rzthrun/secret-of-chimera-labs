@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:69633d7ea8208e9da39b4b1f5e19fc72:7061f88b8f71d0f786fe47160c351f91:1e3a81acdb82fac99a30444166faa8ab$ -->
+<TextureAtlas imagePath="BuildingOffice_Sprite_01.png">
+    <SubTexture name="copier_lid" x="112" y="2" width="195" height="110"/>
+    <SubTexture name="desk_box_open" x="2" y="465" width="76" height="32"/>
+    <SubTexture name="desk_drawer_lower" x="309" y="50" width="94" height="60"/>
+    <SubTexture name="desk_drawer_lower_cover" x="112" y="195" width="92" height="47"/>
+    <SubTexture name="desk_drawer_middle" x="112" y="114" width="94" height="79"/>
+    <SubTexture name="desk_drawer_middle_cover" x="309" y="2" width="99" height="46"/>
+    <SubTexture name="desk_drawer_top" x="410" y="2" width="94" height="76"/>
+    <SubTexture name="desk_fuse" x="80" y="487" width="14" height="12"/>
+    <SubTexture name="desk_screen" x="405" y="80" width="65" height="65"/>
+    <SubTexture name="door_maintainence" x="2" y="244" width="116" height="219"/>
+    <SubTexture name="door_security" x="2" y="2" width="108" height="240"/>
+    <SubTexture name="puzzle_switch" x="80" y="465" width="11" height="20"/>
+</TextureAtlas>

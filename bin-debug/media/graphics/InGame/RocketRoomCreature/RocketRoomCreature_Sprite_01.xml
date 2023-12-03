@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:327042d601ac5cb3ae47c6ba6c418e8d:559082e91c90332756799ee6789bdc60:c9f8cd9f2d4e0cd475d35fbce4b8cd80$ -->
+<TextureAtlas imagePath="RocketRoomCreature_Sprite_01.png">
+    <SubTexture name="cover" x="2" y="2" width="369" height="274"/>
+    <SubTexture name="cover_empty" x="239" y="278" width="176" height="191"/>
+    <SubTexture name="pearl" x="2" y="278" width="235" height="230"/>
+</TextureAtlas>

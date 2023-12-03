@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:fba8d69a42bee2cdec023e0a54eb9223:66b83b6141ca241df06882ed7d61363b:bca9b3f61dc37cc790d0421357b3810a$ -->
+<TextureAtlas imagePath="BuildingOfficeShapePuzzle_Sprite_02.png">
+    <SubTexture name="cube_blue" x="0" y="134" width="79" height="91" frameX="-2" frameY="0" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="cube_green" x="0" y="227" width="79" height="91" frameX="-2" frameY="0" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="cube_orange" x="0" y="320" width="79" height="91" frameX="-2" frameY="0" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="cube_purple" x="0" y="413" width="79" height="91" frameX="-2" frameY="0" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="cube_red" x="81" y="134" width="79" height="91" frameX="-2" frameY="0" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="cylinder_blue" x="131" y="0" width="79" height="89" frameX="-2" frameY="-1" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="cylinder_green" x="81" y="227" width="79" height="89" frameX="-2" frameY="-1" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="cylinder_orange" x="81" y="318" width="79" height="89" frameX="-2" frameY="-1" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="cylinder_purple" x="81" y="409" width="79" height="89" frameX="-2" frameY="-1" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="cylinder_red" x="382" y="85" width="79" height="89" frameX="-2" frameY="-1" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="dot_blue" x="131" y="91" width="12" height="12"/>
+    <SubTexture name="dot_green" x="131" y="105" width="12" height="12"/>
+    <SubTexture name="dot_orange" x="131" y="119" width="12" height="12"/>
+    <SubTexture name="dot_purple" x="145" y="91" width="12" height="12"/>
+    <SubTexture name="dot_red" x="145" y="105" width="12" height="12"/>
+    <SubTexture name="pos_highlight" x="0" y="0" width="129" height="132"/>
+    <SubTexture name="sphere_blue" x="212" y="0" width="83" height="83" frameX="0" frameY="-3" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="sphere_green" x="297" y="0" width="83" height="83" frameX="0" frameY="-3" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="sphere_orange" x="382" y="0" width="83" height="83" frameX="0" frameY="-3" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="sphere_purple" x="212" y="85" width="83" height="83" frameX="0" frameY="-3" frameWidth="83" frameHeight="91"/>
+    <SubTexture name="sphere_red" x="297" y="85" width="83" height="83" frameX="0" frameY="-3" frameWidth="83" frameHeight="91"/>
+</TextureAtlas>

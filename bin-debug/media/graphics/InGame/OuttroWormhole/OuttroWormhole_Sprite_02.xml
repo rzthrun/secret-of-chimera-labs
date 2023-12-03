@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f198b2e2e8cbaa471e4f2c304318d808:30fea881ae8d07cf19f2b8271857eab2:7b05251be98f7ad18c46892c5837fc30$ -->
+<TextureAtlas imagePath="OuttroWormhole_Sprite_02.png">
+    <SubTexture name="light" x="2" y="2" width="274" height="277"/>
+</TextureAtlas>

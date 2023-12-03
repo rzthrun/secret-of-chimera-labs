@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:33f7a478d9eec205394729d9662b0720:27f66cde5c666a8cf96b49b01fdba6f8:e621356bbda9ce7fb1121d13f98b0fcb$ -->
+<TextureAtlas imagePath="BathroomDuct_Sprite_01.png">
+    <SubTexture name="fan_fan_00" x="2" y="2" width="124" height="123" frameX="-4" frameY="-5" frameWidth="132" frameHeight="132"/>
+    <SubTexture name="fan_fan_01" x="128" y="2" width="125" height="125" frameX="-4" frameY="-3" frameWidth="132" frameHeight="132"/>
+    <SubTexture name="fan_fan_02" x="255" y="2" width="130" height="128" frameX="-1" frameY="-2" frameWidth="132" frameHeight="132"/>
+    <SubTexture name="fan_fan_03" x="2" y="132" width="131" height="130" frameX="0" frameY="-1" frameWidth="132" frameHeight="132"/>
+    <SubTexture name="fan_fan_04" x="135" y="132" width="131" height="130" frameX="0" frameY="-1" frameWidth="132" frameHeight="132"/>
+    <SubTexture name="fan_fan_05" x="268" y="132" width="129" height="127" frameX="-1" frameY="-3" frameWidth="132" frameHeight="132"/>
+    <SubTexture name="fan_stick" x="2" y="264" width="126" height="143"/>
+</TextureAtlas>

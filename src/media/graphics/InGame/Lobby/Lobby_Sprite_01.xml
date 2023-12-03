@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:10686c36845515091ae7e13af40859e8:7d1b66c96f76c4766bf79cba3afce04f:b15fc8204903d25c3476bacf1c32a6b8$ -->
+<TextureAtlas imagePath="Lobby_Sprite_01.png">
+    <SubTexture name="elevator_frame_00" x="107" y="260" width="92" height="127"/>
+    <SubTexture name="elevator_frame_01" x="107" y="131" width="92" height="127"/>
+    <SubTexture name="elevator_frame_02" x="107" y="2" width="92" height="127"/>
+    <SubTexture name="elevator_frame_03" x="252" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="92" frameHeight="127"/>
+    <SubTexture name="office_door" x="2" y="2" width="103" height="264" frameX="-2" frameY="0" frameWidth="109" frameHeight="264"/>
+    <SubTexture name="secondFloorHall_doorBothChains" x="2" y="268" width="49" height="130"/>
+    <SubTexture name="secondFloorHall_doorBothClosed" x="201" y="266" width="49" height="130"/>
+    <SubTexture name="secondFloorHall_doorLeftOpen" x="201" y="134" width="49" height="130"/>
+    <SubTexture name="secondFloorHall_doorRightOpen" x="201" y="2" width="49" height="130"/>
+    <SubTexture name="secondFloorHall_leftDoorKnub" x="53" y="268" width="30" height="124"/>
+</TextureAtlas>

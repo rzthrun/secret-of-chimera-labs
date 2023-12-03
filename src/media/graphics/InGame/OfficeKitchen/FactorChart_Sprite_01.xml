@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:de21ca05e803cec20258eb8a1c0d8862:e5acfbbf49fea6f5ec6cbccac0a368e8:58e01ebaa0a25400fa01bc8a2febeb17$ -->
+<TextureAtlas imagePath="FactorChart_Sprite_01.png">
+    <SubTexture name="FactorChart_page_0" x="2" y="491" width="353" height="486" frameX="-216" frameY="-5" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="FactorChart_page_1" x="357" y="2" width="353" height="486" frameX="-216" frameY="-5" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="FactorChart_page_2" x="2" y="2" width="353" height="487" frameX="-216" frameY="-4" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

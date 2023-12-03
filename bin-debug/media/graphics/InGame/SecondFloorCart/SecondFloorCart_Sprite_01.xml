@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:93759b72902f3459a89b59aae1bb5e67:c6a966e8ae074754ee20915f3f99779b:308f8b86171b4e11257dd39c91a4b8f7$ -->
+<TextureAtlas imagePath="SecondFloorCart_Sprite_01.png">
+    <SubTexture name="glasses" x="201" y="366" width="143" height="104" frameX="-2" frameY="-1" frameWidth="145" frameHeight="106"/>
+    <SubTexture name="glasses_no_slime" x="92" y="260" width="143" height="104" frameX="-2" frameY="-1" frameWidth="145" frameHeight="106"/>
+    <SubTexture name="lobby_office_door" x="2" y="432" width="93" height="56"/>
+    <SubTexture name="mop_stick" x="2" y="260" width="88" height="170" frameX="-2" frameY="0" frameWidth="92" frameHeight="172"/>
+    <SubTexture name="paper_towels" x="97" y="421" width="68" height="79"/>
+    <SubTexture name="slime" x="2" y="2" width="504" height="256"/>
+    <SubTexture name="spray_can" x="92" y="366" width="107" height="53" frameX="-2" frameY="-2" frameWidth="111" frameHeight="57"/>
+</TextureAtlas>

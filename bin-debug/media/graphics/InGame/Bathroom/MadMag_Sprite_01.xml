@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:fc58fdb6b4aa9037c4dabd52e1a007bd:794ffac6f2db517a45847801c5612949:e4fcf84f4fafa099f6ed636a07939d4d$ -->
+<TextureAtlas imagePath="MadMag_Sprite_01.png">
+    <SubTexture name="madmag_page_00" x="656" y="2" width="336" height="454" frameX="-221" frameY="-9" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="madmag_page_01" x="2" y="1358" width="650" height="450" frameX="-71" frameY="-13" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="madmag_page_02" x="2" y="906" width="650" height="450" frameX="-71" frameY="-13" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="madmag_page_03" x="2" y="454" width="650" height="450" frameX="-71" frameY="-13" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="madmag_page_04" x="2" y="2" width="652" height="450" frameX="-69" frameY="-13" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

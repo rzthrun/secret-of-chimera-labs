@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7d981f1e6bec5e7e3d3f0dd37b12f5d0:a765d5357db9740dca0b5f62a7ccf123:35b27150db8c749a1fca49cfcec9b33d$ -->
+<TextureAtlas imagePath="ViridiBook_Sprite_01.png">
+    <SubTexture name="viridi_page_00" x="2" y="436" width="604" height="432" frameX="-98" frameY="-29" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="viridi_page_01" x="2" y="2" width="604" height="432" frameX="-98" frameY="-29" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

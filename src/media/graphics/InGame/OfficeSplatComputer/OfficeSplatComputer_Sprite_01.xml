@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d577d357b866141a3ba734a1529fd4ff:75ebda7f50123cad3d16dee5c07b7307:e5384520893019b07f73df5d004f6427$ -->
+<TextureAtlas imagePath="OfficeSplatComputer_Sprite_01.png">
+    <SubTexture name="highlight_rect" x="2" y="814" width="237" height="51"/>
+    <SubTexture name="install_highlight" x="241" y="814" width="152" height="58"/>
+    <SubTexture name="knub_00" x="958" y="456" width="30" height="49"/>
+    <SubTexture name="knub_01" x="395" y="814" width="30" height="49"/>
+    <SubTexture name="knub_02" x="844" y="395" width="30" height="49"/>
+    <SubTexture name="leg_al_blue" x="906" y="795" width="110" height="111"/>
+    <SubTexture name="leg_al_green" x="794" y="796" width="110" height="111"/>
+    <SubTexture name="leg_al_red" x="682" y="828" width="110" height="111"/>
+    <SubTexture name="leg_al_yellow" x="344" y="874" width="110" height="111"/>
+    <SubTexture name="leg_ar_blue" x="844" y="456" width="112" height="111"/>
+    <SubTexture name="leg_ar_green" x="888" y="343" width="112" height="111"/>
+    <SubTexture name="leg_ar_red" x="230" y="874" width="112" height="111"/>
+    <SubTexture name="leg_ar_yellow" x="888" y="230" width="112" height="111"/>
+    <SubTexture name="leg_pl_blue" x="569" y="828" width="111" height="111"/>
+    <SubTexture name="leg_pl_green" x="456" y="825" width="111" height="111"/>
+    <SubTexture name="leg_pl_red" x="844" y="682" width="111" height="111"/>
+    <SubTexture name="leg_pl_yellow" x="844" y="569" width="111" height="111"/>
+    <SubTexture name="leg_pr_blue" x="116" y="867" width="112" height="112"/>
+    <SubTexture name="leg_pr_green" x="888" y="116" width="112" height="112"/>
+    <SubTexture name="leg_pr_red" x="2" y="867" width="112" height="112"/>
+    <SubTexture name="leg_pr_yellow" x="888" y="2" width="112" height="112"/>
+    <SubTexture name="line_00_compiling" x="794" y="940" width="142" height="28" frameX="-2" frameY="-2" frameWidth="168" frameHeight="32"/>
+    <SubTexture name="line_00_waiting" x="938" y="927" width="72" height="14" frameX="-3" frameY="-3" frameWidth="168" frameHeight="32"/>
+    <SubTexture name="line_01_error" x="168" y="987" width="156" height="26" frameX="-3" frameY="0" frameWidth="168" frameHeight="28"/>
+    <SubTexture name="line_01_reading" x="2" y="981" width="164" height="28" frameX="-1" frameY="0" frameWidth="168" frameHeight="28"/>
+    <SubTexture name="line_02_canceling" x="546" y="941" width="156" height="21" frameX="-3" frameY="-6" frameWidth="168" frameHeight="27"/>
+    <SubTexture name="line_02_checking" x="437" y="796" width="162" height="27" frameX="-4" frameY="0" frameWidth="168" frameHeight="27"/>
+    <SubTexture name="line_02_error" x="326" y="987" width="156" height="27" frameX="-1" frameY="0" frameWidth="168" frameHeight="27"/>
+    <SubTexture name="line_03_canceling" x="456" y="961" width="86" height="20" frameX="-41" frameY="-9" frameWidth="168" frameHeight="30"/>
+    <SubTexture name="line_03_error" x="601" y="796" width="158" height="30" frameX="-3" frameY="0" frameWidth="168" frameHeight="30"/>
+    <SubTexture name="line_03_looking" x="544" y="964" width="146" height="28" frameX="-2" frameY="0" frameWidth="168" frameHeight="30"/>
+    <SubTexture name="line_04_canceling" x="704" y="941" width="88" height="19" frameX="-39" frameY="-8" frameWidth="168" frameHeight="29"/>
+    <SubTexture name="line_04_error" x="794" y="909" width="142" height="29" frameX="-2" frameY="0" frameWidth="168" frameHeight="29"/>
+    <SubTexture name="line_04_writing" x="484" y="994" width="144" height="27" frameX="-1" frameY="0" frameWidth="168" frameHeight="29"/>
+    <SubTexture name="line_05_canceling" x="456" y="938" width="88" height="21" frameX="-39" frameY="0" frameWidth="168" frameHeight="23"/>
+    <SubTexture name="line_05_success" x="938" y="908" width="72" height="17" frameX="-47" frameY="-2" frameWidth="168" frameHeight="23"/>
+    <SubTexture name="page_motorconf" x="443" y="395" width="399" height="399" frameX="-12" frameY="-6" frameWidth="453" frameHeight="409"/>
+    <SubTexture name="page_splat_00" x="443" y="2" width="443" height="391" frameX="-8" frameY="-6" frameWidth="453" frameHeight="409"/>
+    <SubTexture name="page_splat_01" x="2" y="2" width="439" height="403" frameX="-2" frameY="-4" frameWidth="453" frameHeight="409"/>
+    <SubTexture name="page_togu" x="2" y="407" width="433" height="405" frameX="-8" frameY="-4" frameWidth="453" frameHeight="409"/>
+</TextureAtlas>

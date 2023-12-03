@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:979dd98f69e090eeffd725d2f1d89375:5d2c69f7bcadd8b0bf7d72f946406dd9:21ce52041fd91773f91b9a9055029957$ -->
+<TextureAtlas imagePath="Office_Sprite_01.png">
+    <SubTexture name="desk_drafter_screen_on" x="2" y="2" width="105" height="37"/>
+    <SubTexture name="desk_keys" x="32" y="173" width="21" height="14"/>
+    <SubTexture name="desk_programmer_screen_on" x="188" y="237" width="62" height="40"/>
+    <SubTexture name="desk_screwdriver" x="2" y="173" width="28" height="17"/>
+    <SubTexture name="desk_spider" x="212" y="137" width="39" height="23"/>
+    <SubTexture name="door_bathroom_closed" x="153" y="324" width="77" height="66"/>
+    <SubTexture name="door_robots_closed" x="2" y="192" width="47" height="314"/>
+    <SubTexture name="door_server_closed" x="109" y="2" width="101" height="188"/>
+    <SubTexture name="kitchen_cabinet_left_closed" x="212" y="162" width="33" height="73"/>
+    <SubTexture name="kitchen_cabinet_left_open" x="212" y="2" width="40" height="71"/>
+    <SubTexture name="kitchen_cabinet_right_closed" x="55" y="173" width="29" height="66"/>
+    <SubTexture name="kitchen_cabinet_right_open" x="212" y="75" width="40" height="60"/>
+    <SubTexture name="kitchen_microwave_closed" x="51" y="276" width="26" height="33"/>
+    <SubTexture name="kitchen_microwave_open" x="51" y="241" width="28" height="33"/>
+    <SubTexture name="programmer_chip" x="86" y="173" width="20" height="8"/>
+    <SubTexture name="programmer_drawer_both" x="51" y="324" width="100" height="130"/>
+    <SubTexture name="programmer_drawer_lower" x="86" y="192" width="100" height="130"/>
+    <SubTexture name="programmer_drawer_upper" x="2" y="41" width="100" height="130"/>
+    <SubTexture name="programmer_lid" x="188" y="279" width="60" height="43"/>
+</TextureAtlas>

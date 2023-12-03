@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f606e70e5b18747bf8dc7f5fa054b2c6:c1b1608e0aec1ff0b89c5e078a9a306f:05698f5efd3c9ea95ef47e2d95599d08$ -->
+<TextureAtlas imagePath="ServerRoom_Sprite_01.jpg">
+    <SubTexture name="bg_fader_closed" x="1600" y="256" width="400" height="256"/>
+    <SubTexture name="bg_fader_open" x="1600" y="0" width="400" height="256"/>
+    <SubTexture name="serverRoom_bg" x="800" y="0" width="800" height="512"/>
+    <SubTexture name="serverRoom_bg_lit" x="0" y="0" width="800" height="512"/>
+</TextureAtlas>

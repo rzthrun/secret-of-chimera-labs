@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0455b815362f043b779e83e94ee2d63c:1f1dbf270fad017d28563a7f66dec4bd:74532e1bce9f7da0767d4df8e6875292$ -->
+<TextureAtlas imagePath="RoboticsRoom_Sprite_01.png">
+    <SubTexture name="body_head_open" x="199" y="147" width="25" height="21"/>
+    <SubTexture name="body_ribs_open" x="77" y="197" width="73" height="46"/>
+    <SubTexture name="body_ribs_open_hole_open" x="2" y="189" width="73" height="46"/>
+    <SubTexture name="body_ribs_open_hole_power" x="112" y="149" width="73" height="46"/>
+    <SubTexture name="cutters" x="112" y="2" width="85" height="145"/>
+    <SubTexture name="desk_cab_left_open" x="199" y="2" width="53" height="46"/>
+    <SubTexture name="desk_cab_right_open" x="199" y="50" width="30" height="45"/>
+    <SubTexture name="desk_claw" x="199" y="97" width="26" height="48"/>
+    <SubTexture name="door" x="2" y="2" width="108" height="185"/>
+    <SubTexture name="koma_holder_empty" x="227" y="133" width="25" height="34"/>
+    <SubTexture name="koma_holder_power" x="227" y="97" width="25" height="34"/>
+    <SubTexture name="koma_hood_down" x="187" y="170" width="62" height="36"/>
+    <SubTexture name="koma_hood_up" x="2" y="237" width="59" height="75"/>
+</TextureAtlas>

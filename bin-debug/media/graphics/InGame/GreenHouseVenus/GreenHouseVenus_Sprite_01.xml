@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a6a0decb21aa39bf92bc65a51b32e09f:1ae1e8e9ca77cd609996ab842f1f8377:758f74478aa1e1f0fe9d009539102671$ -->
+<TextureAtlas imagePath="GreenHouseVenus_Sprite_01.png">
+    <SubTexture name="disc_00" x="326" y="657" width="48" height="50"/>
+    <SubTexture name="disc_01" x="326" y="605" width="48" height="50"/>
+    <SubTexture name="disc_02" x="326" y="553" width="48" height="50"/>
+    <SubTexture name="disc_03" x="326" y="501" width="48" height="50"/>
+    <SubTexture name="disc_04" x="326" y="449" width="48" height="50"/>
+    <SubTexture name="disc_05" x="326" y="397" width="48" height="50"/>
+    <SubTexture name="disc_06" x="1019" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="48" frameHeight="50"/>
+    <SubTexture name="disc_07" x="1019" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="48" frameHeight="50"/>
+    <SubTexture name="left_00" x="2" y="1177" width="258" height="189" frameX="-4" frameY="0" frameWidth="262" frameHeight="189"/>
+    <SubTexture name="left_01" x="262" y="1177" width="258" height="179" frameX="-2" frameY="-4" frameWidth="262" frameHeight="189"/>
+    <SubTexture name="left_02" x="522" y="1214" width="258" height="161" frameX="0" frameY="-12" frameWidth="262" frameHeight="189"/>
+    <SubTexture name="left_03" x="646" y="950" width="260" height="139" frameX="0" frameY="-27" frameWidth="262" frameHeight="189"/>
+    <SubTexture name="left_04" x="646" y="1091" width="260" height="121" frameX="0" frameY="-40" frameWidth="262" frameHeight="189"/>
+    <SubTexture name="left_05" x="738" y="440" width="262" height="131" frameX="0" frameY="-31" frameWidth="262" frameHeight="189"/>
+    <SubTexture name="main_00" x="2" y="2" width="404" height="393" frameX="-15" frameY="0" frameWidth="424" frameHeight="397"/>
+    <SubTexture name="main_01" x="408" y="2" width="366" height="389" frameX="-38" frameY="0" frameWidth="424" frameHeight="397"/>
+    <SubTexture name="main_02" x="408" y="393" width="328" height="383" frameX="-61" frameY="0" frameWidth="424" frameHeight="397"/>
+    <SubTexture name="main_03" x="2" y="796" width="294" height="379" frameX="-78" frameY="0" frameWidth="424" frameHeight="397"/>
+    <SubTexture name="main_04" x="738" y="573" width="260" height="375" frameX="-93" frameY="0" frameWidth="424" frameHeight="397"/>
+    <SubTexture name="main_05" x="2" y="1368" width="224" height="371" frameX="-107" frameY="0" frameWidth="424" frameHeight="397"/>
+    <SubTexture name="main_06" x="326" y="778" width="318" height="397" frameX="-6" frameY="0" frameWidth="424" frameHeight="397"/>
+    <SubTexture name="main_07" x="2" y="397" width="322" height="397" frameX="-21" frameY="0" frameWidth="424" frameHeight="397"/>
+    <SubTexture name="metal" x="497" y="1377" width="216" height="115"/>
+    <SubTexture name="right_00" x="776" y="2" width="241" height="95" frameX="-2" frameY="-44" frameWidth="245" frameHeight="141"/>
+    <SubTexture name="right_01" x="776" y="224" width="239" height="101" frameX="-3" frameY="-26" frameWidth="245" frameHeight="141"/>
+    <SubTexture name="right_02" x="776" y="327" width="237" height="111" frameX="-3" frameY="-15" frameWidth="245" frameHeight="141"/>
+    <SubTexture name="right_03" x="782" y="1341" width="235" height="119" frameX="-3" frameY="-7" frameWidth="245" frameHeight="141"/>
+    <SubTexture name="right_04" x="262" y="1358" width="233" height="123" frameX="-5" frameY="-3" frameWidth="245" frameHeight="141"/>
+    <SubTexture name="right_05" x="782" y="1214" width="235" height="125" frameX="-5" frameY="-1" frameWidth="245" frameHeight="141"/>
+    <SubTexture name="right_06" x="776" y="99" width="239" height="123" frameX="-4" frameY="-3" frameWidth="245" frameHeight="141"/>
+</TextureAtlas>

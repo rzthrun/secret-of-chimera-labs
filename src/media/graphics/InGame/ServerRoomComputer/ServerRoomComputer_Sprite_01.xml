@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:93eb063238e9b615a852f0a697b03561:dfd6cf24c221c0268b595dd71c53aa37:cb385f2b33fadbebfbbf023c35fac3d5$ -->
+<TextureAtlas imagePath="ServerRoomComputer_Sprite_01.png">
+    <SubTexture name="core_on" x="2" y="855" width="162" height="141"/>
+    <SubTexture name="cube_clean" x="185" y="330" width="55" height="47"/>
+    <SubTexture name="cube_damage" x="185" y="281" width="55" height="47"/>
+    <SubTexture name="eye" x="185" y="219" width="60" height="60"/>
+    <SubTexture name="lid_off" x="2" y="2" width="223" height="215"/>
+    <SubTexture name="lid_on" x="2" y="696" width="172" height="157"/>
+    <SubTexture name="lid_on_hot" x="2" y="537" width="172" height="157"/>
+    <SubTexture name="screen" x="2" y="378" width="181" height="157"/>
+    <SubTexture name="screen_blank" x="2" y="219" width="181" height="157"/>
+</TextureAtlas>

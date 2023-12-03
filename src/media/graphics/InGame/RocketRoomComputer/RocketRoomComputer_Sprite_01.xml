@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:21e5ca3d4fb37afdab2f3e2c3d3de7a2:2b1fbc955bbb77485167613a362b8e04:0e6e0f2cb8d4e5c743c01cd51754712a$ -->
+<TextureAtlas imagePath="RocketRoomComputer_Sprite_01.png">
+    <SubTexture name="highlight_rect" x="2" y="1167" width="237" height="51"/>
+    <SubTexture name="install_highlight" x="158" y="1226" width="152" height="58"/>
+    <SubTexture name="knub_00" x="952" y="73" width="38" height="49"/>
+    <SubTexture name="knub_01" x="984" y="21" width="38" height="50"/>
+    <SubTexture name="knub_02" x="912" y="111" width="36" height="50"/>
+    <SubTexture name="knub_03" x="912" y="60" width="38" height="49"/>
+    <SubTexture name="line_00_looking" x="241" y="1197" width="154" height="27" frameX="-4" frameY="0" frameWidth="168" frameHeight="27"/>
+    <SubTexture name="line_00_waiting" x="912" y="21" width="70" height="17" frameX="-7" frameY="0" frameWidth="168" frameHeight="27"/>
+    <SubTexture name="line_01_detecting" x="241" y="1167" width="164" height="28" frameX="-4" frameY="0" frameWidth="168" frameHeight="28"/>
+    <SubTexture name="line_01_error" x="2" y="1276" width="144" height="26" frameX="-3" frameY="0" frameWidth="168" frameHeight="28"/>
+    <SubTexture name="line_02_cancel" x="397" y="1213" width="154" height="18" frameX="-5" frameY="-8" frameWidth="168" frameHeight="26"/>
+    <SubTexture name="line_02_error" x="2" y="1248" width="150" height="26" frameX="-5" frameY="0" frameWidth="168" frameHeight="26"/>
+    <SubTexture name="line_02_establish" x="2" y="1220" width="154" height="26" frameX="-5" frameY="0" frameWidth="168" frameHeight="26"/>
+    <SubTexture name="line_03_cancel" x="912" y="2" width="88" height="17" frameX="-42" frameY="0" frameWidth="168" frameHeight="27"/>
+    <SubTexture name="line_03_installing" x="882" y="806" width="138" height="25" frameX="-6" frameY="-2" frameWidth="168" frameHeight="27"/>
+    <SubTexture name="line_04_success" x="912" y="40" width="68" height="18" frameX="-51" frameY="0" frameWidth="168" frameHeight="18"/>
+    <SubTexture name="page_budget" x="2" y="810" width="419" height="355" frameX="-25" frameY="-13" frameWidth="469" frameHeight="413"/>
+    <SubTexture name="page_cupid_00" x="2" y="409" width="443" height="399" frameX="-5" frameY="-4" frameWidth="453" frameHeight="409"/>
+    <SubTexture name="page_cupid_01" x="2" y="2" width="453" height="405" frameX="0" frameY="-4" frameWidth="453" frameHeight="409"/>
+    <SubTexture name="page_mpp" x="447" y="806" width="433" height="405" frameX="-6" frameY="-4" frameWidth="453" frameHeight="409"/>
+    <SubTexture name="page_regulus_00" x="457" y="2" width="453" height="395" frameX="0" frameY="-5" frameWidth="453" frameHeight="409"/>
+    <SubTexture name="page_regulus_01" x="457" y="399" width="445" height="405" frameX="-5" frameY="-2" frameWidth="453" frameHeight="409"/>
+</TextureAtlas>

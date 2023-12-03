@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0449dfc66389869c92d6cde2f63ff664:45b1940831f555b6305a203e46d4df10:638e0e4c04c5a4bbbde92f54467339f2$ -->
+<TextureAtlas imagePath="OfficeKitchenSink_Sprite_01.png">
+    <SubTexture name="coffeeLid_off" x="239" y="130" width="225" height="132"/>
+    <SubTexture name="coffeeLid_on" x="226" y="264" width="208" height="104"/>
+    <SubTexture name="drawer_left" x="2" y="2" width="420" height="99"/>
+    <SubTexture name="drawer_right" x="2" y="242" width="222" height="52"/>
+    <SubTexture name="tongs" x="2" y="103" width="235" height="137"/>
+    <SubTexture name="water_flow" x="424" y="2" width="65" height="126" frameX="0" frameY="0" frameWidth="65" frameHeight="128"/>
+</TextureAtlas>

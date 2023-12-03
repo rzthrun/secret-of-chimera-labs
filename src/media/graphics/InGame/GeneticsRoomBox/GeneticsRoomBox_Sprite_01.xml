@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:32632a0d036a4fd4bfd2540db8af637d:85c27b2f0bc6163ba7cfc965dbed5004:25f41109a52581af509f576c91b2314d$ -->
+<TextureAtlas imagePath="GeneticsRoomBox_Sprite_01.png">
+    <SubTexture name="chamber_glow" x="798" y="332" width="64" height="79"/>
+    <SubTexture name="door_on" x="2" y="2" width="684" height="512" frameX="0" frameY="0" frameWidth="730" frameHeight="512"/>
+    <SubTexture name="goo_hood" x="688" y="2" width="269" height="114"/>
+    <SubTexture name="hand" x="688" y="118" width="108" height="240"/>
+    <SubTexture name="lazer" x="999" y="2" width="16" height="124"/>
+    <SubTexture name="lead_left" x="900" y="118" width="29" height="118" frameX="0" frameY="0" frameWidth="29" frameHeight="300"/>
+    <SubTexture name="lead_left_lazer" x="990" y="128" width="29" height="300"/>
+    <SubTexture name="lead_right" x="900" y="238" width="29" height="116" frameX="0" frameY="0" frameWidth="29" frameHeight="300"/>
+    <SubTexture name="lead_right_lazer" x="959" y="24" width="29" height="300"/>
+    <SubTexture name="spot_goo" x="798" y="256" width="100" height="44"/>
+    <SubTexture name="spot_iodine" x="798" y="210" width="100" height="44"/>
+    <SubTexture name="spot_iodine_goo" x="798" y="164" width="100" height="44"/>
+    <SubTexture name="spot_nails" x="959" y="2" width="38" height="20" frameX="-34" frameY="-9" frameWidth="100" frameHeight="44"/>
+    <SubTexture name="spot_nails_iodine" x="798" y="302" width="70" height="28" frameX="-15" frameY="-8" frameWidth="100" frameHeight="44"/>
+    <SubTexture name="spot_nails_iodine_goo" x="798" y="118" width="100" height="44"/>
+</TextureAtlas>

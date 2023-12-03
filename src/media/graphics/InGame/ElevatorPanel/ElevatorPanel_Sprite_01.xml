@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:df3574cae6fef44c5804644db4695678:da147ec82e536579f97d236e6d627c1e:e65c98c996f9599b64460d9ca15d85ba$ -->
+<TextureAtlas imagePath="ElevatorPanel_Sprite_01.png">
+    <SubTexture name="buttons_on" x="2" y="2" width="95" height="391"/>
+    <SubTexture name="lable_1" x="2" y="419" width="89" height="22" frameX="0" frameY="0" frameWidth="271" frameHeight="22"/>
+    <SubTexture name="lable_2" x="275" y="2" width="191" height="22" frameX="0" frameY="0" frameWidth="271" frameHeight="22"/>
+    <SubTexture name="lable_3" x="2" y="395" width="271" height="22"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:52e7d947865984b9733f3cafb3f031ef:2540b542cd2896e0353d4b63c0972c0f:ed50e63fa6faff7347d5ac19292a1aac$ -->
+<TextureAtlas imagePath="ExteriorFireEscapeUpper_Sprite_01.png">
+    <SubTexture name="geneticsDoor_closed" x="213" y="2" width="177" height="342"/>
+    <SubTexture name="geneticsDoor_open" x="2" y="2" width="209" height="361"/>
+    <SubTexture name="metal_bar" x="2" y="365" width="153" height="137"/>
+</TextureAtlas>

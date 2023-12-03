@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:15f08dc0d16901edf701d6f8def1d49e:eb763cf8370168702e99bf7daff2415d:3c65d7f8ba67bf111681e02e94c32185$ -->
+<TextureAtlas imagePath="GeneticsRoomElectron_Sprite_01.png">
+    <SubTexture name="black_tube_off" x="209" y="215" width="40" height="196"/>
+    <SubTexture name="black_tube_on" x="379" y="2" width="103" height="131"/>
+    <SubTexture name="bottle_a_empty" x="309" y="318" width="57" height="106"/>
+    <SubTexture name="bottle_a_full" x="370" y="270" width="57" height="106"/>
+    <SubTexture name="bottle_c_empty" x="309" y="215" width="59" height="101"/>
+    <SubTexture name="bottle_c_full" x="441" y="236" width="59" height="101"/>
+    <SubTexture name="bottle_g_empty" x="429" y="339" width="56" height="107"/>
+    <SubTexture name="bottle_g_full" x="251" y="270" width="56" height="107"/>
+    <SubTexture name="bottle_t_empty" x="379" y="169" width="60" height="99"/>
+    <SubTexture name="bottle_t_full" x="448" y="135" width="60" height="99"/>
+    <SubTexture name="dna_container_empty" x="211" y="2" width="166" height="211"/>
+    <SubTexture name="dna_container_flowl" x="2" y="215" width="166" height="211"/>
+    <SubTexture name="dna_container_full" x="2" y="2" width="166" height="211"/>
+    <SubTexture name="eyes" x="379" y="135" width="67" height="32"/>
+    <SubTexture name="indicator_full" x="170" y="270" width="16" height="142"/>
+    <SubTexture name="lever_a_left" x="155" y="428" width="54" height="39" frameX="0" frameY="-13" frameWidth="66" frameHeight="53"/>
+    <SubTexture name="lever_a_right" x="44" y="428" width="36" height="53" frameX="-30" frameY="0" frameWidth="66" frameHeight="53"/>
+    <SubTexture name="lever_c_left" x="251" y="215" width="51" height="38" frameX="0" frameY="-14" frameWidth="63" frameHeight="52"/>
+    <SubTexture name="lever_c_right" x="82" y="428" width="35" height="52" frameX="-28" frameY="0" frameWidth="63" frameHeight="52"/>
+    <SubTexture name="lever_g_left" x="155" y="469" width="54" height="38" frameX="0" frameY="-16" frameWidth="70" frameHeight="54"/>
+    <SubTexture name="lever_g_right" x="2" y="428" width="40" height="54" frameX="-29" frameY="0" frameWidth="70" frameHeight="54"/>
+    <SubTexture name="lever_t_left" x="254" y="379" width="50" height="36" frameX="0" frameY="-13" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="lever_t_right" x="119" y="428" width="34" height="50" frameX="-26" frameY="0" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="test_tube_empty" x="170" y="136" width="37" height="132"/>
+    <SubTexture name="test_tube_full" x="170" y="2" width="37" height="132"/>
+    <SubTexture name="wheel" x="211" y="413" width="41" height="86"/>
+</TextureAtlas>

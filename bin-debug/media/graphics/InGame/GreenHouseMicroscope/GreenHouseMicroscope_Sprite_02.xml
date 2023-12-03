@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ce7ea31f7110753e23e0c3edff91ce0e:e072082efa3849e2452eaa7be187de3e:9a17d6c11bb3e9ea2fcd9a357575e168$ -->
+<TextureAtlas imagePath="GreenHouseMicroscope_Sprite_02.png">
+    <SubTexture name="mic_hood" x="0" y="0" width="800" height="512"/>
+</TextureAtlas>

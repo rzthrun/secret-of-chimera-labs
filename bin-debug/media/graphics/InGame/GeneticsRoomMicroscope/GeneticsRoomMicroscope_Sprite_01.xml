@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d019e98e48515bac0602b10ae8f4e8bd:203572b9f4dc904e834a05fe9149ef8b:2684971a400db3fd5b28484794887110$ -->
+<TextureAtlas imagePath="GeneticsRoomMicroscope_Sprite_01.png">
+    <SubTexture name="adenine" x="804" y="2" width="149" height="156" frameX="-25" frameY="0" frameWidth="177" frameHeight="156"/>
+    <SubTexture name="at_connect" x="955" y="63" width="42" height="55" frameX="-57" frameY="-7" frameWidth="104" frameHeight="67"/>
+    <SubTexture name="cg_connect" x="2" y="596" width="78" height="61" frameX="-6" frameY="-2" frameWidth="104" frameHeight="67"/>
+    <SubTexture name="cytosine" x="804" y="318" width="143" height="136" frameX="0" frameY="-19" frameWidth="177" frameHeight="156"/>
+    <SubTexture name="gc_connect" x="945" y="456" width="76" height="61" frameX="-21" frameY="-4" frameWidth="104" frameHeight="67"/>
+    <SubTexture name="guanine" x="804" y="160" width="143" height="156" frameX="-14" frameY="0" frameWidth="177" frameHeight="156"/>
+    <SubTexture name="micro_hood" x="2" y="2" width="800" height="512"/>
+    <SubTexture name="purine_connect" x="1004" y="2" width="3" height="50"/>
+    <SubTexture name="pyrimidine_connect" x="999" y="2" width="3" height="80"/>
+    <SubTexture name="square_green" x="949" y="206" width="41" height="41"/>
+    <SubTexture name="square_red" x="949" y="163" width="41" height="41"/>
+    <SubTexture name="square_yellow" x="955" y="120" width="41" height="41"/>
+    <SubTexture name="ta_connect" x="955" y="2" width="42" height="59" frameX="-5" frameY="-1" frameWidth="104" frameHeight="67"/>
+    <SubTexture name="thymine" x="804" y="456" width="139" height="138" frameX="-2" frameY="-17" frameWidth="177" frameHeight="156"/>
+</TextureAtlas>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:217e92ca19d95e80ee7729e55de51e26:06836b848b8b6c374ecabefdfdc6b338:bd3447411859e6e8e55c06a39102626c$ -->
+<TextureAtlas imagePath="ThirdFloorHall_Sprite_01.png">
+    <SubTexture name="elevator_frame_00" x="92" y="2" width="88" height="371"/>
+    <SubTexture name="elevator_frame_01" x="2" y="375" width="88" height="371"/>
+    <SubTexture name="elevator_frame_02" x="2" y="2" width="88" height="371"/>
+    <SubTexture name="elevator_frame_03" x="182" y="372" width="1" height="1" frameX="0" frameY="0" frameWidth="88" frameHeight="371"/>
+    <SubTexture name="ethernet" x="2" y="953" width="139" height="41"/>
+    <SubTexture name="heavy_door_locked" x="283" y="2" width="199" height="201"/>
+    <SubTexture name="heavy_mc_frame_00" x="283" y="205" width="196" height="199" frameX="-1" frameY="-2" frameWidth="198" frameHeight="203"/>
+    <SubTexture name="heavy_mc_frame_01" x="2" y="748" width="174" height="203" frameX="-24" frameY="0" frameWidth="198" frameHeight="203"/>
+    <SubTexture name="heavy_mc_frame_02" x="92" y="375" width="150" height="203" frameX="-48" frameY="0" frameWidth="198" frameHeight="203"/>
+    <SubTexture name="heavy_mc_frame_03" x="314" y="816" width="134" height="203" frameX="-64" frameY="0" frameWidth="198" frameHeight="203"/>
+    <SubTexture name="heavy_mc_frame_04" x="314" y="611" width="134" height="203" frameX="-64" frameY="0" frameWidth="198" frameHeight="203"/>
+    <SubTexture name="heavy_mc_frame_05" x="178" y="816" width="134" height="203" frameX="-64" frameY="0" frameWidth="198" frameHeight="203"/>
+    <SubTexture name="heavy_mc_frame_06" x="178" y="611" width="134" height="203" frameX="-64" frameY="0" frameWidth="198" frameHeight="203"/>
+    <SubTexture name="heavy_mc_frame_07" x="244" y="406" width="134" height="203" frameX="-64" frameY="0" frameWidth="198" frameHeight="203"/>
+    <SubTexture name="heavy_mc_frame_08" x="182" y="372" width="1" height="1" frameX="0" frameY="0" frameWidth="198" frameHeight="203"/>
+    <SubTexture name="lab_door" x="182" y="2" width="99" height="328"/>
+    <SubTexture name="latch_closed" x="143" y="953" width="33" height="27"/>
+    <SubTexture name="latch_open" x="182" y="332" width="31" height="38"/>
+    <SubTexture name="red_disc" x="92" y="580" width="62" height="63"/>
+</TextureAtlas>

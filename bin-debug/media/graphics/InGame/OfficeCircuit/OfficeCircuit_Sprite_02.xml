@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0360b3617c7516284e2c128f3f8d8efe:4839014f4c728a9428e2539fe95e1905:440ce1e28153581890a92694c6846486$ -->
+<TextureAtlas imagePath="OfficeCircuit_Sprite_02.png">
+    <SubTexture name="spider_legs_frame_00" x="2" y="156" width="194" height="141" frameX="0" frameY="-2" frameWidth="196" frameHeight="154"/>
+    <SubTexture name="spider_legs_frame_01" x="195" y="299" width="193" height="139" frameX="-2" frameY="-6" frameWidth="196" frameHeight="154"/>
+    <SubTexture name="spider_legs_frame_02" x="2" y="2" width="196" height="152" frameX="0" frameY="0" frameWidth="196" frameHeight="154"/>
+    <SubTexture name="spider_legs_frame_03" x="2" y="299" width="191" height="145" frameX="-5" frameY="-4" frameWidth="196" frameHeight="154"/>
+    <SubTexture name="spider_legs_frame_04" x="200" y="2" width="194" height="153" frameX="-2" frameY="-1" frameWidth="196" frameHeight="154"/>
+</TextureAtlas>

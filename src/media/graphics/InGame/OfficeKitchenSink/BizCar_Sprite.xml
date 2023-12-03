@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d63975eab7d3b18a38ec1cd0c4fbabff:1879f485472ea1e25228fcf4139b9aad:0ab60b3108e1e046efa5b47f8c334459$ -->
+<TextureAtlas imagePath="BizCar_Sprite.png">
+    <SubTexture name="BizCard_page_00" x="2" y="374" width="606" height="364" frameX="-97" frameY="-60" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="BizCard_page_01" x="2" y="2" width="610" height="370" frameX="-95" frameY="-57" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

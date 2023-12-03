@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7987ede214fc8b4abcdc65404c9ec26a:0f39bb291bcd7744508a3297b54d58d5:43a98adccf1c7359dff12f4d2e462695$ -->
+<TextureAtlas imagePath="LabDoor_Sprite_01.png">
+    <SubTexture name="burn" x="563" y="2" width="204" height="512"/>
+    <SubTexture name="door_closed" x="2" y="2" width="559" height="512"/>
+    <SubTexture name="goo" x="2" y="889" width="107" height="110"/>
+    <SubTexture name="smoke" x="2" y="516" width="268" height="371"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3c87f0b3a511a78768b32c4c950bfcb6:4c1a5048fe56f43f7849f84bb4656f9b:ee0a92e55a7eac74ae697d0e6f00df67$ -->
+<TextureAtlas imagePath="DirLock_Sprite_02.png">
+    <SubTexture name="light_blue" x="2" y="32" width="13" height="13"/>
+    <SubTexture name="light_green" x="17" y="17" width="13" height="13"/>
+    <SubTexture name="light_red" x="2" y="17" width="13" height="13"/>
+    <SubTexture name="light_white" x="17" y="2" width="13" height="13"/>
+    <SubTexture name="light_yellow" x="2" y="2" width="13" height="13"/>
+</TextureAtlas>

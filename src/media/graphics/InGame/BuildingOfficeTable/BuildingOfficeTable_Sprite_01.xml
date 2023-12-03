@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c39581ec4cdb446c14a515e9d56674f2:1bca2fd37ed290c0015e74d5c68c19b2:e16a44dfb1819536da3a49db5715375b$ -->
+<TextureAtlas imagePath="BuildingOfficeTable_Sprite_01.png">
+    <SubTexture name="book" x="2" y="364" width="96" height="88"/>
+    <SubTexture name="chisel" x="276" y="2" width="185" height="108"/>
+    <SubTexture name="lid_off" x="276" y="112" width="177" height="250"/>
+    <SubTexture name="lid_on" x="2" y="2" width="272" height="135" frameX="0" frameY="-2" frameWidth="272" frameHeight="137"/>
+    <SubTexture name="slide" x="2" y="454" width="65" height="36"/>
+    <SubTexture name="stone" x="100" y="139" width="150" height="68"/>
+</TextureAtlas>

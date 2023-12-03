@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d4a215ff3b2d79c720a7e3f3f9443e55:7660ae68479f44b2d8ae467520ba7c61:58cb1d5c76ce15cfb4dd560bb7398a81$ -->
+<TextureAtlas imagePath="GeneticsRoom_Sprite_01.png">
+    <SubTexture name="box_door_closed" x="110" y="2" width="106" height="102"/>
+    <SubTexture name="box_door_closed_hand" x="2" y="2" width="106" height="102"/>
+    <SubTexture name="box_door_open" x="101" y="106" width="72" height="118"/>
+    <SubTexture name="box_hand" x="218" y="44" width="23" height="48"/>
+    <SubTexture name="exit_door" x="2" y="106" width="97" height="172"/>
+    <SubTexture name="micro_bottle_a_empty" x="243" y="73" width="10" height="27"/>
+    <SubTexture name="micro_bottle_a_full" x="243" y="44" width="10" height="27"/>
+    <SubTexture name="micro_bottle_c_empty" x="230" y="199" width="12" height="27"/>
+    <SubTexture name="micro_bottle_c_full" x="216" y="187" width="12" height="27"/>
+    <SubTexture name="micro_bottle_g_full" x="238" y="102" width="16" height="29"/>
+    <SubTexture name="micro_bottle_t_full" x="216" y="216" width="12" height="26"/>
+    <SubTexture name="micro_dna_empty" x="175" y="208" width="39" height="61"/>
+    <SubTexture name="micro_dna_full" x="175" y="145" width="39" height="61"/>
+    <SubTexture name="micro_hose_on" x="231" y="178" width="13" height="19"/>
+    <SubTexture name="micro_test_tube_empty" x="233" y="133" width="13" height="43"/>
+    <SubTexture name="micro_test_tube_full" x="218" y="117" width="13" height="43"/>
+    <SubTexture name="table_cup" x="218" y="94" width="18" height="21"/>
+    <SubTexture name="table_door_closed" x="175" y="106" width="41" height="37"/>
+    <SubTexture name="table_door_open" x="218" y="2" width="25" height="40"/>
+    <SubTexture name="table_slot" x="216" y="162" width="13" height="23"/>
+    <SubTexture name="table_stone" x="101" y="226" width="45" height="14"/>
+    <SubTexture name="table_tube" x="101" y="242" width="42" height="39"/>
+</TextureAtlas>

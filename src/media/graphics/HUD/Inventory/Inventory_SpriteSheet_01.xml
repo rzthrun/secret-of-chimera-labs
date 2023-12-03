@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6b7e06e4fba9deda238f491797dd363a:271b14483036a09b1e00dc2722ff0d9e:9b444d895084332c85b84b95f1030ca0$ -->
+<TextureAtlas imagePath="Inventory_SpriteSheet_01.png">
+    <SubTexture name="inven_allenWrench_sm" x="200" y="530" width="64" height="64"/>
+    <SubTexture name="inven_boltCutters_sm" x="134" y="530" width="64" height="64"/>
+    <SubTexture name="inven_bookAsimov_sm" x="68" y="530" width="64" height="64"/>
+    <SubTexture name="inven_bookClarke_sm" x="2" y="926" width="64" height="64"/>
+    <SubTexture name="inven_bookHeinlein_sm" x="194" y="596" width="56" height="64" frameX="-3" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="inven_bookOrwell_sm" x="68" y="660" width="56" height="64" frameX="-2" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="inven_bookSagan_sm" x="2" y="860" width="64" height="64"/>
+    <SubTexture name="inven_bottleC_sm" x="2" y="794" width="64" height="64"/>
+    <SubTexture name="inven_bottleG_sm" x="2" y="728" width="64" height="64"/>
+    <SubTexture name="inven_carKeys_sm" x="2" y="662" width="64" height="64"/>
+    <SubTexture name="inven_cellFull_sm" x="2" y="596" width="64" height="64"/>
+    <SubTexture name="inven_cell_sm" x="2" y="530" width="64" height="64"/>
+    <SubTexture name="inven_chisel_sm" x="398" y="464" width="64" height="64"/>
+    <SubTexture name="inven_claw_sm" x="332" y="464" width="64" height="64"/>
+    <SubTexture name="inven_coffeePotFull_sm" x="266" y="464" width="64" height="64"/>
+    <SubTexture name="inven_coffeePot_sm" x="200" y="464" width="64" height="64"/>
+    <SubTexture name="inven_controller_sm" x="134" y="464" width="64" height="64"/>
+    <SubTexture name="inven_cord_sm" x="68" y="464" width="64" height="64"/>
+    <SubTexture name="inven_crowbar_sm" x="2" y="464" width="64" height="64"/>
+    <SubTexture name="inven_cubeDamage_sm" x="398" y="398" width="64" height="64"/>
+    <SubTexture name="inven_cube_sm" x="332" y="398" width="64" height="64"/>
+    <SubTexture name="inven_dnaJar_sm" x="266" y="398" width="64" height="64"/>
+    <SubTexture name="inven_drill_sm" x="266" y="594" width="64" height="62" frameX="0" frameY="-1" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="inven_eggplant_sm" x="200" y="398" width="64" height="64"/>
+    <SubTexture name="inven_ethernet_sm" x="134" y="398" width="64" height="64"/>
+    <SubTexture name="inven_eyeglasses_sm" x="332" y="594" width="64" height="56" frameX="0" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="inven_fuseBlue_sm" x="68" y="398" width="64" height="64"/>
+    <SubTexture name="inven_fuseGreen_sm" x="2" y="398" width="64" height="64"/>
+    <SubTexture name="inven_fuseRed_sm" x="398" y="332" width="64" height="64"/>
+    <SubTexture name="inven_gasMask_sm" x="332" y="332" width="64" height="64"/>
+    <SubTexture name="inven_hand_sm" x="266" y="332" width="64" height="64"/>
+    <SubTexture name="inven_handlerCup_sm" x="200" y="332" width="64" height="64"/>
+    <SubTexture name="inven_handler_sm" x="134" y="332" width="64" height="64"/>
+    <SubTexture name="inven_hdd_sm" x="68" y="332" width="64" height="64"/>
+    <SubTexture name="inven_injectorFull_sm" x="2" y="332" width="64" height="64"/>
+    <SubTexture name="inven_injector_sm" x="398" y="266" width="64" height="64"/>
+    <SubTexture name="inven_iodine_sm" x="332" y="266" width="64" height="64"/>
+    <SubTexture name="inven_jarFullIodine_sm" x="266" y="266" width="64" height="64"/>
+    <SubTexture name="inven_jarFullRockIodine_sm" x="200" y="266" width="64" height="64"/>
+    <SubTexture name="inven_jarFullRock_sm" x="134" y="266" width="64" height="64"/>
+    <SubTexture name="inven_jarFull_sm" x="68" y="266" width="64" height="64"/>
+    <SubTexture name="inven_jarIodine_sm" x="2" y="266" width="64" height="64"/>
+    <SubTexture name="inven_jarRockIodine_sm" x="398" y="200" width="64" height="64"/>
+    <SubTexture name="inven_jarRock_sm" x="332" y="200" width="64" height="64"/>
+    <SubTexture name="inven_jar_sm" x="396" y="660" width="62" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="inven_keyCard_sm" x="332" y="652" width="62" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="inven_knob_sm" x="398" y="530" width="64" height="62" frameX="0" frameY="-1" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="inven_komaDial_sm" x="266" y="200" width="64" height="64"/>
+    <SubTexture name="inven_labTongs_sm" x="200" y="200" width="64" height="64"/>
+    <SubTexture name="inven_lens_sm" x="134" y="200" width="64" height="64"/>
+    <SubTexture name="inven_metal_sm" x="68" y="200" width="64" height="64"/>
+    <SubTexture name="inven_orb_sm" x="2" y="200" width="64" height="64"/>
+    <SubTexture name="inven_paperTowels_sm" x="398" y="134" width="64" height="64"/>
+    <SubTexture name="inven_pearlBlue_sm" x="332" y="134" width="64" height="64"/>
+    <SubTexture name="inven_pearlGreen_sm" x="266" y="134" width="64" height="64"/>
+    <SubTexture name="inven_pearlRed_sm" x="200" y="134" width="64" height="64"/>
+    <SubTexture name="inven_powerSupply_sm" x="332" y="530" width="64" height="62" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="inven_pushBox_sm" x="134" y="134" width="64" height="64"/>
+    <SubTexture name="inven_redRock_sm" x="68" y="134" width="64" height="64"/>
+    <SubTexture name="inven_sampleNails_sm" x="2" y="134" width="64" height="64"/>
+    <SubTexture name="inven_sampleTweezers_sm" x="132" y="596" width="60" height="64" frameX="-2" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="inven_screwdriver_sm" x="398" y="68" width="64" height="64"/>
+    <SubTexture name="inven_slide_sm" x="332" y="68" width="64" height="64"/>
+    <SubTexture name="inven_smallKey_sm" x="266" y="68" width="64" height="64"/>
+    <SubTexture name="inven_splat_sm" x="200" y="68" width="64" height="64"/>
+    <SubTexture name="inven_sprayCan_sm" x="398" y="594" width="62" height="64" frameX="-2" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="inven_stick_sm" x="68" y="596" width="62" height="62" frameX="-2" frameY="-2" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="inven_stoneOne_sm" x="134" y="68" width="64" height="64"/>
+    <SubTexture name="inven_stoneThree_sm" x="68" y="68" width="64" height="64"/>
+    <SubTexture name="inven_stoneTwo_sm" x="266" y="530" width="64" height="62" frameX="0" frameY="-1" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="inven_syringeFull_sm" x="2" y="68" width="64" height="64"/>
+    <SubTexture name="inven_syringe_sm" x="398" y="2" width="64" height="64"/>
+    <SubTexture name="inven_testTubeHalf_sm" x="332" y="2" width="64" height="64"/>
+    <SubTexture name="inven_testTube_sm" x="266" y="2" width="64" height="64"/>
+    <SubTexture name="inven_tinyDriver_sm" x="200" y="2" width="64" height="64"/>
+    <SubTexture name="inven_tubeBlue_sm" x="134" y="2" width="64" height="64"/>
+    <SubTexture name="inven_tubeEmpty_sm" x="68" y="2" width="64" height="64"/>
+    <SubTexture name="inven_tubeRed_sm" x="2" y="2" width="64" height="64"/>
+</TextureAtlas>

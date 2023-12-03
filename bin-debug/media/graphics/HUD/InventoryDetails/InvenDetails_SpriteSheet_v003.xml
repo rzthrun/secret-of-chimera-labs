@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7cc4c2aeaf2e6ddd411dad66a6b147d7:b2a5204e3ee8f86a93345c3738459418:f0715b493273f42eb30645c21ec60129$ -->
+<TextureAtlas imagePath="InvenDetails_SpriteSheet_v003.png">
+    <SubTexture name="inven_detail_coffeePot" x="2" y="2" width="196" height="190" frameX="0" frameY="-4" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_jar" x="2" y="194" width="170" height="192" frameX="-5" frameY="-2" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_jarIodine" x="2" y="388" width="174" height="192" frameX="-6" frameY="-2" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_lens" x="2" y="582" width="196" height="196"/>
+    <SubTexture name="inven_detail_tubeEmpty" x="2" y="780" width="192" height="196" frameX="-3" frameY="0" frameWidth="196" frameHeight="196"/>
+</TextureAtlas>

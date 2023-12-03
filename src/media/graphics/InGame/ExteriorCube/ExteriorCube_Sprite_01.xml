@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:aa5a90f22b5f3b15c269f0dc1959dbfd:34e943205aa73b5c25b0fd9ee81283b3:a20bc62361b6bc39a925a996057407fd$ -->
+<TextureAtlas imagePath="ExteriorCube_Sprite_01.png">
+    <SubTexture name="marq_00" x="2" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="4" frameHeight="4"/>
+</TextureAtlas>

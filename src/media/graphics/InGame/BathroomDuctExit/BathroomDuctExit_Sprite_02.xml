@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ed8e7d61ff44d07472031efe85338319:5ef1242b341cd59e15214d5ce320042d:c8b6661faed467db9905ee07f9b91053$ -->
+<TextureAtlas imagePath="BathroomDuctExit_Sprite_02.png">
+    <SubTexture name="grate" x="2" y="516" width="397" height="320" frameX="0" frameY="0" frameWidth="398" frameHeight="320"/>
+    <SubTexture name="vent_hood" x="2" y="2" width="800" height="512"/>
+</TextureAtlas>

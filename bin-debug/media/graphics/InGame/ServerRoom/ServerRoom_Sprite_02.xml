@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bb4bee6fac29a7ce1d2e5e2103494a74:d845403b61dc6d2b44e589472338dc56:2a48e7aeb6107b65d53057557ce159c4$ -->
+<TextureAtlas imagePath="ServerRoom_Sprite_02.png">
+    <SubTexture name="bigbox_lid_open" x="200" y="315" width="127" height="90"/>
+    <SubTexture name="bigbox_lid_red_open" x="71" y="315" width="127" height="90"/>
+    <SubTexture name="bilbox_lid_open" x="87" y="421" width="113" height="87"/>
+    <SubTexture name="computer_core_off" x="265" y="462" width="48" height="48"/>
+    <SubTexture name="computer_cube" x="84" y="407" width="15" height="12"/>
+    <SubTexture name="computer_eye" x="202" y="466" width="19" height="20"/>
+    <SubTexture name="computer_lid_ff" x="329" y="313" width="61" height="60"/>
+    <SubTexture name="computer_lid_on" x="265" y="407" width="51" height="53"/>
+    <SubTexture name="computer_screen" x="202" y="407" width="61" height="57"/>
+    <SubTexture name="door_closed" x="393" y="62" width="98" height="289" frameX="-1" frameY="-4" frameWidth="120" frameHeight="309"/>
+    <SubTexture name="door_red_closed" x="271" y="2" width="120" height="309"/>
+    <SubTexture name="green_light" x="71" y="407" width="11" height="14"/>
+    <SubTexture name="shine_light" x="2" y="2" width="267" height="311" frameX="0" frameY="-4" frameWidth="267" frameHeight="315"/>
+    <SubTexture name="spider_eyes_00" x="164" y="407" width="19" height="7"/>
+    <SubTexture name="spider_eyes_01" x="143" y="407" width="19" height="7"/>
+    <SubTexture name="spider_eyes_02" x="122" y="407" width="19" height="7"/>
+    <SubTexture name="spider_eyes_03" x="101" y="407" width="19" height="7"/>
+    <SubTexture name="vent_off" x="2" y="315" width="67" height="107"/>
+    <SubTexture name="vent_off_fall" x="393" y="2" width="108" height="58"/>
+    <SubTexture name="vent_on" x="2" y="424" width="83" height="83"/>
+</TextureAtlas>

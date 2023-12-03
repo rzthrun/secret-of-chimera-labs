@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:58727cd308ca2b43283c8538ddf10852:d06bfb5b42c51348ef11d4fb661c6caa:535309db3e0c41bf3c17f0e4cde7f5e6$ -->
+<TextureAtlas imagePath="ExteriorCarFront_Sprite_01.png">
+    <SubTexture name="book_c" x="135" y="242" width="113" height="76"/>
+    <SubTexture name="card" x="2" y="421" width="70" height="52"/>
+    <SubTexture name="dash" x="2" y="196" width="131" height="223"/>
+    <SubTexture name="glovebox" x="2" y="2" width="214" height="192"/>
+    <SubTexture name="keys" x="218" y="2" width="22" height="62"/>
+    <SubTexture name="keys_on" x="218" y="66" width="22" height="58" frameX="0" frameY="0" frameWidth="22" frameHeight="62"/>
+    <SubTexture name="screwdriver" x="135" y="196" width="115" height="44"/>
+</TextureAtlas>

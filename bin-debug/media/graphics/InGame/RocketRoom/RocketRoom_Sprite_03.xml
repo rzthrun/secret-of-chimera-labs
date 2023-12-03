@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:783e648a70362275eb1686c2ab951ac9:83604d9d74513cd0a38b5a9ab97bafc8:49a421206d35430ae2f015a7ba98a0c9$ -->
+<TextureAtlas imagePath="RocketRoom_Sprite_03.png">
+    <SubTexture name="creature_open" x="1887" y="2" width="87" height="86"/>
+    <SubTexture name="creature_pearl" x="1798" y="2" width="87" height="86"/>
+    <SubTexture name="growth_frame_00" x="1541" y="2" width="255" height="172" frameX="-244" frameY="-293" frameWidth="511" frameHeight="472"/>
+    <SubTexture name="growth_frame_01" x="1028" y="472" width="511" height="214" frameX="0" frameY="-258" frameWidth="511" frameHeight="472"/>
+    <SubTexture name="growth_frame_02" x="515" y="472" width="511" height="214" frameX="0" frameY="-258" frameWidth="511" frameHeight="472"/>
+    <SubTexture name="growth_frame_03" x="2" y="1742" width="511" height="214" frameX="0" frameY="-258" frameWidth="511" frameHeight="472"/>
+    <SubTexture name="growth_frame_04" x="2" y="1526" width="511" height="214" frameX="0" frameY="-258" frameWidth="511" frameHeight="472"/>
+    <SubTexture name="growth_frame_05" x="2" y="1212" width="511" height="312" frameX="0" frameY="-160" frameWidth="511" frameHeight="472"/>
+    <SubTexture name="growth_frame_06" x="2" y="898" width="511" height="312" frameX="0" frameY="-160" frameWidth="511" frameHeight="472"/>
+    <SubTexture name="growth_frame_07" x="2" y="472" width="511" height="424" frameX="0" frameY="-48" frameWidth="511" frameHeight="472"/>
+    <SubTexture name="growth_frame_08" x="1028" y="2" width="511" height="468" frameX="0" frameY="-4" frameWidth="511" frameHeight="472"/>
+    <SubTexture name="growth_frame_09" x="515" y="2" width="511" height="468" frameX="0" frameY="-4" frameWidth="511" frameHeight="472"/>
+    <SubTexture name="growth_frame_10" x="2" y="2" width="511" height="468" frameX="0" frameY="-4" frameWidth="511" frameHeight="472"/>
+</TextureAtlas>

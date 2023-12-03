@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8f393f1a4fc0ec6bc2895747818d5711:f31fa34f38b8a04030ec098dfac08acd:fed064e64c2de3f307732bda90bbaa1d$ -->
+<TextureAtlas imagePath="ServerRoomTable_Sprite_01.png">
+    <SubTexture name="0_apple" x="625" y="1021" width="133" height="127" frameX="0" frameY="-13" frameWidth="133" frameHeight="155"/>
+    <SubTexture name="0_cube" x="159" y="1021" width="133" height="129" frameX="0" frameY="-20" frameWidth="133" frameHeight="155"/>
+    <SubTexture name="0_cylinder" x="2" y="1180" width="115" height="153" frameX="-18" frameY="-2" frameWidth="133" frameHeight="155"/>
+    <SubTexture name="0_eggplant" x="316" y="995" width="133" height="153" frameX="0" frameY="-2" frameWidth="133" frameHeight="155"/>
+    <SubTexture name="0_orange" x="451" y="1128" width="129" height="127" frameX="-4" frameY="-23" frameWidth="133" frameHeight="155"/>
+    <SubTexture name="0_sphere" x="159" y="1152" width="121" height="127" frameX="-5" frameY="-23" frameWidth="133" frameHeight="155"/>
+    <SubTexture name="1_apple" x="533" y="631" width="168" height="163" frameX="0" frameY="-20" frameWidth="168" frameHeight="183"/>
+    <SubTexture name="1_cube" x="748" y="627" width="168" height="169" frameX="0" frameY="-14" frameWidth="168" frameHeight="183"/>
+    <SubTexture name="1_cylinder" x="294" y="1150" width="128" height="171" frameX="-40" frameY="0" frameWidth="168" frameHeight="183"/>
+    <SubTexture name="1_eggplant" x="872" y="798" width="148" height="181" frameX="-20" frameY="0" frameWidth="168" frameHeight="183"/>
+    <SubTexture name="1_orange" x="2" y="647" width="160" height="171" frameX="-8" frameY="-12" frameWidth="168" frameHeight="183"/>
+    <SubTexture name="1_sphere" x="533" y="796" width="168" height="151" frameX="0" frameY="-32" frameWidth="168" frameHeight="183"/>
+    <SubTexture name="2_apple" x="321" y="812" width="155" height="181" frameX="0" frameY="-10" frameWidth="155" frameHeight="191"/>
+    <SubTexture name="2_cube" x="164" y="647" width="155" height="191"/>
+    <SubTexture name="2_cylinder" x="2" y="820" width="155" height="189" frameX="0" frameY="-2" frameWidth="155" frameHeight="191"/>
+    <SubTexture name="2_eggplant" x="478" y="949" width="145" height="177" frameX="0" frameY="-14" frameWidth="155" frameHeight="191"/>
+    <SubTexture name="2_orange" x="159" y="840" width="155" height="179" frameX="0" frameY="-12" frameWidth="155" frameHeight="191"/>
+    <SubTexture name="2_sphere" x="2" y="1011" width="155" height="167" frameX="0" frameY="-24" frameWidth="155" frameHeight="191"/>
+    <SubTexture name="3_apple" x="571" y="235" width="179" height="189" frameX="-9" frameY="-23" frameWidth="197" frameHeight="233"/>
+    <SubTexture name="3_cube" x="571" y="426" width="175" height="203" frameX="0" frameY="-30" frameWidth="197" frameHeight="233"/>
+    <SubTexture name="3_cylinder" x="388" y="195" width="181" height="233" frameX="-16" frameY="0" frameWidth="197" frameHeight="233"/>
+    <SubTexture name="3_eggplant" x="360" y="599" width="171" height="211" frameX="0" frameY="-22" frameWidth="197" frameHeight="233"/>
+    <SubTexture name="3_orange" x="2" y="468" width="173" height="177" frameX="-15" frameY="-33" frameWidth="197" frameHeight="233"/>
+    <SubTexture name="3_sphere" x="768" y="201" width="179" height="191" frameX="-9" frameY="-24" frameWidth="197" frameHeight="233"/>
+    <SubTexture name="4_apple" x="185" y="440" width="173" height="205" frameX="-2" frameY="-26" frameWidth="181" frameHeight="231"/>
+    <SubTexture name="4_cube" x="2" y="235" width="181" height="231"/>
+    <SubTexture name="4_cylinder" x="195" y="207" width="181" height="231"/>
+    <SubTexture name="4_eggplant" x="872" y="981" width="147" height="211" frameX="-24" frameY="-20" frameWidth="181" frameHeight="231"/>
+    <SubTexture name="4_orange" x="378" y="430" width="175" height="167" frameX="-6" frameY="-34" frameWidth="181" frameHeight="231"/>
+    <SubTexture name="4_sphere" x="768" y="2" width="181" height="197" frameX="0" frameY="-34" frameWidth="181" frameHeight="231"/>
+    <SubTexture name="5_apple" x="581" y="2" width="185" height="231" frameX="0" frameY="0" frameWidth="191" frameHeight="231"/>
+    <SubTexture name="5_cube" x="195" y="2" width="191" height="203" frameX="0" frameY="-26" frameWidth="191" frameHeight="231"/>
+    <SubTexture name="5_cylinder" x="703" y="798" width="167" height="221" frameX="-15" frameY="0" frameWidth="191" frameHeight="231"/>
+    <SubTexture name="5_eggplant" x="752" y="394" width="175" height="231" frameX="-4" frameY="0" frameWidth="191" frameHeight="231"/>
+    <SubTexture name="5_orange" x="2" y="2" width="191" height="231"/>
+    <SubTexture name="5_sphere" x="388" y="2" width="191" height="191" frameX="0" frameY="-40" frameWidth="191" frameHeight="231"/>
+</TextureAtlas>

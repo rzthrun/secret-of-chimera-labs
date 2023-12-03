@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:719f5bd52165179c01ac75d35afc9e16:fa255b843ca1bc6f2e133f5e55d59f38:35c98d8af08f7be53a9a537492f709d6$ -->
+<TextureAtlas imagePath="ContainmentHatch_Sprite_01.png">
+    <SubTexture name="hatch_green" x="2" y="990" width="496" height="454"/>
+    <SubTexture name="hatch_open" x="706" y="2" width="302" height="142"/>
+    <SubTexture name="hatch_orange" x="500" y="534" width="496" height="454"/>
+    <SubTexture name="hatch_red" x="2" y="534" width="496" height="454"/>
+    <SubTexture name="light_orange" x="2" y="268" width="702" height="264"/>
+    <SubTexture name="light_red" x="2" y="2" width="702" height="264"/>
+    <SubTexture name="screen_blank" x="1010" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="103" frameHeight="103"/>
+    <SubTexture name="screen_green_lock" x="916" y="251" width="103" height="103"/>
+    <SubTexture name="screen_orange_hand" x="811" y="251" width="103" height="103"/>
+    <SubTexture name="screen_orange_lock" x="706" y="251" width="103" height="103"/>
+    <SubTexture name="screen_orange_x" x="916" y="146" width="103" height="103"/>
+    <SubTexture name="screen_red_disc" x="811" y="146" width="103" height="103"/>
+    <SubTexture name="screen_red_unlock" x="706" y="146" width="103" height="103"/>
+</TextureAtlas>

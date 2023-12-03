@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:48fca8d80f65885f127a0beffb95e104:18ff7bef30e2b062b6fcfbf7ff2f22db:e62f8aa085bc9bbd19a06ab87d64384c$ -->
+<TextureAtlas imagePath="ContainmentConsole_Sprite_01.png">
+    <SubTexture name="q_spinner_00" x="148" y="572" width="144" height="283" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_01" x="680" y="2" width="96" height="277" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_02" x="872" y="2" width="92" height="237" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_03" x="960" y="468" width="62" height="217" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_04" x="342" y="765" width="46" height="245" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_05" x="148" y="287" width="144" height="283" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_06" x="148" y="2" width="144" height="283" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_07" x="870" y="241" width="88" height="275" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_08" x="62" y="857" width="1" height="1" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_09" x="44" y="857" width="16" height="163" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_10" x="870" y="518" width="56" height="245" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_11" x="438" y="2" width="142" height="283" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_12" x="2" y="572" width="144" height="283" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_13" x="582" y="2" width="96" height="277" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_14" x="778" y="2" width="92" height="237" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_15" x="960" y="249" width="62" height="217" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_16" x="294" y="765" width="46" height="245" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_17" x="2" y="287" width="144" height="283" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_18" x="2" y="2" width="144" height="283" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_19" x="778" y="241" width="90" height="277" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_20" x="2" y="857" width="40" height="163" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_21" x="928" y="687" width="46" height="167" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_22" x="966" y="2" width="56" height="245" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+    <SubTexture name="q_spinner_23" x="294" y="2" width="142" height="283" frameX="0" frameY="0" frameWidth="146" frameHeight="311"/>
+</TextureAtlas>

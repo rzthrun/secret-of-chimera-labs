@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b068973e6e0500977d2f19e20400dba1:bbafdf6c58cc00d1b55a9c372bcff508:6607a34bf90b12d29607bf63c1c04129$ -->
+<TextureAtlas imagePath="Rorschach_Book_Sprite.png">
+    <SubTexture name="Rorschach_page_00" x="368" y="2" width="364" height="500" frameX="-220" frameY="-4" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="Rorschach_page_01" x="2" y="504" width="364" height="500" frameX="-220" frameY="-4" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="Rorschach_page_02" x="2" y="2" width="364" height="500" frameX="-220" frameY="-4" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

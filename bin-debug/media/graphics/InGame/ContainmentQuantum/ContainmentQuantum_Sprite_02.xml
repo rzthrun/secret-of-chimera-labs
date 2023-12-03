@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b84c9dff57544e6c073fc25a110ed560:0c7eb4394fc85dc72fdbeabb34fb32cc:c9f1d25a937fbda40ddad04237dbba35$ -->
+<TextureAtlas imagePath="ContainmentQuantum_Sprite_02.png">
+    <SubTexture name="shine" x="2" y="2" width="483" height="485" frameX="0" frameY="0" frameWidth="485" frameHeight="485"/>
+    <SubTexture name="shine_core" x="374" y="489" width="270" height="268" frameX="0" frameY="-1" frameWidth="270" frameHeight="270"/>
+    <SubTexture name="shine_whole" x="2" y="489" width="370" height="370"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:89af1d00feacedc342e0add1838fcdd4:67a7c3f97f29b023146fb402c0645fa0:0116fedec94baf1c92932d77c50b4ac5$ -->
+<TextureAtlas imagePath="InvenDetails_SpriteSheet_v005.png">
+    <SubTexture name="inven_detail_cellFull" x="2" y="2" width="196" height="196"/>
+    <SubTexture name="inven_detail_dnaJar" x="200" y="2" width="194" height="196" frameX="0" frameY="0" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_eggplant" x="2" y="200" width="148" height="180" frameX="-24" frameY="-6" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_ethenet" x="152" y="200" width="186" height="196" frameX="-6" frameY="0" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_iodine" x="2" y="398" width="176" height="186" frameX="-5" frameY="-3" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_jarFullIodine" x="180" y="398" width="192" height="192" frameX="0" frameY="-2" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_jarFullRockIodine" x="2" y="592" width="192" height="194" frameX="0" frameY="-2" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_pushBox" x="196" y="592" width="196" height="194" frameX="0" frameY="-1" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_testTube" x="2" y="788" width="192" height="188" frameX="0" frameY="-4" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_testTubeHalf" x="196" y="788" width="192" height="188" frameX="0" frameY="-4" frameWidth="196" frameHeight="196"/>
+</TextureAtlas>

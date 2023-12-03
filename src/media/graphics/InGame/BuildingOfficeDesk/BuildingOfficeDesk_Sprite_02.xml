@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a09bcef939126e6a19710c331a736736:f226b4b54fc4fe8c0aa989a317f67ec3:7477200cb7d484d9f131ff96f7eaf9cb$ -->
+<TextureAtlas imagePath="BuildingOfficeDesk_Sprite_02.png">
+    <SubTexture name="morse_page_00" x="2" y="2" width="315" height="436" frameX="-242" frameY="-21" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="morse_page_01" x="319" y="2" width="630" height="435" frameX="-85" frameY="-23" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

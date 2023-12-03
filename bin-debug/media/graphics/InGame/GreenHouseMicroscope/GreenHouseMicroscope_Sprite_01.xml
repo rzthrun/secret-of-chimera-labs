@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ebe85046d700b06947f67fc0ef8a568a:7ac0657864a31073667869004365e708:a65aaac75a5250296f040147fbf19929$ -->
+<TextureAtlas imagePath="GreenHouseMicroscope_Sprite_01.png">
+    <SubTexture name="cabbage" x="404" y="108" width="49" height="47"/>
+    <SubTexture name="cabbage_broken" x="954" y="325" width="51" height="51"/>
+    <SubTexture name="cell" x="857" y="2" width="162" height="162"/>
+    <SubTexture name="goat" x="940" y="456" width="77" height="75"/>
+    <SubTexture name="goat_broken" x="916" y="577" width="83" height="82"/>
+    <SubTexture name="nucelus" x="857" y="166" width="157" height="157"/>
+    <SubTexture name="top_cap" x="2" y="2" width="451" height="104"/>
+    <SubTexture name="top_cap_cabbage" x="891" y="737" width="83" height="74"/>
+    <SubTexture name="top_cap_goat" x="806" y="673" width="83" height="74"/>
+    <SubTexture name="top_cap_wolf" x="916" y="661" width="83" height="74"/>
+    <SubTexture name="upload_button_00" x="806" y="577" width="108" height="94"/>
+    <SubTexture name="upload_button_01" x="1021" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="108" frameHeight="94"/>
+    <SubTexture name="walls_00" x="2" y="1656" width="400" height="256"/>
+    <SubTexture name="walls_01" x="2" y="1398" width="400" height="256"/>
+    <SubTexture name="walls_02" x="404" y="1292" width="400" height="256"/>
+    <SubTexture name="walls_03" x="2" y="1140" width="400" height="256"/>
+    <SubTexture name="walls_04" x="404" y="1034" width="400" height="256"/>
+    <SubTexture name="walls_05" x="2" y="882" width="400" height="256"/>
+    <SubTexture name="walls_06" x="404" y="776" width="400" height="256"/>
+    <SubTexture name="walls_07" x="2" y="624" width="400" height="256"/>
+    <SubTexture name="walls_08" x="404" y="518" width="400" height="256"/>
+    <SubTexture name="walls_09" x="2" y="366" width="400" height="256"/>
+    <SubTexture name="walls_10" x="404" y="260" width="400" height="256"/>
+    <SubTexture name="walls_11" x="2" y="108" width="400" height="256"/>
+    <SubTexture name="walls_12" x="455" y="2" width="400" height="256"/>
+    <SubTexture name="wolf" x="806" y="456" width="132" height="119"/>
+    <SubTexture name="wolf_broken" x="806" y="325" width="146" height="129"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d5f85dde63ea8e7f3d57379dbe32167a:9e74d182d64d5ddc7cb46da17873dfa1:d44aacef3aef05156654d1a151438ad0$ -->
+<TextureAtlas imagePath="ElectricBox_Sprite_01.png">
+    <SubTexture name="bottom" x="229" y="2" width="15" height="66"/>
+    <SubTexture name="off_bend" x="91" y="180" width="87" height="87"/>
+    <SubTexture name="off_end" x="2" y="180" width="87" height="87"/>
+    <SubTexture name="off_straight" x="2" y="358" width="85" height="87" frameX="-1" frameY="0" frameWidth="87" frameHeight="87"/>
+    <SubTexture name="off_three" x="91" y="91" width="87" height="87"/>
+    <SubTexture name="on_bend" x="2" y="91" width="87" height="87"/>
+    <SubTexture name="on_end" x="91" y="2" width="87" height="87"/>
+    <SubTexture name="on_straight" x="2" y="269" width="85" height="87" frameX="-1" frameY="0" frameWidth="87" frameHeight="87"/>
+    <SubTexture name="on_three" x="2" y="2" width="87" height="87"/>
+    <SubTexture name="switchOn" x="180" y="2" width="47" height="111"/>
+</TextureAtlas>

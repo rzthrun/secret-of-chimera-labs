@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:058a1371a1a74bb08243817c7e227876:657c060afa37a359db27874e820bef2d:cc6c68ef3663daf9d7a520d00353a28e$ -->
+<TextureAtlas imagePath="BuildingOfficePainting_Sprite_01.png">
+    <SubTexture name="canvas_off" x="461" y="2" width="124" height="512"/>
+    <SubTexture name="canvas_on" x="2" y="2" width="457" height="512"/>
+    <SubTexture name="lid_off" x="2" y="516" width="184" height="241"/>
+    <SubTexture name="lid_on" x="2" y="759" width="216" height="223"/>
+    <SubTexture name="stone" x="220" y="691" width="169" height="173"/>
+    <SubTexture name="tube" x="188" y="516" width="169" height="173"/>
+    <SubTexture name="tube_alone" x="220" y="866" width="145" height="99" frameX="-9" frameY="-74" frameWidth="169" frameHeight="173"/>
+</TextureAtlas>

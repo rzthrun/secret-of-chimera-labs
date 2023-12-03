@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ff507423733ceae80c8a563aba6bcd2a:a4508a3ceb329e87d77091e1416360fe:2973f3aae56eadb65921a0cf674a254c$ -->
+<TextureAtlas imagePath="GreenHouseDeepShelf_Sprite_01.png">
+    <SubTexture name="book" x="350" y="152" width="91" height="118"/>
+    <SubTexture name="fridge_closed" x="2" y="240" width="115" height="227"/>
+    <SubTexture name="fridge_open" x="2" y="2" width="98" height="236"/>
+    <SubTexture name="left_closed" x="232" y="2" width="132" height="132"/>
+    <SubTexture name="left_open" x="232" y="136" width="116" height="121"/>
+    <SubTexture name="right_closed" x="119" y="179" width="110" height="141"/>
+    <SubTexture name="right_open" x="366" y="2" width="129" height="148"/>
+    <SubTexture name="stone" x="102" y="2" width="128" height="175"/>
+    <SubTexture name="vial" x="443" y="152" width="52" height="111"/>
+    <SubTexture name="waterflow" x="102" y="179" width="9" height="52"/>
+</TextureAtlas>

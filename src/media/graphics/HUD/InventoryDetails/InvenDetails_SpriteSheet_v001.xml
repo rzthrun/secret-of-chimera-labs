@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:03b52f37453778bdb3be8d7c8be3fe2f:ebf600fa1d64ed440344b0fa1e0d4dc9:f9474e0f43c65099e1d1a136ee862158$ -->
+<TextureAtlas imagePath="InvenDetails_SpriteSheet_v001.png">
+    <SubTexture name="inven_detail_injector" x="2" y="2" width="192" height="194" frameX="-4" frameY="0" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_injectorFull" x="196" y="2" width="192" height="194" frameX="-4" frameY="0" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_jarFull" x="2" y="198" width="164" height="194" frameX="-22" frameY="-2" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_jarFullRock" x="168" y="198" width="170" height="194" frameX="-16" frameY="-2" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_pearlBlue" x="340" y="198" width="164" height="172" frameX="-10" frameY="-14" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_powerSupply" x="2" y="394" width="190" height="184" frameX="-3" frameY="-2" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_screwdriver" x="194" y="394" width="194" height="194" frameX="-1" frameY="-1" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_tubeBlue" x="2" y="590" width="192" height="196" frameX="-3" frameY="0" frameWidth="196" frameHeight="196"/>
+</TextureAtlas>

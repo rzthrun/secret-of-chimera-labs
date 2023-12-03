@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:88a305fb63bc19b02f191db1f4a1c5a6:e760b24a6fc8894267b80b9c1c3328d1:414c6c73e5685a3651d050f66a99c42e$ -->
+<TextureAtlas imagePath="SignIn_Sprite.png">
+    <SubTexture name="SignIn_Page_00" x="2" y="2" width="654" height="490" frameX="-69" frameY="-5" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

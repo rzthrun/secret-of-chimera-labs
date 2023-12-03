@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ad430c9ff4ac013e31e99a90e8f0cd41:ba49ef3a154d5b49f12974a6d075ebc3:18060a44529f8b63be58c26f5a92c7cd$ -->
+<TextureAtlas imagePath="BuildingOfficeDesk_Sprite_01.png">
+    <SubTexture name="allen_wench" x="394" y="407" width="96" height="60"/>
+    <SubTexture name="box_open" x="2" y="381" width="196" height="118"/>
+    <SubTexture name="door_closed" x="200" y="407" width="192" height="159"/>
+    <SubTexture name="drawer_lower" x="262" y="151" width="237" height="89"/>
+    <SubTexture name="drawer_middle" x="262" y="2" width="247" height="147"/>
+    <SubTexture name="drawer_upper" x="2" y="2" width="258" height="212"/>
+    <SubTexture name="fuse" x="424" y="299" width="53" height="34"/>
+    <SubTexture name="knob" x="424" y="242" width="80" height="55"/>
+    <SubTexture name="screen_on" x="213" y="242" width="209" height="163"/>
+    <SubTexture name="screen_turn_on" x="2" y="216" width="209" height="163"/>
+</TextureAtlas>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4acd91173b98cb36f7f5131c6cc4b6bc:bba5de7aedb6671d12f5cd00cd6575ad:4ba00a64660eac0a9c7fa10d31b4e8cc$ -->
+<TextureAtlas imagePath="DeepLabDesk_Sprite_01.png">
+    <SubTexture name="base_orange" x="227" y="404" width="124" height="60"/>
+    <SubTexture name="base_purple" x="227" y="342" width="124" height="60"/>
+    <SubTexture name="base_red" x="2" y="434" width="124" height="60"/>
+    <SubTexture name="cell_plate" x="2" y="360" width="129" height="72"/>
+    <SubTexture name="drip" x="471" y="2" width="10" height="73"/>
+    <SubTexture name="fire" x="353" y="342" width="77" height="67"/>
+    <SubTexture name="glass_black" x="126" y="602" width="50" height="33"/>
+    <SubTexture name="glass_purple" x="254" y="535" width="48" height="35"/>
+    <SubTexture name="glass_tube_purple" x="137" y="336" width="88" height="125"/>
+    <SubTexture name="glass_twist_pink" x="2" y="496" width="122" height="155"/>
+    <SubTexture name="glass_twist_red" x="290" y="2" width="179" height="142"/>
+    <SubTexture name="glass_yellow" x="438" y="235" width="62" height="139"/>
+    <SubTexture name="jar_attached" x="438" y="146" width="72" height="87"/>
+    <SubTexture name="jar_iodine" x="190" y="535" width="62" height="67"/>
+    <SubTexture name="jar_pink" x="408" y="515" width="62" height="67"/>
+    <SubTexture name="jar_rock" x="126" y="533" width="62" height="67"/>
+    <SubTexture name="jar_rock_iodine" x="344" y="480" width="62" height="67"/>
+    <SubTexture name="jar_rock_water" x="280" y="466" width="62" height="67"/>
+    <SubTexture name="jar_rock_water_iodine" x="216" y="466" width="62" height="67"/>
+    <SubTexture name="jar_water" x="353" y="411" width="62" height="67"/>
+    <SubTexture name="jar_water_iodine" x="432" y="376" width="62" height="67"/>
+    <SubTexture name="lid_off" x="137" y="266" width="103" height="68"/>
+    <SubTexture name="lid_on" x="417" y="445" width="86" height="68"/>
+    <SubTexture name="lid_pink" x="128" y="463" width="86" height="68"/>
+    <SubTexture name="purpleSlime" x="259" y="146" width="177" height="194"/>
+    <SubTexture name="purpleSlimeDrip" x="2" y="2" width="286" height="133"/>
+    <SubTexture name="spark" x="2" y="266" width="133" height="92"/>
+    <SubTexture name="steam" x="2" y="137" width="255" height="127"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:669797a133775168832a879d496ba382:190e564fc6a4909c810d979b6191676f:b7215019e1211dab2d516aeb3ef52ba1$ -->
+<TextureAtlas imagePath="ExteriorCarFront_Sprite_02.png">
+    <SubTexture name="morse" x="2" y="2" width="707" height="413"/>
+</TextureAtlas>

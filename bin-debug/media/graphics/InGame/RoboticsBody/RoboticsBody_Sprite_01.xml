@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:543d6989a96d08f1c1348d88c9f8b1ac:14eee046ac317d34718503c41c4f03c1:b9c710efbf24b7d60686af4be2e3af1b$ -->
+<TextureAtlas imagePath="RoboticsBody_Sprite_01.png">
+    <SubTexture name="book_bg" x="2" y="267" width="200" height="128"/>
+    <SubTexture name="cap_nake" x="474" y="32" width="27" height="26" frameX="-5" frameY="-4" frameWidth="47" frameHeight="42"/>
+    <SubTexture name="cap_off" x="463" y="267" width="47" height="40" frameX="0" frameY="-1" frameWidth="47" frameHeight="42"/>
+    <SubTexture name="cap_on" x="474" y="2" width="35" height="28" frameX="0" frameY="0" frameWidth="47" frameHeight="42"/>
+    <SubTexture name="chest_open" x="2" y="2" width="470" height="263"/>
+    <SubTexture name="controller" x="302" y="510" width="53" height="90"/>
+    <SubTexture name="cord" x="357" y="530" width="69" height="73"/>
+    <SubTexture name="cube" x="443" y="494" width="60" height="39"/>
+    <SubTexture name="cube_damage" x="443" y="453" width="60" height="39"/>
+    <SubTexture name="ethernet" x="152" y="414" width="148" height="146"/>
+    <SubTexture name="ethernet_lid_off" x="2" y="397" width="148" height="146"/>
+    <SubTexture name="eyes_blue" x="363" y="336" width="98" height="67"/>
+    <SubTexture name="eyes_closed" x="363" y="267" width="98" height="67"/>
+    <SubTexture name="eyes_empty" x="503" y="32" width="1" height="1" frameX="0" frameY="0" frameWidth="98" frameHeight="67"/>
+    <SubTexture name="hole_open" x="363" y="405" width="78" height="123"/>
+    <SubTexture name="lid_open" x="204" y="267" width="157" height="145"/>
+    <SubTexture name="mouth_00" x="503" y="32" width="1" height="1" frameX="0" frameY="0" frameWidth="108" frameHeight="91"/>
+    <SubTexture name="mouth_01" x="302" y="462" width="54" height="46"/>
+    <SubTexture name="mouth_02" x="302" y="414" width="54" height="46"/>
+    <SubTexture name="power_supply" x="443" y="405" width="65" height="46"/>
+</TextureAtlas>

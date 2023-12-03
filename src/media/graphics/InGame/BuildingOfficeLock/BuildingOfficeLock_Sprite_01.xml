@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:174549fd4b5a47ffb3cba12b507f7507:6440e63efe28f93d720beebf6d4ca3b6:285ef228a193d5697bfa29fdfa3cd526$ -->
+<TextureAtlas imagePath="BuildingOfficeLock_Sprite_01.png">
+    <SubTexture name="in_0" x="0" y="0" width="28" height="41" frameX="-5" frameY="-3" frameWidth="38" frameHeight="49"/>
+    <SubTexture name="in_1" x="30" y="0" width="28" height="39" frameX="-4" frameY="-5" frameWidth="38" frameHeight="49"/>
+    <SubTexture name="in_2" x="60" y="0" width="28" height="39" frameX="-5" frameY="-5" frameWidth="38" frameHeight="49"/>
+    <SubTexture name="in_3" x="90" y="0" width="26" height="41" frameX="-6" frameY="-3" frameWidth="38" frameHeight="49"/>
+    <SubTexture name="in_4" x="118" y="0" width="32" height="39" frameX="-3" frameY="-5" frameWidth="38" frameHeight="49"/>
+    <SubTexture name="in_5" x="152" y="0" width="28" height="41" frameX="-4" frameY="-4" frameWidth="38" frameHeight="49"/>
+    <SubTexture name="in_6" x="182" y="0" width="30" height="41" frameX="-3" frameY="-3" frameWidth="38" frameHeight="49"/>
+    <SubTexture name="in_7" x="214" y="0" width="30" height="39" frameX="-3" frameY="-5" frameWidth="38" frameHeight="49"/>
+    <SubTexture name="in_8" x="246" y="0" width="30" height="41" frameX="-4" frameY="-3" frameWidth="38" frameHeight="49"/>
+    <SubTexture name="in_9" x="278" y="0" width="30" height="41" frameX="-3" frameY="-3" frameWidth="38" frameHeight="49"/>
+    <SubTexture name="pos_0_0" x="310" y="0" width="167" height="166" frameX="-1" frameY="0" frameWidth="169" frameHeight="168"/>
+    <SubTexture name="pos_0_1" x="479" y="0" width="167" height="166" frameX="-1" frameY="0" frameWidth="169" frameHeight="168"/>
+    <SubTexture name="pos_0_2" x="648" y="0" width="167" height="166" frameX="-1" frameY="0" frameWidth="169" frameHeight="168"/>
+    <SubTexture name="pos_0_3" x="817" y="0" width="167" height="166" frameX="-1" frameY="0" frameWidth="169" frameHeight="168"/>
+    <SubTexture name="pos_0_4" x="0" y="168" width="167" height="166" frameX="-1" frameY="0" frameWidth="169" frameHeight="168"/>
+    <SubTexture name="pos_0_5" x="169" y="168" width="167" height="166" frameX="-1" frameY="0" frameWidth="169" frameHeight="168"/>
+    <SubTexture name="pos_0_6" x="338" y="168" width="167" height="166" frameX="-1" frameY="0" frameWidth="169" frameHeight="168"/>
+    <SubTexture name="pos_0_7" x="507" y="168" width="167" height="166" frameX="-1" frameY="0" frameWidth="169" frameHeight="168"/>
+    <SubTexture name="pos_0_8" x="676" y="168" width="167" height="166" frameX="-1" frameY="0" frameWidth="169" frameHeight="168"/>
+    <SubTexture name="pos_0_9" x="845" y="168" width="167" height="166" frameX="-1" frameY="0" frameWidth="169" frameHeight="168"/>
+    <SubTexture name="pos_1_0" x="0" y="336" width="165" height="165" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="pos_1_1" x="167" y="336" width="165" height="165" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="pos_1_2" x="334" y="336" width="165" height="165" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="pos_1_3" x="501" y="336" width="165" height="165" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="pos_1_4" x="668" y="336" width="165" height="165" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="pos_1_5" x="835" y="336" width="165" height="165" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="pos_1_6" x="0" y="503" width="165" height="165" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="pos_1_7" x="167" y="503" width="165" height="165" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="pos_1_8" x="334" y="503" width="165" height="165" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="pos_1_9" x="501" y="503" width="165" height="165" frameX="-1" frameY="0" frameWidth="167" frameHeight="167"/>
+    <SubTexture name="pos_2_0" x="668" y="503" width="168" height="165" frameX="0" frameY="-1" frameWidth="168" frameHeight="167"/>
+    <SubTexture name="pos_2_1" x="838" y="503" width="168" height="165" frameX="0" frameY="-1" frameWidth="168" frameHeight="167"/>
+    <SubTexture name="pos_2_2" x="0" y="670" width="168" height="165" frameX="0" frameY="-1" frameWidth="168" frameHeight="167"/>
+    <SubTexture name="pos_2_3" x="170" y="670" width="168" height="165" frameX="0" frameY="-1" frameWidth="168" frameHeight="167"/>
+    <SubTexture name="pos_2_4" x="340" y="670" width="168" height="165" frameX="0" frameY="-1" frameWidth="168" frameHeight="167"/>
+    <SubTexture name="pos_2_5" x="510" y="670" width="168" height="165" frameX="0" frameY="-1" frameWidth="168" frameHeight="167"/>
+    <SubTexture name="pos_2_6" x="680" y="670" width="168" height="165" frameX="0" frameY="-1" frameWidth="168" frameHeight="167"/>
+    <SubTexture name="pos_2_7" x="850" y="670" width="168" height="165" frameX="0" frameY="-1" frameWidth="168" frameHeight="167"/>
+    <SubTexture name="pos_2_8" x="0" y="837" width="168" height="165" frameX="0" frameY="-1" frameWidth="168" frameHeight="167"/>
+    <SubTexture name="pos_2_9" x="170" y="837" width="168" height="165" frameX="0" frameY="-1" frameWidth="168" frameHeight="167"/>
+    <SubTexture name="pos_3_0" x="340" y="837" width="164" height="166" frameX="-1" frameY="0" frameWidth="166" frameHeight="166"/>
+    <SubTexture name="pos_3_1" x="506" y="837" width="164" height="166" frameX="-1" frameY="0" frameWidth="166" frameHeight="166"/>
+    <SubTexture name="pos_3_2" x="672" y="837" width="164" height="166" frameX="-1" frameY="0" frameWidth="166" frameHeight="166"/>
+    <SubTexture name="pos_3_3" x="838" y="837" width="164" height="166" frameX="-1" frameY="0" frameWidth="166" frameHeight="166"/>
+    <SubTexture name="pos_3_4" x="0" y="1005" width="164" height="166" frameX="-1" frameY="0" frameWidth="166" frameHeight="166"/>
+    <SubTexture name="pos_3_5" x="166" y="1005" width="164" height="166" frameX="-1" frameY="0" frameWidth="166" frameHeight="166"/>
+    <SubTexture name="pos_3_6" x="332" y="1005" width="166" height="166"/>
+    <SubTexture name="pos_3_7" x="500" y="1005" width="164" height="166" frameX="-1" frameY="0" frameWidth="166" frameHeight="166"/>
+    <SubTexture name="pos_3_8" x="666" y="1005" width="164" height="166" frameX="-1" frameY="0" frameWidth="166" frameHeight="166"/>
+    <SubTexture name="pos_3_9" x="832" y="1005" width="164" height="166" frameX="-1" frameY="0" frameWidth="166" frameHeight="166"/>
+    <SubTexture name="wheel_0" x="0" y="1173" width="237" height="235" frameX="-2" frameY="-2" frameWidth="243" frameHeight="241"/>
+    <SubTexture name="wheel_1" x="239" y="1173" width="233" height="231" frameX="-4" frameY="-4" frameWidth="243" frameHeight="241"/>
+    <SubTexture name="wheel_2" x="474" y="1173" width="221" height="219" frameX="-10" frameY="-10" frameWidth="243" frameHeight="241"/>
+    <SubTexture name="wheel_3" x="697" y="1173" width="233" height="231" frameX="-3" frameY="-4" frameWidth="243" frameHeight="241"/>
+</TextureAtlas>

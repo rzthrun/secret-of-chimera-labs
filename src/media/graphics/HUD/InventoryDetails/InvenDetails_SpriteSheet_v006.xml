@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:26c4953726536727b5b98dfad9d8340a:6009af64b5c708b99accc81c040296d4:c983211e1e23179e95518f483643aa55$ -->
+<TextureAtlas imagePath="InvenDetails_SpriteSheet_v006.png">
+    <SubTexture name="inven_detail_boltCutters" x="2" y="2" width="194" height="196" frameX="0" frameY="0" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_bottleC" x="198" y="2" width="196" height="196"/>
+    <SubTexture name="inven_detail_claw" x="2" y="200" width="196" height="194" frameX="0" frameY="-1" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_handlerCup" x="200" y="200" width="194" height="196" frameX="-2" frameY="0" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_jarRock" x="2" y="398" width="180" height="194" frameX="-5" frameY="-2" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_jarRockIodine" x="184" y="398" width="174" height="192" frameX="-6" frameY="-2" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_pearlRed" x="2" y="594" width="166" height="168" frameX="-13" frameY="-13" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_redRock" x="170" y="594" width="196" height="196"/>
+    <SubTexture name="inven_detail_sprayCan" x="2" y="792" width="162" height="182" frameX="-17" frameY="-5" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_tubeRed" x="166" y="792" width="196" height="196"/>
+</TextureAtlas>

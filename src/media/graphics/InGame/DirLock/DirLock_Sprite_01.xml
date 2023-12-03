@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a8d93f6fe222de998671bb8a5670cbf4:12e1cca732d3f45896d0d4d0e1cc3a7f:ce1c565a1c911aff2e87c12fd5310738$ -->
+<TextureAtlas imagePath="DirLock_Sprite_01.jpg">
+    <SubTexture name="dirLock_bg" x="0" y="0" width="800" height="512"/>
+    <SubTexture name="lock_open" x="0" y="512" width="558" height="512"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:214b09efd8d78dee2dfa9941dc0d3473:a1cb8127d50178517654536d8a49a2c4:8a843d5febfd23146360e638db445a66$ -->
+<TextureAtlas imagePath="RoboticsBody_Sprite_02.png">
+    <SubTexture name="blood" x="151" y="321" width="105" height="127"/>
+    <SubTexture name="smoke" x="2" y="2" width="227" height="317" frameX="-6" frameY="0" frameWidth="239" frameHeight="317"/>
+    <SubTexture name="sparks_00" x="231" y="248" width="85" height="68"/>
+    <SubTexture name="sparks_01" x="393" y="2" width="117" height="119" frameX="0" frameY="-2" frameWidth="117" frameHeight="121"/>
+    <SubTexture name="sparks_02" x="2" y="321" width="147" height="130"/>
+    <SubTexture name="sparks_03" x="258" y="321" width="157" height="119"/>
+    <SubTexture name="sparks_04" x="231" y="2" width="160" height="244"/>
+    <SubTexture name="sparks_05" x="393" y="123" width="100" height="196"/>
+</TextureAtlas>

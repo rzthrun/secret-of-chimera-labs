@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:50e84878ad0d47f2c1bb8a6eca5db4a8:5941531c77c7ecc61b2dcea501cff626:deb28afeb71c4cb90ee575754b3f7875$ -->
+<TextureAtlas imagePath="OfficeKitchen_Sprite_01.png">
+    <SubTexture name="door" x="2" y="2" width="131" height="301"/>
+    <SubTexture name="eggplant" x="242" y="437" width="36" height="56"/>
+    <SubTexture name="fridge_door_closed" x="137" y="296" width="141" height="139"/>
+    <SubTexture name="fridge_door_open" x="2" y="305" width="102" height="187"/>
+    <SubTexture name="ice_box_door_closed" x="387" y="123" width="72" height="52"/>
+    <SubTexture name="lower_cab_left_closed" x="288" y="2" width="97" height="132"/>
+    <SubTexture name="lower_cab_left_open" x="135" y="2" width="51" height="150"/>
+    <SubTexture name="lower_cab_right_closed" x="188" y="2" width="98" height="135"/>
+    <SubTexture name="lower_cab_right_open" x="106" y="305" width="29" height="160"/>
+    <SubTexture name="microwave_closed" x="153" y="437" width="87" height="67"/>
+    <SubTexture name="microwave_open" x="467" y="238" width="34" height="76"/>
+    <SubTexture name="sink_coffee_pot" x="106" y="467" width="45" height="39"/>
+    <SubTexture name="sink_lid_off" x="477" y="2" width="32" height="35"/>
+    <SubTexture name="sink_lid_on" x="300" y="136" width="53" height="20"/>
+    <SubTexture name="sink_tongs" x="461" y="123" width="48" height="17"/>
+    <SubTexture name="slime" x="426" y="238" width="39" height="94"/>
+    <SubTexture name="slime_soap" x="461" y="142" width="39" height="94"/>
+    <SubTexture name="upper_cab_left_closed" x="300" y="177" width="124" height="115"/>
+    <SubTexture name="upper_cab_left_open" x="179" y="154" width="119" height="135"/>
+    <SubTexture name="upper_cab_right_closed" x="387" y="2" width="88" height="119"/>
+    <SubTexture name="upper_cab_right_open" x="135" y="154" width="42" height="140" frameX="0" frameY="0" frameWidth="62" frameHeight="140"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c49de8698db766bce2edb2821714b4c3:7b3ef3c09bc1c9146f3db5c9db7ac6b6:b3d926d9d8ac5e852faa2c493b41a18c$ -->
+<TextureAtlas imagePath="InvenDetails_SpriteSheet_v007.png">
+    <SubTexture name="inven_detail_allenWrench" x="2" y="2" width="186" height="184" frameX="-3" frameY="-7" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_carKeys" x="190" y="2" width="196" height="184" frameX="0" frameY="-2" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_cell" x="388" y="2" width="196" height="196"/>
+    <SubTexture name="inven_detail_cord" x="586" y="2" width="196" height="196"/>
+    <SubTexture name="inven_detail_cube" x="784" y="2" width="172" height="174" frameX="-13" frameY="-10" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_cubeDamage" x="2" y="200" width="194" height="186" frameX="0" frameY="-8" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_keyCard" x="198" y="200" width="196" height="160" frameX="0" frameY="-12" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_labTongs" x="396" y="200" width="196" height="196"/>
+    <SubTexture name="inven_detail_paperTowels" x="594" y="200" width="180" height="180" frameX="-5" frameY="-8" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_sampleNails" x="776" y="200" width="196" height="194" frameX="0" frameY="-2" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_sampleTweezers" x="2" y="398" width="176" height="190" frameX="-4" frameY="-4" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_splat" x="180" y="398" width="196" height="186" frameX="0" frameY="-9" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_syringe" x="378" y="398" width="196" height="196"/>
+    <SubTexture name="inven_detail_tinyDriver" x="576" y="398" width="194" height="196" frameX="-1" frameY="0" frameWidth="196" frameHeight="196"/>
+</TextureAtlas>

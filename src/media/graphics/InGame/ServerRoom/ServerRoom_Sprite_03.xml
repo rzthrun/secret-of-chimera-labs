@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f960fd175871e994f05b98995087d185:a530f482063ce648c1d8b8bfdca17859:8594d6125a432c7722fc1a7f989f9a70$ -->
+<TextureAtlas imagePath="ServerRoom_Sprite_03.png">
+    <SubTexture name="table_pos_0_apple" x="228" y="2" width="25" height="25" frameX="-2" frameY="-8" frameWidth="27" frameHeight="33"/>
+    <SubTexture name="table_pos_0_cube" x="2" y="2" width="27" height="23" frameX="0" frameY="-10" frameWidth="27" frameHeight="33"/>
+    <SubTexture name="table_pos_0_cylinder" x="142" y="27" width="19" height="27" frameX="-3" frameY="-6" frameWidth="27" frameHeight="33"/>
+    <SubTexture name="table_pos_0_eggplant" x="69" y="83" width="19" height="33" frameX="-5" frameY="0" frameWidth="27" frameHeight="33"/>
+    <SubTexture name="table_pos_0_orange" x="56" y="2" width="23" height="23" frameX="-2" frameY="-9" frameWidth="27" frameHeight="33"/>
+    <SubTexture name="table_pos_0_sphere" x="31" y="2" width="23" height="23" frameX="-2" frameY="-9" frameWidth="27" frameHeight="33"/>
+    <SubTexture name="table_pos_1_apple" x="56" y="54" width="28" height="27" frameX="0" frameY="-8" frameWidth="28" frameHeight="35"/>
+    <SubTexture name="table_pos_1_cube" x="111" y="2" width="28" height="23" frameX="0" frameY="-12" frameWidth="28" frameHeight="35"/>
+    <SubTexture name="table_pos_1_cylinder" x="193" y="56" width="18" height="29" frameX="-5" frameY="-6" frameWidth="28" frameHeight="35"/>
+    <SubTexture name="table_pos_1_eggplant" x="90" y="83" width="22" height="35" frameX="-3" frameY="0" frameWidth="28" frameHeight="35"/>
+    <SubTexture name="table_pos_1_orange" x="56" y="27" width="26" height="25" frameX="-1" frameY="-9" frameWidth="28" frameHeight="35"/>
+    <SubTexture name="table_pos_1_sphere" x="84" y="27" width="24" height="25" frameX="-2" frameY="-9" frameWidth="28" frameHeight="35"/>
+    <SubTexture name="table_pos_2_apple" x="2" y="27" width="26" height="25" frameX="-1" frameY="-9" frameWidth="28" frameHeight="35"/>
+    <SubTexture name="table_pos_2_cube" x="81" y="2" width="28" height="23" frameX="0" frameY="-11" frameWidth="28" frameHeight="35"/>
+    <SubTexture name="table_pos_2_cylinder" x="173" y="56" width="18" height="29" frameX="-6" frameY="-5" frameWidth="28" frameHeight="35"/>
+    <SubTexture name="table_pos_2_eggplant" x="114" y="83" width="20" height="35" frameX="-5" frameY="0" frameWidth="28" frameHeight="35"/>
+    <SubTexture name="table_pos_2_orange" x="30" y="27" width="24" height="25" frameX="-2" frameY="-8" frameWidth="28" frameHeight="35"/>
+    <SubTexture name="table_pos_2_sphere" x="141" y="2" width="24" height="23" frameX="-2" frameY="-10" frameWidth="28" frameHeight="35"/>
+    <SubTexture name="table_pos_3_apple" x="213" y="57" width="28" height="29" frameX="-2" frameY="-8" frameWidth="30" frameHeight="37"/>
+    <SubTexture name="table_pos_3_cube" x="110" y="27" width="30" height="25" frameX="0" frameY="-11" frameWidth="30" frameHeight="37"/>
+    <SubTexture name="table_pos_3_cylinder" x="47" y="83" width="20" height="31" frameX="-6" frameY="-6" frameWidth="30" frameHeight="37"/>
+    <SubTexture name="table_pos_3_eggplant" x="183" y="87" width="22" height="37" frameX="-5" frameY="0" frameWidth="30" frameHeight="37"/>
+    <SubTexture name="table_pos_3_orange" x="114" y="54" width="26" height="27" frameX="-2" frameY="-9" frameWidth="30" frameHeight="37"/>
+    <SubTexture name="table_pos_3_sphere" x="86" y="54" width="26" height="27" frameX="-2" frameY="-9" frameWidth="30" frameHeight="37"/>
+    <SubTexture name="table_pos_4_apple" x="142" y="56" width="29" height="28" frameX="0" frameY="-8" frameWidth="29" frameHeight="36"/>
+    <SubTexture name="table_pos_4_cube" x="167" y="2" width="29" height="24" frameX="0" frameY="-12" frameWidth="29" frameHeight="36"/>
+    <SubTexture name="table_pos_4_cylinder" x="2" y="82" width="21" height="30" frameX="-3" frameY="-6" frameWidth="29" frameHeight="36"/>
+    <SubTexture name="table_pos_4_eggplant" x="136" y="86" width="21" height="36" frameX="-4" frameY="0" frameWidth="29" frameHeight="36"/>
+    <SubTexture name="table_pos_4_orange" x="192" y="28" width="27" height="26" frameX="0" frameY="-9" frameWidth="29" frameHeight="36"/>
+    <SubTexture name="table_pos_4_sphere" x="163" y="28" width="27" height="26" frameX="0" frameY="-9" frameWidth="29" frameHeight="36"/>
+    <SubTexture name="table_pos_5_apple" x="2" y="54" width="26" height="26" frameX="-1" frameY="-10" frameWidth="28" frameHeight="36"/>
+    <SubTexture name="table_pos_5_cube" x="198" y="2" width="28" height="24" frameX="0" frameY="-12" frameWidth="28" frameHeight="36"/>
+    <SubTexture name="table_pos_5_cylinder" x="25" y="82" width="20" height="30" frameX="-3" frameY="-6" frameWidth="28" frameHeight="36"/>
+    <SubTexture name="table_pos_5_eggplant" x="159" y="87" width="22" height="36" frameX="-3" frameY="0" frameWidth="28" frameHeight="36"/>
+    <SubTexture name="table_pos_5_orange" x="221" y="29" width="26" height="26" frameX="0" frameY="-9" frameWidth="28" frameHeight="36"/>
+    <SubTexture name="table_pos_5_sphere" x="30" y="54" width="24" height="26" frameX="-2" frameY="-9" frameWidth="28" frameHeight="36"/>
+</TextureAtlas>

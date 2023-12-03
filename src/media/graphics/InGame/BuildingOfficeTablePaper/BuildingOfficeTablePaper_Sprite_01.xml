@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:637c15cd61c40e1a6c75a48a9998b4a1:94100087239b613c644ee116c4a57e92:7d70895820006bff142103e16a27cfa5$ -->
+<TextureAtlas imagePath="BuildingOfficeTablePaper_Sprite_01.png">
+    <SubTexture name="nails" x="2" y="71" width="75" height="39"/>
+    <SubTexture name="tiny_screwdriver" x="2" y="2" width="294" height="67"/>
+</TextureAtlas>

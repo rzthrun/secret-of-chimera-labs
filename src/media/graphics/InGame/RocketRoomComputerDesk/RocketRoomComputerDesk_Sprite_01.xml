@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:58769acd9cbd0fd381ed58355b8fbb3a:878ae817d8454cb9ebe9dfd306518688:2c3ec8236e38996df4401f81c59b96da$ -->
+<TextureAtlas imagePath="RocketRoomComputerDesk_Sprite_01.png">
+    <SubTexture name="computer_screen_on" x="2" y="294" width="232" height="184"/>
+    <SubTexture name="computer_screen_startup" x="2" y="108" width="232" height="184"/>
+    <SubTexture name="cube" x="297" y="429" width="59" height="60"/>
+    <SubTexture name="cube_damage" x="236" y="429" width="59" height="60"/>
+    <SubTexture name="electric_bottom" x="236" y="346" width="136" height="81"/>
+    <SubTexture name="electric_top" x="236" y="264" width="137" height="80"/>
+    <SubTexture name="glow_cube" x="375" y="264" width="108" height="109" frameX="-1" frameY="0" frameWidth="110" frameHeight="111"/>
+    <SubTexture name="hdd" x="421" y="65" width="72" height="61"/>
+    <SubTexture name="large_drawer" x="2" y="2" width="417" height="104"/>
+    <SubTexture name="push_box" x="421" y="2" width="74" height="61"/>
+    <SubTexture name="small_drawer" x="236" y="128" width="232" height="134"/>
+</TextureAtlas>

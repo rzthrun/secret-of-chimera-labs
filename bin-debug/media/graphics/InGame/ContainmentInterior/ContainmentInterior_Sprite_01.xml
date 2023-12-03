@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b550e084166101aee7dd0ef5275f6dab:e75f801c7b1e5737ffd46836baa0c162:2573cff701ad34e46f89f04489521d85$ -->
+<TextureAtlas imagePath="ContainmentInterior_Sprite_01.png">
+    <SubTexture name="quantum_spinner_00" x="2" y="2" width="287" height="283" frameX="-4" frameY="-3" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_01" x="291" y="2" width="265" height="283" frameX="-4" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_02" x="558" y="2" width="223" height="283" frameX="-43" frameY="-3" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_03" x="783" y="2" width="209" height="281" frameX="-45" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_04" x="2" y="287" width="199" height="285" frameX="-48" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_05" x="203" y="287" width="259" height="285" frameX="-29" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_06" x="464" y="287" width="287" height="283" frameX="-4" frameY="-3" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_07" x="753" y="287" width="263" height="283" frameX="-4" frameY="-3" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_08" x="2" y="574" width="177" height="283" frameX="-43" frameY="-3" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_09" x="181" y="574" width="195" height="281" frameX="-39" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_10" x="378" y="574" width="225" height="285" frameX="-27" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_11" x="605" y="574" width="263" height="285" frameX="-25" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_12" x="2" y="861" width="287" height="283" frameX="-4" frameY="-3" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_13" x="291" y="861" width="265" height="283" frameX="-4" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_14" x="558" y="861" width="223" height="283" frameX="-44" frameY="-3" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_15" x="783" y="861" width="193" height="281" frameX="-61" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_16" x="2" y="1146" width="171" height="285" frameX="-76" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_17" x="175" y="1146" width="259" height="285" frameX="-29" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_18" x="436" y="1146" width="287" height="283" frameX="-4" frameY="-3" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_19" x="725" y="1146" width="263" height="283" frameX="-4" frameY="-3" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_20" x="2" y="1433" width="201" height="283" frameX="-44" frameY="-3" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_21" x="205" y="1433" width="209" height="281" frameX="-39" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_22" x="416" y="1433" width="225" height="285" frameX="-27" frameY="-2" frameWidth="295" frameHeight="287"/>
+    <SubTexture name="quantum_spinner_23" x="643" y="1433" width="263" height="285" frameX="-25" frameY="-2" frameWidth="295" frameHeight="287"/>
+</TextureAtlas>

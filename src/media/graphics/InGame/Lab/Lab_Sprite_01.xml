@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:12310675838ef97b2938cf24fd0a07d5:3a728e6ff366e7f4d0043a3603e5d239:8b62b306a181f3531e6c54bfbf2a2c58$ -->
+<TextureAtlas imagePath="Lab_Sprite_01.png">
+    <SubTexture name="asteriod_asteroid" x="50" y="164" width="124" height="116"/>
+    <SubTexture name="asteriod_pos_00" x="28" y="481" width="27" height="26"/>
+    <SubTexture name="asteriod_pos_02" x="57" y="481" width="26" height="25"/>
+    <SubTexture name="asteriod_pos_04" x="50" y="282" width="23" height="35"/>
+    <SubTexture name="asteriod_pos_ball" x="75" y="301" width="16" height="14"/>
+    <SubTexture name="asteroid_broken_00" x="98" y="315" width="103" height="110"/>
+    <SubTexture name="asteroid_broken_01" x="136" y="427" width="45" height="57"/>
+    <SubTexture name="asteroid_broken_02" x="176" y="159" width="133" height="94"/>
+    <SubTexture name="asteroid_debris" x="146" y="2" width="152" height="155"/>
+    <SubTexture name="asteroid_lit" x="183" y="427" width="54" height="45"/>
+    <SubTexture name="asteroid_pearl" x="176" y="255" width="48" height="45"/>
+    <SubTexture name="desk_blue" x="15" y="481" width="11" height="29"/>
+    <SubTexture name="desk_book" x="75" y="282" width="57" height="17"/>
+    <SubTexture name="desk_screen" x="98" y="427" width="36" height="47"/>
+    <SubTexture name="desk_syringe" x="85" y="481" width="31" height="19"/>
+    <SubTexture name="desk_tube" x="2" y="481" width="11" height="29"/>
+    <SubTexture name="genetics_door" x="2" y="2" width="46" height="315"/>
+    <SubTexture name="light_genetics" x="93" y="301" width="9" height="12"/>
+    <SubTexture name="light_storage" x="85" y="502" width="25" height="7"/>
+    <SubTexture name="storage_door_locked" x="50" y="2" width="94" height="160"/>
+    <SubTexture name="storage_door_unlocked" x="2" y="319" width="94" height="160"/>
+</TextureAtlas>

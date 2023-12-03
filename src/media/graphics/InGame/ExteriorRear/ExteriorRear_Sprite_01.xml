@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3b897742cc593a67537c56b5a3fb7468:abed3600b4943be8cf99ee8e831bce7a:86aa7d1e252c0f2100ef00f1a5b66a7a$ -->
+<TextureAtlas imagePath="ExteriorRear_Sprite_01.png">
+    <SubTexture name="garbage_bio_off" x="67" y="426" width="48" height="45"/>
+    <SubTexture name="garbage_bio_on" x="67" y="473" width="48" height="10"/>
+    <SubTexture name="garbage_left_off" x="2" y="426" width="63" height="82"/>
+    <SubTexture name="garbage_left_on" x="109" y="278" width="95" height="27"/>
+    <SubTexture name="garbage_right_off" x="117" y="422" width="77" height="85"/>
+    <SubTexture name="garbage_right_on" x="118" y="307" width="98" height="28"/>
+    <SubTexture name="grate_grate_off" x="75" y="133" width="152" height="31"/>
+    <SubTexture name="grate_grate_on" x="313" y="62" width="159" height="29"/>
+    <SubTexture name="ladder_down" x="182" y="2" width="28" height="128"/>
+    <SubTexture name="lower_door_closed" x="168" y="166" width="55" height="109"/>
+    <SubTexture name="lower_door_open" x="77" y="307" width="39" height="113"/>
+    <SubTexture name="upper_door_closed" x="109" y="166" width="57" height="110"/>
+    <SubTexture name="upper_door_open" x="2" y="2" width="71" height="172"/>
+    <SubTexture name="van_door_closed" x="2" y="307" width="73" height="117"/>
+    <SubTexture name="van_door_open" x="212" y="2" width="99" height="124"/>
+    <SubTexture name="van_rear_closed" x="75" y="2" width="105" height="129"/>
+    <SubTexture name="van_rear_open" x="313" y="2" width="165" height="58"/>
+    <SubTexture name="van_rear_unlocked" x="2" y="176" width="105" height="129"/>
+</TextureAtlas>

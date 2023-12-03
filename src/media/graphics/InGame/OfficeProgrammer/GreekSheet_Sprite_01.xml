@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:eeadba326553719ad9e9bfb8eea3fb3b:d23eba46046648ec960fced4e504fcd3:76803536b0a7820b7ec705fe7f2a146d$ -->
+<TextureAtlas imagePath="GreekSheet_Sprite_01.png">
+    <SubTexture name="greek_sheet_page_00" x="2" y="2" width="594" height="452" frameX="-102" frameY="-23" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

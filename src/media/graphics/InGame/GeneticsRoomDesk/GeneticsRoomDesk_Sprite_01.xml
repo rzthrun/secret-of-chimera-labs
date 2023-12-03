@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:55346e0633634064ae6c9f0f348346af:8b750bff80ab62aa636c29f0b88be99e:ae51ed61d0607ed36327496fb3dba781$ -->
+<TextureAtlas imagePath="GeneticsRoomDesk_Sprite_01.png">
+    <SubTexture name="cup_full" x="2" y="437" width="51" height="70"/>
+    <SubTexture name="lid_off" x="2" y="309" width="114" height="126"/>
+    <SubTexture name="lid_on" x="260" y="309" width="100" height="121"/>
+    <SubTexture name="red_hood" x="55" y="437" width="46" height="48"/>
+    <SubTexture name="slot" x="362" y="400" width="62" height="80"/>
+    <SubTexture name="smoke" x="2" y="2" width="674" height="305"/>
+    <SubTexture name="stone" x="362" y="309" width="180" height="89"/>
+    <SubTexture name="tube" x="118" y="309" width="140" height="124"/>
+</TextureAtlas>

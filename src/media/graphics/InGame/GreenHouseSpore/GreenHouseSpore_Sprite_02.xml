@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7c250cb4b83cf68fc9745d0e6f77121e:e5109b25e8fe3868f2ae97c8a6f411e7:214b1543b0f5d300f4b221af34f042b0$ -->
+<TextureAtlas imagePath="GreenHouseSpore_Sprite_02.png">
+    <SubTexture name="greens" x="2" y="2" width="694" height="468" frameX="-49" frameY="-12" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="syringebody" x="698" y="2" width="166" height="204"/>
+    <SubTexture name="syringecover" x="866" y="2" width="68" height="66" frameX="-16" frameY="-30" frameWidth="166" frameHeight="204"/>
+</TextureAtlas>

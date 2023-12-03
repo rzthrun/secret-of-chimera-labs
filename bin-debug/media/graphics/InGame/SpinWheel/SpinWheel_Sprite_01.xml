@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:73f61876a708c25a077c42c16b482074:d468670d54569b1af18cb45f120a0489:a943664972086760b2d5be9122cd3fe6$ -->
+<TextureAtlas imagePath="SpinWheel_Sprite_01.png">
+    <SubTexture name="back_hood" x="2" y="2" width="276" height="512"/>
+    <SubTexture name="ball" x="176" y="981" width="19" height="19"/>
+    <SubTexture name="ball_pink" x="176" y="960" width="19" height="19"/>
+    <SubTexture name="center_hood" x="280" y="260" width="210" height="184"/>
+    <SubTexture name="center_hood_purple" x="388" y="774" width="210" height="184"/>
+    <SubTexture name="center_hood_red" x="176" y="774" width="210" height="184"/>
+    <SubTexture name="spinwheel__00" x="600" y="518" width="272" height="256" frameX="0" frameY="0" frameWidth="400" frameHeight="256"/>
+    <SubTexture name="spinwheel__01" x="600" y="260" width="272" height="256" frameX="0" frameY="0" frameWidth="400" frameHeight="256"/>
+    <SubTexture name="spinwheel__02" x="280" y="2" width="272" height="256" frameX="0" frameY="0" frameWidth="400" frameHeight="256"/>
+    <SubTexture name="spinwheel__03" x="600" y="2" width="272" height="256" frameX="0" frameY="0" frameWidth="400" frameHeight="256"/>
+    <SubTexture name="spinwheel__04" x="276" y="516" width="272" height="256" frameX="0" frameY="0" frameWidth="400" frameHeight="256"/>
+    <SubTexture name="spinwheel__05" x="2" y="516" width="272" height="256" frameX="0" frameY="0" frameWidth="400" frameHeight="256"/>
+    <SubTexture name="template" x="2" y="774" width="172" height="246"/>
+</TextureAtlas>

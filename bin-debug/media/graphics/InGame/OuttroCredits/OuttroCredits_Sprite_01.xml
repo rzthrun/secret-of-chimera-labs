@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:77bfcdf07a46e94395e7d3ac6e7c3fc4:a6731662ee12b478127dee7fff3756ae:6333e576950f0d894b710f17299030d1$ -->
+<TextureAtlas imagePath="OuttroCredits_Sprite_01.png">
+    <SubTexture name="cred_00" x="768" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="cred_01" x="2" y="270" width="592" height="406" frameX="-104" frameY="-52" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="cred_02" x="2" y="2" width="764" height="132" frameX="-17" frameY="-189" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="cred_03" x="2" y="136" width="672" height="132" frameX="-63" frameY="-189" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="cred_04" x="2" y="812" width="550" height="132" frameX="-125" frameY="-189" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="cred_05" x="2" y="678" width="626" height="132" frameX="-86" frameY="-189" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

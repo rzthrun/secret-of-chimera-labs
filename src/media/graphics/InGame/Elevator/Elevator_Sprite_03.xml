@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ac5d810e08382724b537f60da508ec5f:4b45d7e0994b1f0b121f02cc593078bc:2631e54a341082056a5b653c3edb2efa$ -->
+<TextureAtlas imagePath="Elevator_Sprite_03.png">
+    <SubTexture name="waves" x="2" y="2" width="631" height="415" frameX="0" frameY="-7" frameWidth="631" frameHeight="422"/>
+</TextureAtlas>

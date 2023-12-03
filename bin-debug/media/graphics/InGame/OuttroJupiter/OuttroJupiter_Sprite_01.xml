@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:cb1dd0d43e722a4ff56ff5804100a96c:c212480f25c8bd423c25f28778173c64:c84ffb850cb44a7b61d7b0a67d620440$ -->
+<TextureAtlas imagePath="OuttroJupiter_Sprite_01.png">
+    <SubTexture name="awesome" x="2" y="516" width="377" height="469"/>
+    <SubTexture name="europa" x="381" y="516" width="285" height="262" frameX="0" frameY="0" frameWidth="291" frameHeight="282"/>
+    <SubTexture name="no" x="804" y="2" width="185" height="82"/>
+    <SubTexture name="spacestation" x="804" y="168" width="114" height="126"/>
+    <SubTexture name="window" x="2" y="2" width="800" height="512"/>
+    <SubTexture name="yes" x="804" y="86" width="174" height="80"/>
+</TextureAtlas>

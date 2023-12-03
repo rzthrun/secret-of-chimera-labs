@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ff7161c99a0134538e4d2a28c226aa17:4a1051a767a6b750f71e7914b99d6cd9:da9067ad67d4eef2e07d1327183c5e1c$ -->
+<TextureAtlas imagePath="ThirdFloorHall_Sprite_02.png">
+    <SubTexture name="smoke_01" x="2" y="266" width="164" height="188"/>
+    <SubTexture name="smoke_02" x="333" y="2" width="165" height="262"/>
+    <SubTexture name="smoke_03" x="2" y="2" width="329" height="166"/>
+</TextureAtlas>

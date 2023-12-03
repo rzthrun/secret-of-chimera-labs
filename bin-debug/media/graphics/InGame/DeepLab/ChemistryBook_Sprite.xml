@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c5b2493d9843df74cc7f9ede5621b218:5027af6124cb695e6df82ce31916339e:02d40b150a37d82af5e5245fd3058fe5$ -->
+<TextureAtlas imagePath="ChemistryBook_Sprite.png">
+    <SubTexture name="ChemistryBook_page_00" x="358" y="2" width="354" height="488" frameX="-223" frameY="-11" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="ChemistryBook_page_01" x="2" y="492" width="354" height="488" frameX="-223" frameY="-11" frameWidth="800" frameHeight="512"/>
+    <SubTexture name="ChemistryBook_page_02" x="2" y="2" width="354" height="488" frameX="-223" frameY="-11" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

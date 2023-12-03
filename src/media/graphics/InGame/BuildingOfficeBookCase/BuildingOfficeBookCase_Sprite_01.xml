@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:821e61e5ccf3ca497669259731554bcb:639067b1ea7634cf84d635af8157d80f:16ddf9ff2ec0ad34236c10a213083832$ -->
+<TextureAtlas imagePath="BuildingOfficeBookCase_Sprite_01.png">
+    <SubTexture name="orwell" x="2" y="2" width="355" height="433"/>
+    <SubTexture name="pos_0_a" x="359" y="2" width="131" height="448"/>
+    <SubTexture name="pos_0_c" x="492" y="2" width="131" height="448"/>
+    <SubTexture name="pos_0_h" x="625" y="2" width="131" height="448"/>
+    <SubTexture name="pos_0_o" x="758" y="2" width="131" height="448"/>
+    <SubTexture name="pos_0_s" x="891" y="2" width="131" height="448"/>
+    <SubTexture name="pos_1_a" x="2" y="452" width="110" height="447"/>
+    <SubTexture name="pos_1_c" x="114" y="452" width="110" height="447"/>
+    <SubTexture name="pos_1_h" x="226" y="452" width="110" height="447"/>
+    <SubTexture name="pos_1_o" x="338" y="452" width="110" height="447"/>
+    <SubTexture name="pos_1_s" x="450" y="452" width="110" height="447"/>
+    <SubTexture name="pos_2_a" x="562" y="452" width="99" height="447"/>
+    <SubTexture name="pos_2_c" x="663" y="452" width="99" height="447"/>
+    <SubTexture name="pos_2_h" x="764" y="452" width="99" height="447"/>
+    <SubTexture name="pos_2_o" x="865" y="452" width="99" height="447"/>
+    <SubTexture name="pos_2_s" x="2" y="901" width="99" height="447"/>
+    <SubTexture name="pos_3_a" x="103" y="901" width="108" height="448"/>
+    <SubTexture name="pos_3_c" x="213" y="901" width="108" height="448"/>
+    <SubTexture name="pos_3_h" x="323" y="901" width="108" height="448"/>
+    <SubTexture name="pos_3_o" x="433" y="901" width="108" height="448"/>
+    <SubTexture name="pos_3_s" x="543" y="901" width="108" height="448"/>
+    <SubTexture name="pos_4_a" x="653" y="901" width="127" height="447"/>
+    <SubTexture name="pos_4_c" x="782" y="901" width="127" height="447"/>
+    <SubTexture name="pos_4_h" x="2" y="1351" width="127" height="447"/>
+    <SubTexture name="pos_4_o" x="131" y="1351" width="127" height="447"/>
+    <SubTexture name="pos_4_s" x="260" y="1351" width="127" height="447"/>
+</TextureAtlas>

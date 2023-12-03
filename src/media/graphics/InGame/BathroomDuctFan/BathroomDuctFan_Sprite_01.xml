@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:fe07157a3eee2e6f24d162e29effd5c7:2064e359b3d9e589817aba706d0fd026:2529729ebfaa3602be531e39333c71c6$ -->
+<TextureAtlas imagePath="BathroomDuctFan_Sprite_01.png">
+    <SubTexture name="fan_00" x="2" y="2" width="327" height="331" frameX="-9" frameY="-14" frameWidth="349" frameHeight="352"/>
+    <SubTexture name="fan_01" x="331" y="2" width="333" height="335" frameX="-10" frameY="-7" frameWidth="349" frameHeight="352"/>
+    <SubTexture name="fan_02" x="666" y="2" width="343" height="346" frameX="-4" frameY="-2" frameWidth="349" frameHeight="352"/>
+    <SubTexture name="fan_03" x="2" y="350" width="348" height="351" frameX="0" frameY="0" frameWidth="349" frameHeight="352"/>
+    <SubTexture name="fan_04" x="352" y="350" width="347" height="350" frameX="0" frameY="-2" frameWidth="349" frameHeight="352"/>
+    <SubTexture name="fan_05" x="2" y="703" width="340" height="344" frameX="-3" frameY="-6" frameWidth="349" frameHeight="352"/>
+    <SubTexture name="harddrive" x="344" y="703" width="123" height="46"/>
+    <SubTexture name="stick" x="469" y="703" width="426" height="446"/>
+</TextureAtlas>

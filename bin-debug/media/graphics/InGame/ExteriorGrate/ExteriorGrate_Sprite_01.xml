@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:071b655af19fe91523bc72a82b4abb78:2fa2f85b8d7d51403d79cc3d8181d462:aa36044d99acadd38e0e843061d77bcb$ -->
+<TextureAtlas imagePath="ExteriorGrate_Sprite_01.png">
+    <SubTexture name="keys_off" x="2" y="811" width="118" height="93" frameX="0" frameY="0" frameWidth="118" frameHeight="97"/>
+    <SubTexture name="keys_on" x="2" y="716" width="118" height="93" frameX="0" frameY="0" frameWidth="118" frameHeight="97"/>
+    <SubTexture name="off" x="2" y="425" width="502" height="289"/>
+    <SubTexture name="on" x="2" y="2" width="539" height="421"/>
+</TextureAtlas>

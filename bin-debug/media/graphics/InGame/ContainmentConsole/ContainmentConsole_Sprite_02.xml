@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f07fe860ed197d76ce1f6e2dc5426673:ffa5d42556f5b2e3f2f62f5ccf2ec709:4d13a6d6a47b675dc04211ad1241e6ff$ -->
+<TextureAtlas imagePath="ContainmentConsole_Sprite_02.png">
+    <SubTexture name="fuse_blue" x="960" y="270" width="39" height="67"/>
+    <SubTexture name="fuse_green" x="919" y="270" width="39" height="73"/>
+    <SubTexture name="fuse_red" x="872" y="270" width="45" height="80"/>
+    <SubTexture name="screen_three_00" x="872" y="173" width="145" height="95"/>
+    <SubTexture name="screen_three_01" x="215" y="270" width="145" height="95"/>
+    <SubTexture name="screen_three_02" x="215" y="173" width="145" height="95"/>
+    <SubTexture name="screen_two_00" x="215" y="645" width="186" height="128"/>
+    <SubTexture name="screen_two_01" x="215" y="515" width="186" height="128"/>
+    <SubTexture name="screen_two_02" x="190" y="873" width="186" height="128"/>
+    <SubTexture name="screen_two_03" x="2" y="873" width="186" height="128"/>
+    <SubTexture name="screen_ulam_batch_00" x="2" y="698" width="211" height="173"/>
+    <SubTexture name="screen_ulam_batch_01" x="2" y="523" width="211" height="173"/>
+    <SubTexture name="screen_ulam_batch_02" x="2" y="348" width="211" height="173"/>
+    <SubTexture name="screen_ulam_batch_03" x="2" y="173" width="211" height="173"/>
+    <SubTexture name="screen_zero_running_00" x="625" y="344" width="245" height="169"/>
+    <SubTexture name="screen_zero_running_01" x="378" y="344" width="245" height="169"/>
+    <SubTexture name="screen_zero_running_02" x="625" y="173" width="245" height="169"/>
+    <SubTexture name="screen_zero_running_03" x="378" y="173" width="245" height="169"/>
+    <SubTexture name="screen_zero_running_04" x="743" y="2" width="245" height="169"/>
+    <SubTexture name="screen_zero_starting" x="496" y="2" width="245" height="169"/>
+    <SubTexture name="screen_zero_stopped" x="249" y="2" width="245" height="169"/>
+    <SubTexture name="screen_zero_stopping" x="2" y="2" width="245" height="169"/>
+</TextureAtlas>

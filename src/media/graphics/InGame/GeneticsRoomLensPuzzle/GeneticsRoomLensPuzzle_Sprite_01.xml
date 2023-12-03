@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c3961e69ba359a57cb2cc488a1152fa0:0a4a0b174ff7878e03c2f6f045edd6e2:3b8683c0cfdb94b991cf76e3d34868ef$ -->
+<TextureAtlas imagePath="GeneticsRoomLensPuzzle_Sprite_01.png">
+    <SubTexture name="flare_01" x="394" y="2" width="70" height="69"/>
+    <SubTexture name="glasses_lens" x="170" y="2" width="222" height="32"/>
+    <SubTexture name="holder" x="133" y="446" width="341" height="33"/>
+    <SubTexture name="holder_screen" x="61" y="446" width="70" height="39"/>
+    <SubTexture name="latch_closed" x="170" y="36" width="67" height="32" frameX="0" frameY="0" frameWidth="67" frameHeight="56"/>
+    <SubTexture name="latch_open" x="2" y="446" width="57" height="56" frameX="0" frameY="0" frameWidth="67" frameHeight="56"/>
+    <SubTexture name="line" x="34" y="504" width="1" height="2"/>
+    <SubTexture name="line_frame_00" x="26" y="504" width="6" height="6"/>
+    <SubTexture name="line_frame_01" x="18" y="504" width="6" height="6"/>
+    <SubTexture name="line_frame_02" x="10" y="504" width="6" height="6"/>
+    <SubTexture name="line_frame_03" x="2" y="504" width="6" height="6"/>
+    <SubTexture name="plain_lens" x="133" y="481" width="222" height="24"/>
+    <SubTexture name="red_spine_00" x="128" y="2" width="40" height="442"/>
+    <SubTexture name="red_spine_01" x="86" y="2" width="40" height="442"/>
+    <SubTexture name="red_spine_02" x="44" y="2" width="40" height="442"/>
+    <SubTexture name="red_spine_03" x="2" y="2" width="40" height="442"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:27cb586e094dec8af17b6323d362573a:f65f3f0a755edc74cd19059adaeef438:d610f2aa531ef8267036b271bc247903$ -->
+<TextureAtlas imagePath="NoteBook_Sprite_00.png">
+    <SubTexture name="notebook_bg" x="2" y="2" width="792" height="496" frameX="-5" frameY="0" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

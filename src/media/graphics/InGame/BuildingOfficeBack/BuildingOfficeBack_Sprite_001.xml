@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a6525b9ff0e1acc8bb475ad4eb66af5a:e5da2c5f17fe6bd5156eb0b119b7c89c:c45c81f152af18912992a27e141bb8bd$ -->
+<TextureAtlas imagePath="BuildingOfficeBack_Sprite_001.png">
+    <SubTexture name="bookcase_open" x="2" y="2" width="188" height="267"/>
+    <SubTexture name="case_orwell" x="192" y="57" width="29" height="36"/>
+    <SubTexture name="case_pos_0" x="204" y="95" width="10" height="37"/>
+    <SubTexture name="case_pos_1" x="192" y="95" width="10" height="37"/>
+    <SubTexture name="case_pos_2" x="234" y="33" width="9" height="37"/>
+    <SubTexture name="case_pos_3" x="245" y="16" width="9" height="37"/>
+    <SubTexture name="case_pos_4" x="245" y="55" width="8" height="37"/>
+    <SubTexture name="desk_book" x="192" y="33" width="40" height="22"/>
+    <SubTexture name="desk_case_off" x="2" y="427" width="84" height="22"/>
+    <SubTexture name="desk_case_open" x="223" y="94" width="27" height="81"/>
+    <SubTexture name="desk_chisel" x="192" y="2" width="56" height="12"/>
+    <SubTexture name="desk_stone" x="192" y="16" width="51" height="15"/>
+    <SubTexture name="painting_off" x="2" y="271" width="102" height="154"/>
+    <SubTexture name="painting_on" x="106" y="271" width="104" height="143"/>
+</TextureAtlas>

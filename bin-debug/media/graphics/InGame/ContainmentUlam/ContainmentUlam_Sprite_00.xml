@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c5e1b6cbdd18a3cd168cb9a5cbe69ed3:3cb5f76df3fa5ed4a0687fd0144c0ed4:a88bc64390cee0afd3f542fbbe61b986$ -->
+<TextureAtlas imagePath="ContainmentUlam_Sprite_00.png">
+    <SubTexture name="numBlock_01" x="428" y="428" width="69" height="69"/>
+    <SubTexture name="numBlock_02" x="428" y="357" width="69" height="69"/>
+    <SubTexture name="numBlock_03" x="357" y="428" width="69" height="69"/>
+    <SubTexture name="numBlock_04" x="357" y="357" width="69" height="69"/>
+    <SubTexture name="numBlock_05" x="428" y="286" width="69" height="69"/>
+    <SubTexture name="numBlock_06" x="357" y="286" width="69" height="69"/>
+    <SubTexture name="numBlock_07" x="286" y="428" width="69" height="69"/>
+    <SubTexture name="numBlock_08" x="286" y="357" width="69" height="69"/>
+    <SubTexture name="numBlock_09" x="286" y="286" width="69" height="69"/>
+    <SubTexture name="numBlock_10" x="428" y="215" width="69" height="69"/>
+    <SubTexture name="numBlock_11" x="357" y="215" width="69" height="69"/>
+    <SubTexture name="numBlock_12" x="286" y="215" width="69" height="69"/>
+    <SubTexture name="numBlock_13" x="215" y="428" width="69" height="69"/>
+    <SubTexture name="numBlock_14" x="215" y="357" width="69" height="69"/>
+    <SubTexture name="numBlock_15" x="215" y="286" width="69" height="69"/>
+    <SubTexture name="numBlock_16" x="215" y="215" width="69" height="69"/>
+    <SubTexture name="numBlock_17" x="428" y="144" width="69" height="69"/>
+    <SubTexture name="numBlock_18" x="357" y="144" width="69" height="69"/>
+    <SubTexture name="numBlock_19" x="286" y="144" width="69" height="69"/>
+    <SubTexture name="numBlock_20" x="215" y="144" width="69" height="69"/>
+    <SubTexture name="numBlock_21" x="144" y="428" width="69" height="69"/>
+    <SubTexture name="numBlock_22" x="144" y="357" width="69" height="69"/>
+    <SubTexture name="numBlock_23" x="144" y="286" width="69" height="69"/>
+    <SubTexture name="numBlock_24" x="144" y="215" width="69" height="69"/>
+    <SubTexture name="numBlock_25" x="144" y="144" width="69" height="69"/>
+    <SubTexture name="numBlock_26" x="428" y="73" width="69" height="69"/>
+    <SubTexture name="numBlock_27" x="357" y="73" width="69" height="69"/>
+    <SubTexture name="numBlock_28" x="286" y="73" width="69" height="69"/>
+    <SubTexture name="numBlock_29" x="215" y="73" width="69" height="69"/>
+    <SubTexture name="numBlock_30" x="144" y="73" width="69" height="69"/>
+    <SubTexture name="numBlock_31" x="73" y="428" width="69" height="69"/>
+    <SubTexture name="numBlock_32" x="73" y="357" width="69" height="69"/>
+    <SubTexture name="numBlock_33" x="73" y="286" width="69" height="69"/>
+    <SubTexture name="numBlock_34" x="73" y="215" width="69" height="69"/>
+    <SubTexture name="numBlock_35" x="73" y="144" width="69" height="69"/>
+    <SubTexture name="numBlock_36" x="73" y="73" width="69" height="69"/>
+    <SubTexture name="numBlock_37" x="428" y="2" width="69" height="69"/>
+    <SubTexture name="numBlock_38" x="357" y="2" width="69" height="69"/>
+    <SubTexture name="numBlock_39" x="286" y="2" width="69" height="69"/>
+    <SubTexture name="numBlock_40" x="215" y="2" width="69" height="69"/>
+    <SubTexture name="numBlock_41" x="144" y="2" width="69" height="69"/>
+    <SubTexture name="numBlock_42" x="73" y="2" width="69" height="69"/>
+    <SubTexture name="numBlock_43" x="2" y="428" width="69" height="69"/>
+    <SubTexture name="numBlock_44" x="2" y="357" width="69" height="69"/>
+    <SubTexture name="numBlock_45" x="2" y="286" width="69" height="69"/>
+    <SubTexture name="numBlock_46" x="2" y="215" width="69" height="69"/>
+    <SubTexture name="numBlock_47" x="2" y="144" width="69" height="69"/>
+    <SubTexture name="numBlock_48" x="2" y="73" width="69" height="69"/>
+    <SubTexture name="numBlock_49" x="2" y="2" width="69" height="69"/>
+</TextureAtlas>

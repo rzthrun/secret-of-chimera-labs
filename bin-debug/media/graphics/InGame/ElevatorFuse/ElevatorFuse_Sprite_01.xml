@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3f7653a091c17c2cc063d6131309665a:81b4a0ea847317530c1418dd46e9ea9b:07b49664ccf31a7898576117ca9a80b9$ -->
+<TextureAtlas imagePath="ElevatorFuse_Sprite_01.png">
+    <SubTexture name="fuse_blue" x="2" y="141" width="199" height="68"/>
+    <SubTexture name="fuse_green" x="2" y="2" width="204" height="68"/>
+    <SubTexture name="fuse_red" x="2" y="72" width="201" height="67"/>
+</TextureAtlas>

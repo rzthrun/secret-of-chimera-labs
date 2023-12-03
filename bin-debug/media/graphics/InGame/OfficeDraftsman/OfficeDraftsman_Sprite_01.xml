@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:37af078705f9760ce11d665b5a53af49:f57a321437e6e0fa0a0a4b20c93cbb60:6e28ae7a51864db7e9c8348443ca7cd7$ -->
+<TextureAtlas imagePath="OfficeDraftsman_Sprite_01.png">
+    <SubTexture name="screen_on" x="2" y="136" width="370" height="132"/>
+    <SubTexture name="screen_start" x="2" y="2" width="370" height="132"/>
+</TextureAtlas>

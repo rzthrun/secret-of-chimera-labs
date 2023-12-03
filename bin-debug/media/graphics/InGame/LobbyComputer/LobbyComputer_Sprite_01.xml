@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1195078a0624d32b01f5afbe957cf035:3abc292798eadde997304d7e1cdcb43b:00490e21bf41bcfbc35a4ae6e66233cf$ -->
+<TextureAtlas imagePath="LobbyComputer_Sprite_01.png">
+    <SubTexture name="highlight_rect" x="778" y="63" width="237" height="51"/>
+    <SubTexture name="knub_00" x="428" y="104" width="30" height="49"/>
+    <SubTexture name="knub_01" x="428" y="53" width="30" height="49"/>
+    <SubTexture name="knub_02" x="428" y="2" width="30" height="49"/>
+    <SubTexture name="lock_closed" x="308" y="182" width="118" height="178"/>
+    <SubTexture name="lock_open" x="308" y="2" width="118" height="178"/>
+    <SubTexture name="pic_door_closed" x="472" y="2" width="304" height="304"/>
+    <SubTexture name="pic_door_open" x="2" y="614" width="304" height="304"/>
+    <SubTexture name="pic_elevator" x="2" y="308" width="304" height="304"/>
+    <SubTexture name="pic_entence" x="2" y="2" width="304" height="304"/>
+    <SubTexture name="text_lockLock" x="367" y="997" width="99" height="21" frameX="-17" frameY="0" frameWidth="133" frameHeight="21"/>
+    <SubTexture name="text_lockUnlock" x="232" y="997" width="133" height="21"/>
+    <SubTexture name="text_notes_door" x="232" y="920" width="238" height="75" frameX="-5" frameY="0" frameWidth="250" frameHeight="89"/>
+    <SubTexture name="text_notes_elevator_off" x="778" y="2" width="242" height="59" frameX="-4" frameY="0" frameWidth="250" frameHeight="89"/>
+    <SubTexture name="text_notes_elevator_on" x="778" y="116" width="230" height="73" frameX="-4" frameY="0" frameWidth="250" frameHeight="89"/>
+    <SubTexture name="text_notes_entrence" x="2" y="920" width="228" height="89" frameX="-4" frameY="0" frameWidth="250" frameHeight="89"/>
+    <SubTexture name="text_status_li" x="872" y="191" width="92" height="44" frameX="0" frameY="0" frameWidth="94" frameHeight="46"/>
+    <SubTexture name="text_status_ln" x="854" y="237" width="62" height="42" frameX="0" frameY="0" frameWidth="94" frameHeight="46"/>
+    <SubTexture name="text_status_ui" x="778" y="191" width="92" height="44" frameX="0" frameY="0" frameWidth="94" frameHeight="46"/>
+    <SubTexture name="text_status_un" x="778" y="237" width="74" height="42" frameX="0" frameY="0" frameWidth="94" frameHeight="46"/>
+</TextureAtlas>

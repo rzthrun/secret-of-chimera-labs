@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2f6e6e1e488bdf79956c3c2b5e229428:6d5d39306703dd795fdcaa98daca3bd4:09ba42fe33646c2733f004cc96cc3418$ -->
+<TextureAtlas imagePath="ContainmentControl_Sprite_01.png">
+    <SubTexture name="breach_awaiting" x="743" y="2" width="245" height="181"/>
+    <SubTexture name="breach_open" x="496" y="2" width="245" height="181"/>
+    <SubTexture name="breach_secure" x="249" y="2" width="245" height="181"/>
+    <SubTexture name="breach_unlocked" x="2" y="2" width="245" height="181"/>
+    <SubTexture name="pos_00_00" x="2" y="575" width="136" height="167" frameX="-17" frameY="-28" frameWidth="164" frameHeight="195"/>
+    <SubTexture name="pos_00_01" x="118" y="744" width="154" height="157" frameX="-10" frameY="-33" frameWidth="164" frameHeight="195"/>
+    <SubTexture name="pos_00_02" x="2" y="382" width="156" height="191" frameX="0" frameY="0" frameWidth="164" frameHeight="195"/>
+    <SubTexture name="pos_01_00" x="264" y="519" width="112" height="142" frameX="-8" frameY="-17" frameWidth="134" frameHeight="160"/>
+    <SubTexture name="pos_01_01" x="378" y="467" width="124" height="126" frameX="-9" frameY="-25" frameWidth="134" frameHeight="160"/>
+    <SubTexture name="pos_01_02" x="140" y="575" width="122" height="152" frameX="0" frameY="0" frameWidth="134" frameHeight="160"/>
+    <SubTexture name="pos_02_00" x="416" y="329" width="100" height="124" frameX="-5" frameY="-14" frameWidth="116" frameHeight="138"/>
+    <SubTexture name="pos_02_01" x="2" y="906" width="110" height="110" frameX="-6" frameY="-21" frameWidth="116" frameHeight="138"/>
+    <SubTexture name="pos_02_02" x="274" y="663" width="106" height="128" frameX="0" frameY="0" frameWidth="116" frameHeight="138"/>
+    <SubTexture name="pos_03_00" x="2" y="185" width="139" height="195" frameX="-11" frameY="-2" frameWidth="163" frameHeight="197"/>
+    <SubTexture name="pos_03_01" x="160" y="372" width="153" height="145" frameX="-10" frameY="-25" frameWidth="163" frameHeight="197"/>
+    <SubTexture name="pos_03_02" x="143" y="185" width="155" height="185" frameX="0" frameY="0" frameWidth="163" frameHeight="197"/>
+    <SubTexture name="pos_04_00" x="2" y="744" width="114" height="160" frameX="-10" frameY="0" frameWidth="136" frameHeight="160"/>
+    <SubTexture name="pos_04_01" x="360" y="893" width="126" height="126" frameX="-10" frameY="-21" frameWidth="136" frameHeight="160"/>
+    <SubTexture name="pos_04_02" x="300" y="185" width="124" height="142" frameX="0" frameY="0" frameWidth="136" frameHeight="160"/>
+    <SubTexture name="pos_05_00" x="315" y="329" width="99" height="136" frameX="-7" frameY="0" frameWidth="119" frameHeight="136"/>
+    <SubTexture name="pos_05_01" x="114" y="906" width="111" height="106" frameX="-8" frameY="-18" frameWidth="119" frameHeight="136"/>
+    <SubTexture name="pos_05_02" x="426" y="185" width="107" height="122" frameX="0" frameY="0" frameWidth="119" frameHeight="136"/>
+    <SubTexture name="screen_one_00" x="382" y="595" width="131" height="98"/>
+    <SubTexture name="screen_one_01" x="274" y="793" width="131" height="98"/>
+    <SubTexture name="screen_one_02" x="227" y="903" width="131" height="98"/>
+    <SubTexture name="screen_one_03" x="990" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="131" frameHeight="98"/>
+    <SubTexture name="screen_two_00" x="491" y="695" width="107" height="84"/>
+    <SubTexture name="screen_two_01" x="407" y="781" width="107" height="84"/>
+    <SubTexture name="screen_two_02" x="382" y="695" width="107" height="84"/>
+    <SubTexture name="screen_two_03" x="990" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="107" frameHeight="84"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f98e319d179365b32224c4088eec4d39:ce115f853966bc7c040e5864fbf0a1e7:df9ce444131ebcff913713c85adbd86c$ -->
+<TextureAtlas imagePath="DirLock_Sprite_03.png">
+    <SubTexture name="dial_off" x="2" y="2" width="181" height="181" frameX="-16" frameY="-16" frameWidth="213" frameHeight="213"/>
+    <SubTexture name="dial_pos_00" x="368" y="2" width="181" height="173" frameX="-16" frameY="-2" frameWidth="213" frameHeight="213"/>
+    <SubTexture name="dial_pos_01" x="732" y="2" width="179" height="177" frameX="-26" frameY="-2" frameWidth="213" frameHeight="213"/>
+    <SubTexture name="dial_pos_02" x="177" y="543" width="175" height="179" frameX="-35" frameY="-8" frameWidth="213" frameHeight="213"/>
+    <SubTexture name="dial_pos_03" x="2" y="726" width="173" height="181" frameX="-38" frameY="-16" frameWidth="213" frameHeight="213"/>
+    <SubTexture name="dial_pos_04" x="2" y="362" width="175" height="179" frameX="-35" frameY="-26" frameWidth="213" frameHeight="213"/>
+    <SubTexture name="dial_pos_05" x="2" y="185" width="179" height="175" frameX="-26" frameY="-35" frameWidth="213" frameHeight="213"/>
+    <SubTexture name="dial_pos_06" x="185" y="2" width="181" height="173" frameX="-15" frameY="-38" frameWidth="213" frameHeight="213"/>
+    <SubTexture name="dial_pos_07" x="185" y="177" width="179" height="175" frameX="-8" frameY="-34" frameWidth="213" frameHeight="213"/>
+    <SubTexture name="dial_pos_08" x="183" y="354" width="175" height="179" frameX="-3" frameY="-26" frameWidth="213" frameHeight="213"/>
+    <SubTexture name="dial_pos_09" x="2" y="543" width="173" height="181" frameX="-2" frameY="-16" frameWidth="213" frameHeight="213"/>
+    <SubTexture name="dial_pos_10" x="366" y="177" width="175" height="179" frameX="-3" frameY="-8" frameWidth="213" frameHeight="213"/>
+    <SubTexture name="dial_pos_11" x="551" y="2" width="179" height="177" frameX="-8" frameY="-2" frameWidth="213" frameHeight="213"/>
+</TextureAtlas>

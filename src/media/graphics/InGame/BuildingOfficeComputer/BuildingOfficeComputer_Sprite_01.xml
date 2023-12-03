@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ddff24646ebceb8e7799bfa1dab79706:6b687eeb25328bd20b25b30d0ce7ba06:1faf3526031aed1e3ab20ac3d2a736e1$ -->
+<TextureAtlas imagePath="BuildingOfficeComputer_Sprite_01.png">
+    <SubTexture name="highlight_rect" x="2" y="810" width="237" height="51"/>
+    <SubTexture name="horizon_page_00" x="443" y="804" width="421" height="385" frameX="-25" frameY="-13" frameWidth="469" frameHeight="413"/>
+    <SubTexture name="horizon_page_01" x="443" y="417" width="421" height="385" frameX="-25" frameY="-13" frameWidth="469" frameHeight="413"/>
+    <SubTexture name="knub_00" x="984" y="53" width="38" height="49"/>
+    <SubTexture name="knub_01" x="944" y="2" width="38" height="50"/>
+    <SubTexture name="knub_02" x="944" y="54" width="36" height="50"/>
+    <SubTexture name="knub_03" x="984" y="2" width="38" height="49"/>
+    <SubTexture name="page_accelerator" x="473" y="2" width="469" height="413"/>
+    <SubTexture name="page_budget" x="2" y="417" width="439" height="391" frameX="-26" frameY="-10" frameWidth="469" frameHeight="413"/>
+    <SubTexture name="page_containment" x="2" y="2" width="469" height="413"/>
+</TextureAtlas>

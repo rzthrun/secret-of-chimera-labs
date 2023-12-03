@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:99c80ae0dc47c68cad04d2c1dd009b29:619182b2ac02bef452c12c344afa3be6:4ae29854e10b20bb12289e36d7d67d83$ -->
+<TextureAtlas imagePath="InvenDetails_SpriteSheet_v004.png">
+    <SubTexture name="inven_detail_bookAsimov" x="2" y="2" width="160" height="196" frameX="-18" frameY="0" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_bookClarke" x="164" y="2" width="196" height="190" frameX="0" frameY="-2" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_bookHeinlein" x="362" y="2" width="166" height="196" frameX="-12" frameY="0" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_bookOrwell" x="530" y="2" width="174" height="196" frameX="-8" frameY="0" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_bookSagan" x="706" y="2" width="196" height="196"/>
+    <SubTexture name="inven_detail_bottleG" x="2" y="200" width="196" height="196"/>
+    <SubTexture name="inven_detail_coffeePotFull" x="200" y="200" width="184" height="196" frameX="-3" frameY="0" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_controller" x="386" y="200" width="194" height="188" frameX="-1" frameY="-3" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_drill" x="582" y="200" width="196" height="186" frameX="0" frameY="-3" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_fuseGreen" x="780" y="200" width="194" height="188" frameX="0" frameY="-3" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_gasMask" x="2" y="398" width="196" height="196"/>
+    <SubTexture name="inven_detail_hdd" x="200" y="398" width="196" height="190" frameX="0" frameY="-1" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_pearlGreen" x="398" y="398" width="166" height="166" frameX="-16" frameY="-13" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_slide" x="566" y="398" width="194" height="196" frameX="0" frameY="0" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_smallKey" x="762" y="398" width="130" height="134" frameX="-43" frameY="-30" frameWidth="196" frameHeight="196"/>
+    <SubTexture name="inven_detail_syringeFull" x="2" y="596" width="194" height="194" frameX="-2" frameY="-2" frameWidth="196" frameHeight="196"/>
+</TextureAtlas>

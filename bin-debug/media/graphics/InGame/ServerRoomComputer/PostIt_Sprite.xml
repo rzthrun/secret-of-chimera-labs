@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:77b1512e9e215244167550cccf47354f:c33e03e9edbdb59b0b5ea1c7a3c9a383:34f474264268cb5914c6eef89007b09d$ -->
+<TextureAtlas imagePath="PostIt_Sprite.png">
+    <SubTexture name="postitnote_page_00" x="2" y="2" width="498" height="464" frameX="-136" frameY="-18" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>

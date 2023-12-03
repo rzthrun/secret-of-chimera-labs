@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:dafb4ed2d4c548422ff2381efdf76471:deb37406d31b3f1d615f39a6e63453fc:5faec061574eeff978810f7952a97d88$ -->
+<TextureAtlas imagePath="Elevator_Sprite_02.png">
+    <SubTexture name="bg_1st_floor" x="255" y="376" width="251" height="372"/>
+    <SubTexture name="bg_2nd_floor" x="2" y="376" width="251" height="372"/>
+    <SubTexture name="bg_3rd_floor" x="255" y="2" width="251" height="372"/>
+    <SubTexture name="bg_3rd_floor_doorClosed" x="2" y="2" width="251" height="372"/>
+    <SubTexture name="elevator_bg" x="2" y="750" width="100" height="64"/>
+</TextureAtlas>

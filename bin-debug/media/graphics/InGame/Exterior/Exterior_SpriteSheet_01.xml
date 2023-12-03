@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d7029af2a21300d4f99ffcc3cca797b0:17bd27f3ce797c33d91356afebc15b29:8733d93244c904e0332178ba6f868cfd$ -->
+<TextureAtlas imagePath="Exterior_SpriteSheet_01.png">
+    <SubTexture name="door_frame_00" x="2" y="241" width="122" height="103"/>
+    <SubTexture name="door_frame_01" x="126" y="136" width="122" height="103"/>
+    <SubTexture name="door_frame_02" x="2" y="136" width="122" height="103"/>
+    <SubTexture name="door_frame_03" x="247" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="122" frameHeight="103"/>
+    <SubTexture name="marquee_00" x="247" y="2" width="1" height="1" frameX="0" frameY="0" frameWidth="243" frameHeight="132"/>
+    <SubTexture name="marquee_01" x="2" y="2" width="243" height="132"/>
+    <SubTexture name="rear_car_lid" x="126" y="241" width="31" height="12"/>
+</TextureAtlas>

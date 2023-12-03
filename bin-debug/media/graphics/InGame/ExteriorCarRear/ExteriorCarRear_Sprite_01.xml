@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4cc8bfdd8008124edb1ffefddca4b42f:9da4335504b68e06fd1a24671f15ade4:4e50ca58758e50ceb3d33bc8a29b1805$ -->
+<TextureAtlas imagePath="ExteriorCarRear_Sprite_01.png">
+    <SubTexture name="case_closed" x="2" y="122" width="317" height="223"/>
+    <SubTexture name="case_open" x="2" y="2" width="361" height="118"/>
+    <SubTexture name="gas_mask" x="2" y="347" width="213" height="133"/>
+    <SubTexture name="stone_covered" x="217" y="347" width="99" height="105"/>
+    <SubTexture name="stone_empty" x="365" y="109" width="99" height="105"/>
+    <SubTexture name="stone_uncovered" x="365" y="2" width="99" height="105"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2485e814aa89def51c8f9e21853bb806:ff419c63c288ef567425bfb8412e11de:fabf0bddeb7d884a3ba30da7175b4f69$ -->
+<TextureAtlas imagePath="LiftElevator_Sprite_01.png">
+    <SubTexture name="button_down" x="2" y="2" width="87" height="86"/>
+    <SubTexture name="button_up" x="91" y="2" width="87" height="85"/>
+    <SubTexture name="gate_closed" x="2" y="90" width="427" height="512"/>
+    <SubTexture name="gate_open" x="2" y="604" width="257" height="512" frameX="-169" frameY="0" frameWidth="427" frameHeight="512"/>
+    <SubTexture name="liftElevator_bg" x="261" y="604" width="200" height="128"/>
+    <SubTexture name="lift_hood" x="2" y="1118" width="378" height="512" frameX="-422" frameY="0" frameWidth="800" frameHeight="512"/>
+</TextureAtlas>
